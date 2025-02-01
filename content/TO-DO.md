@@ -1,9 +1,3 @@
----
-title: Loggers and Larders, Leaders and Losers
-description: A tabletop campaign for a bunch of Baltimorons
----
-
-## TO-DO
 Immediate Timeline
 - Day 2 (Sunday):
 	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)
