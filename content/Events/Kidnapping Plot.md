@@ -1,4 +1,4 @@
-*August 30, 0223*
+###### *August 30, 0223*
 By order of [[The Berendsen Family]], [[Rhedda Blud]] and [[Knick]] have kidnapped [[Esmellia Leek]] in order to fulfill the bounty put out by [[TEMP: Esmellia's Fiance]]
 
 ### Setup

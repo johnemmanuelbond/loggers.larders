@@ -1,11 +1,11 @@
-*August 23, 0223*
+###### *August 23, 0223*
 Several Lumberjacks have gone missing from [[Milton]] over the past few weeks, most recently [[Frieder Harkensson]] carrying [[July's Locket]]. The party must venture through the logging trails to find the culprit.
 
 ### Instigation
-[[Esmellia Leek]], do-gooder as she is, contracts a party of adventurers staying in the Startled Starling Inn in [[Milton]]. Offering to pay 32 gold to the four of them if they can find and retrieve [[Frieder Harkensson]] or his wife's [[July's Locket|Locket]].<
+[[Esmellia Leek]], do-gooder as she is, contracts a party of adventurers staying in the Startled Starling Inn in [[Milton]]. Offering to pay 32 gold to the four of them if they can find and retrieve [[Frieder Harkensson]] or his wife's [[July's Locket|Locket]].
 
 ### Exposition around town
-Talking to [[June Sturgil]], or [[Moser Wilderly]] reveals that all the logger's found of [[Frieder Harkensson|Frieder]]] was a left boot with a little slime on it.
+Talking to [[June Sturgil]], or [[Moser Wilderly]] reveals that all the logger's found of [[Frieder Harkensson|Frieder]] was a left boot with a little slime on it.
 
 [[July Harkensson]], [[Esmellia Leek]], and [[June Sturgil]] know about the cultural significance of [[July's Locket]] as a symbol of peace between the [[Aire Nomads|Aire]] and the [[Harport Colonials|colonials]].
 

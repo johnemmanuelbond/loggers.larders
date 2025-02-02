@@ -1,4 +1,4 @@
-For outlining the events leading to the night of one moon.
+###### For outlining the events leading to the night of one moon.
 
 ## Preamble
 
@@ -6,15 +6,15 @@ For outlining the events leading to the night of one moon.
 [[Harald Brightbrow]] and [[Grendelle the Grotesque]] are scheming to release a plant monster on to the unwitting residents of [[Milton]]. They hope that this will fester resentment between the Southern [[Aire Nomads|Aire]] and the [[Harport Colonials||colonials]]. Grendelle just wants revenge against both groups for the death of her [[Old Hag|"mother"]]. [[Harald Brightbrow|Harald]] wants to exploit the power vacuum to aid in his play for control of [[Harport]].
 
 ### T-7
-*August 23, 0223 of the 2nd Dynasy*
+###### *August 23, 0223 of the 2nd Dynasty*
 The [[Player Party|party]] resolves the [[Dretch Abductions]], accidentally escorting the bewitched [[Frieder Harkensson]] back to town. Before most villagers are awake, a [[Grendelle the Grotesque|mysterious Aire]] in disguise plants the Red Seed in town center. Afterwards she places [[June Sturgil]] under a compulsion to throw the best ever festival no matter the circumstance! The [[Elias Wood|Wood]] [[Mimi Wood|siblings]] see the stranger go in, and glimpses the color of her satchel.
 
 ### T-6
-*August 24, 0223 of the 2nd Dynasy*
+###### *August 24, 0223*
 The party leaves Milton to track down the woods woman. June Sturgil oversees food shipments into Milton for the festival, she seems a little more sluggish than usual. People comment on how she seems more comfortable because last year she was so stressed. The party arrives in [[Fowl Camp]] and feasts with [[Trukgoh Honkhonk Largoson]].
 
 ### T-5
-*August 25, 0223 of the 2nd Dynasy*
+###### *August 25, 0223*
 Duty auction: [[Prim Vosdottir]], [[Elias Wood]], [[Wilson Fit]], and [[July Harkensson]] bid for preparing the roast beast, other dishes going out include honey cakes, fish and cabbage stew, cinnamon porridge, Roasted sunsquash, a mushroom sampler from the Northern [[Aire Nomads|Aire]], and pepper-pickles imported from [[Mardwythe]].
 
 More comments on June Sturgil's off-character demeanor. In particular, [[Moser Wilderly]] and [[Old Gran Mimsdottir]] are worried.
@@ -22,25 +22,25 @@ More comments on June Sturgil's off-character demeanor. In particular, [[Moser W
 The party reaches [[Grendelle's Valley]] and camps on the ridge.
 
 ### T-4
-*August 26, 0223 of the 2nd Dynasy*
+###### *August 26, 0223*
 Lumber arrives and is prepped for the festival, townspeople start to decorate.
 
 The party encounters the ancient tomb and reaches [[Grendelle the Grotesque|Grendelle's]] lair beneath the tree of hands. The party barely escapes Grendelle's trap and rests within the newt tunnels.
 
 ### T-3
-*August 27, 0223 of the 2nd Dynasy*
+###### *August 27, 0223*
 [[Fleance Flycatcher]] returns to town, banquet tables are laid out in town square.
 
 About midday, the party emerges from the newt tunnels on a hill southwest of the alpine lake.
 
 ### T-2
-*August 28, 0223 of the 2nd Dynasy*
+###### *August 28, 0223*
 Party spends the day walking back to Milton, resting in the forest.
 
 ## The Festival Itself
 
 ### Sole's Eve
-*August 29, 0223 of the 2nd Dynasy*
+###### *August 29, 0223*
 Decorations are complete, the town is awash with lovely smells, the festival is incoming! Around 2pm, and exhausted after having been accosted by lemmings, the [[Player Party|party]] re-enters Milton from the south.
 
 Afternoon:
@@ -67,7 +67,7 @@ In Session:
 - The party interrupts the play rehearsal to warn old gran. Then they get the outline of the play and the broad strokes of the story of [[Shae]], [[Harken Keelmender|Harken]]and the [[Old Hag]]
 
 ### The Day of Sole Moon
-*August 30, 0223 of the 2nd Dynasy*
+###### *August 30, 0223*
 Bright and early in the morning, reinforcing soldiers ride into town (1 veteran and 5 quards, each with a level of exhaustion). They are led by the gruff and serious Captain Jesper Fring, and older man, clean-shaven and clad in pristine armor. Jesper can be seen conversing with Silvoy, and agreeing to take a secondary role, at least until any fighting breaks out.
 
 After breakfast the whole town gathers in the town square for the quilt competition.
