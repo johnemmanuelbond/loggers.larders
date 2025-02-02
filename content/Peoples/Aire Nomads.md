@@ -1,3 +1,4 @@
+*Parent: [[Original Diaspora]]*
 ## Overview
 
 The Aire Nomads are a rugged tundra people with some isolated communities living in the southern forests and mountains. The Aire practice ancestor and spirit worship, have very limited contact with the Taiga elves, and have a deep but clouded cultural memory of domination under the [[Ancient Merlings]], causing them to fear the sea. The Aire distinguish between the light-wood and the dark-wood, and fear to venture where hags dwell.
