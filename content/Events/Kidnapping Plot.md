@@ -1,5 +1,5 @@
 ###### *August 30, 0223*
-By order of [[The Berendsen Family]], [[Rhedda Blud]] and [[Knick]] have kidnapped [[Esmellia Leek]] in order to fulfill the bounty put out by [[TEMP: Esmellia's Fiance]]
+By order of [[The Berendsen Family]], [[Rhedda Blud]] and [[Knick]] have kidnapped [[Esmellia Leek]] in order to fulfill the bounty put out by [[TEMP Esmellia's Fiance]]
 
 ### Setup
 During [[The Day of Sole Moon]], [[Rhedda Blud|Rhedda]] and [[Knick]] used the chaos to knock out and carry away [[Esmellia Leek]] during the only moment when [[Prim Vosdottir]] was preoccupied. In the night they fled, by horse, to the [[Harport]] race track, (meeting at the ag outskirts through sending stone) where [[The Berendsen Family]] has a safe house.

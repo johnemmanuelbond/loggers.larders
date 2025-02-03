@@ -8,4 +8,4 @@ description: A tabletop campaign for a bunch of Baltimorons
 ![[TO-DO]]
 
 
-![[Loggers and Larders, Leaders and Losers]] 
+![[Campaign Intro]] 
