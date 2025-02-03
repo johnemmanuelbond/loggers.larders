@@ -1,3 +1,0 @@
-```statblock
-creature: Polar Bear
-```
