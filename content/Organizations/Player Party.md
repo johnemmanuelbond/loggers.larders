@@ -18,7 +18,7 @@ A loveable gang of knuckleheads
 
 - Speared trout pin: 1gp (or 10 to a berendsen)
 
-- 5 Cartographer's signets (1Gp each, but they're magically traceable to them)
+- 5 [[Harport Cartographer's Guild|Cartographer]]'s signets (1Gp each, but they're magically traceable to them)
 - 1 Cartographer's kit (extra vellum, ink and quills, compass)
 
 - Broken Solton Seal
@@ -27,11 +27,11 @@ A loveable gang of knuckleheads
 
 ### Members
 
-| Member                        | Role    | Superior |
-| ----------------------------- | ------- | -------- |
-| [[Bartholomood]]              | Bard    | <br>     |
-| [[John Moore]]                | Cleric  |          |
-| [[Kargoe Bepbiep Trukgohson]] | Paladin |          |
-| [[Petunia]]                   | Fighter |          |
-| [[Rivka]]                     | Druid   |          |
+| Member                        | Role    |
+| ----------------------------- | ------- |
+| [[Bartholomood]]              | Bard    |
+| [[John Moore]]                | Cleric  |
+| [[Kargoe Bepbiep Trukgohson]] | Paladin |
+| [[Petunia]]                   | Fighter |
+| [[Rivka]]                     | Druid   |
 

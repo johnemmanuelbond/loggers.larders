@@ -1,1 +1,0 @@
-A mercenary guild out of [[Harport]], while not too big, their existence could tip the balance of power between [[Fort Solton]] and the [[Andradoran Exports Coopertive]].

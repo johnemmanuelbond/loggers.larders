@@ -1,0 +1,5 @@
+###### Male, [[Andradorans]], 53
+###### Location(s): [[Harport]], [[Andradora]]
+Living lavishly as a transcontinental boat captain Manfred has become quite wealthy, and significantly fatter, since his youth in [[Andradora]]. He is the gallant captain of the [[Skipping Seal]]. Behind his bright smile, rotund frame, jolly persona, and magnificent handlebar moustache, Manfred is actually quite the corrupt scoundrel. For enough coin he is willing to look the other way as all sorts of nefarious cargo makes the voyage to and from Andradora.
+
+Manfred is a rotund man who wears a navy blue jacket, white pantaloons, tall black boots, and a frilled hat. Standing at only 5'5" and armed with only a fine saber, his presence is nonetheless morale-boosting to his crew, who have come to respect and love their captain... despite his silliness.

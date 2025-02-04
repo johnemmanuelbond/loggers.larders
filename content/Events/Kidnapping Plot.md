@@ -1,13 +1,13 @@
 ###### *August 30, 0223*
-By order of [[The Berendsen Family]], [[Rhedda Blud]] and [[Knick]] have kidnapped [[Esmellia Leek]] in order to fulfill the bounty put out by [[TEMP Esmellia's Fiance]]
+By order of the [[Berendsen Family]], [[Rhedda Blud]] and [[Knick]] have kidnapped [[Esmellia Leek]] in order to fulfill the bounty put out by [[TEMP Esmellia's Fiance]]
 
 ### Setup
-During [[The Day of Sole Moon]], [[Rhedda Blud|Rhedda]] and [[Knick]] used the chaos to knock out and carry away [[Esmellia Leek]] during the only moment when [[Prim Vosdottir]] was preoccupied. In the night they fled, by horse, to the [[Harport]] race track, (meeting at the ag outskirts through sending stone) where [[The Berendsen Family]] has a safe house.
+During [[The Day of Sole Moon]], [[Rhedda Blud|Rhedda]] and [[Knick]] used the chaos to knock out and carry away [[Esmellia Leek]] during the only moment when [[Prim Vosdottir]] was preoccupied. In the night they fled, by horse, to the [[Harport]] race track, (meeting at the ag outskirts through sending stone) where the [[Berendsen Family]] has a safe house.
 
 The next ship bound for [[Andradora]] leaves in 10 days. In this time they need to secure covert passage on the ship and prevent Esmellia's escape attempts.
 
 ### Knick's Plan
-Since the [[The Berendsen Family]] are aware of the [[Spearfishers]]' smuggling, Knick hopes to use this as cover. Work with [[Kaire Knobloch]] to organize a bust on board the Skipping Seal a week before it sets out. After the watch is finished searching the ship and finding evidence of the [[Manfred Mackle|captain]]'s involvement with the (actually pretty benign) smugglers, Kaire will use the opportunity to seize the captaincy. Then, with the aid of a few corrupt watchpeople, himself and Rhedda will sneak Esmellia onto the boat when the authorities least suspect it. Knick doesn't particularly care that this will spark conflict between the Spearfishers and the Berendsens, and Rhedda is just in it for the excitement.
+Since the [[Berendsen Family]] are aware of the [[Spearfishers]]' smuggling, Knick hopes to use this as cover. Work with [[Kaire Knobloch]] to organize a bust on board the Skipping Seal a week before it sets out. After the watch is finished searching the ship and finding evidence of the [[Manfred Mackle|captain]]'s involvement with the (actually pretty benign) smugglers, Kaire will use the opportunity to seize the captaincy. Then, with the aid of a few corrupt watchpeople, himself and Rhedda will sneak Esmellia onto the boat when the authorities least suspect it. Knick doesn't particularly care that this will spark conflict between the Spearfishers and the Berendsens, and Rhedda is just in it for the excitement.
 
 ### Esmellia's Escape Attempts
 

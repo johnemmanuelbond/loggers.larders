@@ -2,15 +2,21 @@ The [[Harport]] Cartographer's guild is a relatively small organization of wayfi
 
 ### Members
 
-| Character             | Role      | Superior              |
-| --------------------- | --------- | --------------------- |
-| [[Alberta de Genne]]  | Wayfinder | [[Ambrose Pence]]     |
-| [[Ambrose Pence]]     | Headman   |                       |
-| [[August Harkensson]] | Headman   |                       |
-| [[Gil Bert]]          | Adjunct   | [[August Harkensson]] |
-| [[Kashmir Jing]]      | Seafarer  | [[August Harkensson]] |
-| [[Lazio Donjon]]      | Wayfinder | [[August Harkensson]] |
-| [[Lucille]]           | Adjunct   | [[Ambrose Pence]]     |
-| [[Philharmony Korn]]  | Liason    |                       |
-| [[Sechen Zhan]]       | Wayfinder | [[Ambrose Pence]]     |
-| [[Eliza]]             | Secretary |                       |
+| Character                     | Role      | Superior              |
+| ----------------------------- | --------- | --------------------- |
+| [[Alberta de Genne]]          | Wayfinder | [[Ambrose Pence]]     |
+| [[Ambrose Pence]]             | Headman   |                       |
+| [[August Harkensson]]         | Headman   |                       |
+| [[Gil Bert]]                  | Adjunct   | [[August Harkensson]] |
+| [[Kashmir Jing]]              | Seafarer  | [[August Harkensson]] |
+| [[Lazio Donjon]]              | Wayfinder | [[August Harkensson]] |
+| [[Lucille]]                   | Adjunct   | [[Ambrose Pence]]     |
+| [[Philharmony Korn]]          | Liason    |                       |
+| [[Moirah]]                    | Treasurer |                       |
+| [[Sechen Zhan]]               | Wayfinder | [[Ambrose Pence]]     |
+| [[Eliza]]                     | Secretary |                       |
+| [[John Moore]]                | Recruit   | [[Lucille]]           |
+| [[Bartholomood]]              | Recruit   | [[Lucille]]           |
+| [[Petunia]]                   | Recruit   | [[Lucille]]           |
+| [[Rivka]]                     | Recuit    | [[Lucille]]           |
+| [[Kargoe Bepbiep Trukgohson]] | Recruit   | [[Lucille]]           |
