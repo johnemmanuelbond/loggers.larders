@@ -1,3 +1,0 @@
-###### Male, [[Northern Dwarves]], 161
-###### Location(s): [[Harport]]
-The head of the [[Harport Mason's Guild]], Mandrake has a powerful and boisterous presence. An inevitable father figure to every guild member, his hefty dwarven frame boasts long braided black hair and a similarly long and braided beard with silver rings hanging from it. He carries a smith's hammer and wears a dirty apron on top of a simple gray tunic and trousers.

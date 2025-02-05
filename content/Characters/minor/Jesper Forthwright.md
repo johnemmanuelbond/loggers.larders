@@ -1,0 +1,3 @@
+###### Male, [[Harport Colonials]], 65
+###### Location(s): [[Harport]], [[The Citadel]]
+The head of the [[Harport City Watch]] and member of the [[Harport Diet]], Jesper is an aging halfling with a chip on his shoulder. He isn't taken seriously by his underlings and yet (supposedly) wields executive power over them. He's 2 years into a 3 year term and has nothing to show for it. He wears a gilded green waistcoat, a pressed shirt and pants (a neutral beige color) and a golden pocketwatch. His white hair has a bald spot on top and he keeps a meticulously oiled white moustache, which contrasts with his dark skin.

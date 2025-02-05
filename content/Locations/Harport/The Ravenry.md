@@ -1,0 +1,4 @@
+###### Parent: [[Town Center]],[[Harport]]
+A circular stone brick building with two main doors, each with a watchperson posted outside. There is a second level made of mostly thatch and wood which just completely covered in bird shit. The second level has numerous cubbies and windows all around and you hear just a racket of cawing mixed with in a few grunts and barks. Inside there are desks dotting the outer walls with helpfully supplied ink, quills, and wax. There is a center desk with about 10 clerks which help people address their letters, and will send them upstairs to for a fee of 5cp. Upstairs a team of [[Crump and Kwash|two druids]] (and a dog to scare cats away) sends letters via animal messenger to the various settlements around [[Harken's Sound]].
+
+When the party enters, there is a woman panickedly asking a clerk if they have any letters from a Brayden, posted to [[Milton]]. He was about to be a knight!

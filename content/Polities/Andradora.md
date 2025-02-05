@@ -11,7 +11,7 @@ The foremost power on [[Mardwythe]]
 Original religion is ancestor worship, where the spirit of their founder is most revered.
 
 The founding "[[Mage-King]]" of andradora is kinda like the inca mummies, however he's still alive in there and his spirit still governs the realm:
-- master of blood magic, reckless summoner of [[beylondlings]]
+- master of blood magic, reckless summoner of [[Beyondlings]]
 - one of the few people to know about pan
 - long ago he hid the disc of pan under a continent-wide enchantment so that you can only see it from the capital.
 - only a hobbyists interest in the scattered mentions of [[Ancient Merlings|Merling]] history

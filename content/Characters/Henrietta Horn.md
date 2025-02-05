@@ -1,3 +1,0 @@
-###### Female, [[Gnomes]]/[[Harport Colonials]], 65
-###### Location(s): [[Harport]]
-Granddaughter of the ferryman [[Hubert Horn]], Henrietta is relatively young for a Gnome. While her cherry cheeks and button nose betray her youth and naiveite, Henrietta nonetheless possesses a sharp wit and keen curiosity for the history of the land her family now calls home. Inducted into the [[Knowing Shepherds]] by [[Fleance Flycatcher]], she's working alongside him to discern whether the ancient [[Aire Nomads|Aire]] and [[Northern Dwarves|Dwarves]] had any historical contact. They are transcribing Aire oral traditions and attempting to gain access to old Dwarven records, though both tasks are proving challenging.

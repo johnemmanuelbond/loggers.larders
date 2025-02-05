@@ -1,0 +1,16 @@
+The ferry system is the lifeblood of [[Harport]], hundreds to thousands of people use these services to traverse the city daily.
+
+**[[Town Center]] to[[ Guild Quarter]]:** 5cp, every 30 min, each boat holds up to 60 people (usually about 30). This ferry operates between the hours of _ and _ and is a two-layered barge powered by 15 rowers.
+- Lead Ferrimen: Kreia Marmot: 35 year old human. Long braided auburn hair, brown eyes, wears big galoshes and the standard green tunic that denotes Harport officials.
+- Tom Trunket is a 38 year old half-dwarf with dark brown muttonchops and a mullet. He usually goes barefoot on the boat and has thick calloused skin, all over. Kind of reminds you of [[Mork]].
+- Urli Brightbrow is a distant relation of the [[Harald Brightbrow|grandmaster]] at [[Fort Solton]]. Like his cousin he has dark eyes, cream skin, and round features. Unlike his cousin he is not notably tall but still has a dirty blond look to his hair. Urli is only 41 compared to his cousin's 63.
+- Emmon Crewe is only 27 years old and is an orange-skinned tiefling with no hair and a crest of grey horns. He has kind blue eyes and a charming accent.
+
+**[[Fish Market]] to Fisher-Folk residences:** 2cp, Every 10 min, each boat holds 30 people. (Usually filled). This ferry is pulled by a team of seals which Giannis seems to be able to talk to!
+- Ferrimen: Giannis Cornwallis is a 63 year old (red-skinned) hobgoblin man with a proud demeanor and deep voice. He's been working this ferry for his whole life and won't let anyone take it from him. His thick hair is graying (including some impressive sideburns) and his yellow eyes are fading. He wears heavy black overalls and a thin white-linen shirt.
+
+**[[Andradoran Exports Cooperative|AEC]] offices to dockyards**: 1gp (free with AEC signet), Every 1 hr, each boat holds up to 100 people (usually about 20).These ferries utilize technology based on trapped water elementals.
+- Ferrimen: Fanny Mcbride and Manny Mcbride (brother) a pair of [[Andradora|Andradoran]] magic initiates who run the ferry and maintain the enchantment. Their features, while mostly human, have a little bit of water genasi coming through. Their brown skin betrays a little sea green and the whites of their eyes show a little oceanic reflection in the right light. Other than that they wear the standard AEC purple coats and brown trousers.
+
+**Ag sector to [[Guild Quarter]]** (aka Syng's barge, the River Rider): 2cp: once a day at 8:00 am and 6:00 pm,  2gp for a month's pass. This ferry is actually operated via a huge winch and chain operated by oxen and goes up and down Syng's stream. The ride takes 20min and the barge can hold up to 200 commuters.
+- Ferrimen: [[Hubert Horn]] is an extremely old and stubbornly straight-laced [[Andradorans|Andradoran]] gnome who runs this whole operation. Designed and built up the initial winch alongside Syng herself in the years following Shae's death. Nowadays, Hubert keeps a mostly [[Aire Nomads|Aire]] staff and they make a killing shuffling commuters to and fro. Hubert's upstandingness is an annoyance to the [[Berendsen Family|Berendsens]], who have never been able to use his barge for smuggling.

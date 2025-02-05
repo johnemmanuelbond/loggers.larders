@@ -3,7 +3,7 @@
 ## Preamble
 
 ### Background
-[[Harald Brightbrow]] and [[Grendelle the Grotesque]] are scheming to release a plant monster on to the unwitting residents of [[Milton]]. They hope that this will fester resentment between the Southern [[Aire Nomads|Aire]] and the [[Harport Colonials||colonials]]. Grendelle just wants revenge against both groups for the death of her [[Old Hag|"mother"]]. [[Harald Brightbrow|Harald]] wants to exploit the power vacuum to aid in his play for control of [[Harport]].
+[[Harald Brightbrow]] and [[Grendelle the Grotesque]] are scheming to release a plant monster on to the unwitting residents of [[Milton]]. They hope that this will fester resentment between the Southern [[Aire Nomads|Aire]] and the [[Harport Colonials||colonials]]. Grendelle just wants revenge against both groups for the death of her [[Old Hag|"mother"]]. Harald wants to exploit the power vacuum to aid in his play for control of [[Harport]].
 
 ### T-7
 ###### *August 23, 0223 of the 2nd Dynasty*

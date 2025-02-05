@@ -1,0 +1,6 @@
+###### Parent: [[Harport]]
+Similar to the Old City, town center benefitted from the rebuilding efforts after 0125. In particular, the Common Ground Theater was significantly expanded and Market Square (formerly dirt) was paved with stones. However, the rest of town center reemerged more quickly than the city could plan, and here the streets and buildings vary periodically between Nordwythan and Mardwythan styles and materials. Market square is the beating heart of the city, where most of the minstrels and peddlers come to sell their wares. The City Watch patrols town center, but does not maintain a heavy presence (intentionally) but everybody knows they're only a few blocks away should chaos strike. While Market St. and The Axel retain the wide roadways characteristic of the Old City, most alleys and cut-throughs in the town center are spaghettified and meandering, only barely traversable by carriage.
+- Draw: Market Square
+- Lodging: The Merry Cherry 6sp/night
+- Recreation: The Common Ground Theater, Solar Temple, Ferrimen's Pier, The Ravenry
+- Shopping: [[Splenda Ferrous|Splendiferous Splendificous']] Magic Emporium
