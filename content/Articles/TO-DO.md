@@ -1,4 +1,9 @@
 Immediate Timeline
+
+Session Prep
+- Pigeon hole encounter note
+- Need a description of the skipping seal
+
 - Day 2 (Sunday):
 	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)
 	- Party at citadel (checks checks checks): Interface to Garut and Lynn, introduced to Sargent Rainidayas, assigned detective Mildred Melloy:  "Investigations on the birdfoot are hard, their presence is not appreciated. We'll put the word out on patrols, feel free to come back anytime and find me in my office."
@@ -9,7 +14,6 @@ Immediate Timeline
 	- players roll for esmellia (con save, persuasion check, wis save, investigation check)
 
 Future Session Prep:
-- Need a description of the skipping seal
 - add morian priest to npc list. Is she a grim sage? (based on john moore's vision)
 - Racetrack owner has it out for rivka, but only knows a druid did it, so wild shaping in view will kick off a series of events.
 

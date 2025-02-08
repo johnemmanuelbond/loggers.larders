@@ -10,7 +10,33 @@ Denoted by green tunics and a leather armor emblazoned with the famous bow and k
 
 ### Members
 
-| Member                 | Role      | Superior |
-| ---------------------- | --------- | -------- |
-| [[Jesper Forthwright]] | Chief     |          |
-| [[Mildred Melloy]]     | Detective |          |
+| Member                   | Role      | Superior               |
+| ------------------------ | --------- | ---------------------- |
+| [[Jesper Forthwright]]   | Chief     |                        |
+| Celia Jomila Quitra (Gn) | Inspector | [[Jesper Forthwright]] |
+| Kilmul Gravesson (H/A)   | Inspector | [[Jesper Forthwright]] |
+| Rainydayas Drake (H)     | Sargent   | Celia                  |
+| Doran Rowanson (A)       | Sargent   | Celia                  |
+| Ulia Ashglade (H)        | Sargent   | Celia                  |
+| Hildegard de Balbev (A)  | Sargent   | Kilmul                 |
+| Merek Corvidsdottir (A)  | Sargent   | Kilmul                 |
+| Telcar Wright (Tief)     | Sargent   | Kilmul                 |
+| [[Mildred Melloy]] (H)   | Detective |                        |
+| Monlayn Jubelath (H)     | Detective |                        |
+| Ukhund Underfury (D)     | Detective |                        |
+| Elwin Quitra (Gn)        | Detective |                        |
+| El'El (aara)             | Detective |                        |
+| Garut (A)                | Private   |                        |
+| Lynn (H)                 | Private   |                        |
+| Franz (H)                | Private   |                        |
+| Sara (H)                 | Private   |                        |
+| Oliver (H)               | Private   |                        |
+| Donald (H)               | Private   |                        |
+| Dwali (D)                | Private   |                        |
+| Oli (1/2)                | Private   |                        |
+| Alwel (H)                | Private   |                        |
+| Henning (A)              | Private   |                        |
+| Borgin (D)               | Private   |                        |
+
++5 more detectives
+x20 more privates
