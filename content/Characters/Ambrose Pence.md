@@ -45,4 +45,12 @@ As a token of good faith, Ambrose will direct the party to [[Zodiac Zop]] at the
 #### Statblock
 ```statblock
 creature: Ambrose Pence
+spells: #### Spellcasting. Ambrose is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. Ambrose has the following spells prepared
+- Cantrips (at will): _ray of frost, light, minor illusion_
+- 1st level (4 slots): _bless, detect evil and good, detect magic_
+- 2nd level (3 slots): _lesser restoration, zone of truth_
+- 3rd level (3 slots): _dispel magic, tongues_
+- 4th level (3 slots): _banishment, freedom of movement_
+- 5th level (2 slots): _flame strike, greater restoration_
+- 6th level (1 slot): _heroes' feast_
 ```

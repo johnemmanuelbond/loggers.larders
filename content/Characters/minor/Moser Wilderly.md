@@ -1,0 +1,3 @@
+###### Male, [[Harport Colonials]], 44
+###### Location(s): [[Milton]]
+The strong-willed and short-tempered headman of the [[Milton Logger's Guild]]. A rather short, but powerfully built man, Moser wears the usual green tunic and brown trousers of a local logger. Moser is the representative of the local workers and often fights back against the high demand from the [[Andradoran Exports Cooperative]] in order to keep his fellow townies healthy and happy.

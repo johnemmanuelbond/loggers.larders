@@ -1,0 +1,2 @@
+###### Parent: [[Mardwythe]]
+A large sea which splits the western side of [[Mardwythe]]. While the northern shores have been nominally subjugated by [[Andradora]], the arid southern shores retain independence.

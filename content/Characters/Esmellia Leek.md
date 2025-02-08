@@ -7,3 +7,14 @@ Esmellia Leek (Esme Landros) is the daughter and scion of a prestigious magical 
 
 #### Founding the Startled Starling
 Meeting Fleance on the ship turned out to be a stroke of luck for Esmellia. Not only is Fleance a rare bird who can actually keep up with Esmellia's wit, but his generally spooky appearance draws the eyes of anyone who would otherwise notice her striking appearance. Together they bummed around the hostels of [[Birdfoot]] for a while, pursued some of Fleance's leads together, got mixed up with the [[Berendsen Family]], and even briefly collaborated with [[Alberta de Genne]]. Eventually, fearful of her family's reach, Esmellia and her new lover [[Prim Vosdottir]] agreed to move to [[Milton]] in order to better hide Esmellia's identity, and to start a life together and founded the Startled Starling Inn.
+
+#### Statblock
+```statblock
+creature: Esmellia Leek
+spells: #### Spellcasting.
+Esmellia Leek is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Esmellia has the following sorcerer spells prepared
+- Cantrips (at will): _fire bolt, light, mage hand, thaumaturgy_
+- 1st level (4 slots): _disguise self, shield, feather fall, burning hands_
+- 2nd level (3 slots): _invisibility, suggestion_
+- 3rd level (3 slots): _fireball, fly_
+```

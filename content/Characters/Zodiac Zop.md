@@ -30,4 +30,11 @@ By flower's guard
 #### Statblock
 ```statblock
 creature: Zodiac Zop (Janus Pence)
+spells: #### Spellcasting. Zop is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. Zop has the following spells prepared
+- Cantrips (at will): _friends, vicious mockery, thaumaturgy,_
+- 1st level (4 slots): _detect magic, identify, charm person_
+- 2nd level (3 slots): _augury, locate object, suggestion_
+- 3rd level (3 slots): _dispel magic, remove curse, tongues_
+- 4th level (3 slots): _banishment, greater invisibility_
+- 5th level (1 slot): _legend lore_
 ```

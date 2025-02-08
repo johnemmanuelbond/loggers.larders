@@ -9,6 +9,7 @@ Immediate Timeline
 	- players roll for esmellia (con save, persuasion check, wis save, investigation check)
 
 Future Session Prep:
+- Need a description of the skipping seal
 - add morian priest to npc list. Is she a grim sage? (based on john moore's vision)
 - Racetrack owner has it out for rivka, but only knows a druid did it, so wild shaping in view will kick off a series of events.
 
@@ -44,7 +45,18 @@ Northern Continent
 - Dwarves have contact with empire 2 on the other side of the mountains
 - Need to develop elvish culture
 - Players may find pharael (elf) or Hagop (dwarf) in some ruins or something
-- Need a hostile island tribe to discourage sea travel, Harken must have bartered his way through
+- Flesh out calcar isles: Need a hostile island tribe to discourage sea travel, Harken must have bartered his way through
+- Write on Balkai and Lake Balkai (dwarven settlements)
+- Flesh out Eitheloth and elven civilization. Ruins of Elga Elluin on the shores of claw lake. Eitheloth is like nargothrond and more of a refuge/fortress than a city
+- Link nordwythe POIs to continent entry
+	- Brokenkeel fjords
+	- Ruined tower
+	- mountains of melian
+	- high/low taiga
+	- salt cave
+	- Shimmering Grove
+	- The Floes
+	- Wyfloe Delta
 
 Andradora:
 - Flesh out recent history: Just finished a civil war

@@ -9,3 +9,8 @@ The hypnosis ends at the end of the month regardless of whether the course of ac
 *SECRET* Each use turns the user's skin a little more green.
 
 ![[Charm.png]]
+
+#### Ownership
+1. [[Old Hag]]
+2. [[Grendelle the Grotesque]]
+3. [[John Moore]]

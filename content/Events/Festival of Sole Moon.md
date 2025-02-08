@@ -50,7 +50,7 @@ Afternoon:
 - [[Elias Wood|Elias]] and [[Mimi Wood]], [[Tyg Medick]] and [[Moser Wilderly]] are each preparing their competition-worthy sunsquash.
 
 Evening:
-- Two competing drinking parties take place at [[Walt's Inn|Walt's]] and the [[Startled Starling Inn]].
+- Two competing drinking parties take place at [[Walt|Walt's]] and the [[Startled Starling Inn]].
 - The squashmakers (and their entourage) all gather at Walt's to drunkely talk trash.
 - [[Wilson Fit]] brings a couple more [[Andradoran Exports Cooperative|AEC]] people to the startled starling alongside [[Silvoy Soot]]  and his soldiers, a wrestling competition starts which Prim has to win (??) to quell the crowd, [[Rhedda Blud]] competes while [[Knick]] slinks around the inn to scout out the best ways to kidnap Esmellia. Afterwards Prim and Wilson Fit go off to discuss a trade expedition to the [[Aire Nomads|Southern Aire Nomads]]
 - [[June Sturgil]] is working on paperwork at the town hall

@@ -1,0 +1,2 @@
+###### Parent: [[Nordwythe]], [[Harken's Sound]]
+Headquarters of the [[Knights of Termat]] on [[Nordwythe]]. Fort Solton guards the pass from [[The Floes]] into [[Harken's Sound]] by land. Any other land traversal would have to go through the treacherous foothills of the [[Mountains of Melian]].

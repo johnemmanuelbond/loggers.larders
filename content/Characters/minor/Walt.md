@@ -1,0 +1,3 @@
+###### Male, [[Harport Colonials]], 43
+###### Location(s): Milton
+The grumpy purveyor of Walts general store. He is short and strong looking--a former lumberjack--has dark skin and salt&pepper hair. Plainly-dressed, his biceps are barely contained by his tight green tunic and thick belt. While [[Tyg Medick]] is his competitor, he is oddly protective of her despite all his gripes to the contrary. Walt offers better deals than Tyg, but his demeanor often scares travelers away.

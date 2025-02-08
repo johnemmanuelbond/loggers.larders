@@ -4,11 +4,16 @@ Located on the tip of the [[Birdfoot]], the Guild Quarter houses the city's main
 - Lodging: The Toad's Goblet 5sp
 - Recreation: Watchhouse, Morning Stars HQ, The New Haven, Ferrimen's Wharf
 - Shopping: Basically anything you can ask for, make it up on the spot:
-	- The Pickled Peacock
+	- Peacocks and Parrots Boutique
+		- Georgia Magnolia (witch of the wastes-y)
+	- The Earnest Goose Tailor
+		- Swavli Surehand (nice dwarf, M65)
+		- Ernie Pink (lil grumpy, halgling M71)
 	- Frame Set and Match
-	- The Earnest Goose
 	- The Brass Screen
 	- Uppercuts
+		- Piper Ironbreath (matter-of-fact, dwarf F131)
+		- Olli, Bolli, Trolli, and Pez -> sons
 
 #### The New Haven
 | Ship                  | Destination      | Departure |
@@ -25,3 +30,17 @@ Located on the tip of the [[Birdfoot]], the Guild Quarter houses the city's main
 | Manly!                | [[Weir's Point]] | Sep. 13   |
 | Columbus              | [[Harport]]      | Sep. 20   |
 | Karen                 | [[Harport]]      | Sep. 21   |
+### Guildhalls
+
+###### Sigurd's workshop
+- A little outcropping attached to the chemist's guildhall
+- Stock
+	- Hummingbird - 300
+	- Animation frame - 5000
+	- Arrow-shield - 3000
+	- Visor - 500
+	- Silks - 600
+	- Borrowbands - 720
+	- Eversmoke - 800
+	- Bottled Breath - 150
+	- Sovereign Glue - 18000
