@@ -1,4 +1,4 @@
-###### Male, [[Andradorans]], 53
+###### *Male, [[Andradorans]], 53*
 ###### Location(s): [[Harport]], [[Andradora]], [[Guild Quarter|New Haven]]
 Living lavishly as a transcontinental boat captain Manfred has become quite wealthy, and significantly fatter, since his youth in [[Andradora]]. He is the gallant captain of the [[Skipping Seal]]. Behind his bright smile, rotund frame, jolly persona, and magnificent handlebar moustache, Manfred is actually quite the corrupt scoundrel. For enough coin he is willing to look the other way as all sorts of nefarious cargo makes the voyage to and from Andradora.
 

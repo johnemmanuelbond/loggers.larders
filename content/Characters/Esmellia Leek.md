@@ -1,4 +1,4 @@
-###### Female, [[Andradorans]], 36
+###### *Female, [[Andradorans]], 36*
 ###### Location(s): [[Milton]], [[Silverspire]]
 A strikingly beautiful golden-skinned tiefling with black horns and pointed teeth, but no tail. Esmellia runs the [[Startled Starling Inn]]--which mostly caters to [[Harport]] officials and [[Fort Solton]] soldiers travelling to and from Milton, as well as other travellers. Esmellia is a bit of a mystery around town, as she only moved in about 15 years ago, but her kindly nature and soft-spoken charm have earned her many admirers. While working, she wears a black pantsuit and white undershirt to compliment her features, and she seems to have endless energy as she bounces around between the bar, the concierge, and the kitchen.
 

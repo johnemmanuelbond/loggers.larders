@@ -1,4 +1,4 @@
-###### Female, [[Aire Nomads]]/[[Harport Colonials]], 199
+###### *Female, [[Aire Nomads]]/[[Harport Colonials]], 199*
 ###### Location(s): [[Grendelle's Valley]], [[Milton]], [[Harken's Sound]]
 The young "Daughter" of the [[Old Hag]]. The trueborn daughter of [[Shae]] and [[Harken Keelmender]] was in fact kidnapped from the first andradoran settlement after Harken's initial expedition. Since the Old Hag's slaying, her spirit has haunted/tutored the Grendelle into the malevolent force she is today. Obsessed with revenge, Grendelle lurks in the southern forest forging monsters and plotting to bring down everything Harken wrought.
 

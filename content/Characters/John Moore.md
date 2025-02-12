@@ -1,4 +1,4 @@
-###### Male, [[Andradorans]], 40-something
+###### *Male, [[Andradorans]], 40-something*
 ###### Location(s): [[Milton]],[[Harport]] 
 - human from Andradora
 - far traveler

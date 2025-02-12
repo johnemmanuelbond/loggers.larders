@@ -1,4 +1,4 @@
-###### The One True god
+###### *The One True god*
 The jealous and sadistic protector of the world. From its throne on the gas giant Panain it reigns as lord and holds closed the door to the shade beyond the shades. It is without fear, or shame, or remorse.
 - Pan, Baphomet imagery for chaos, horns, hedonism,
 - Baal, Satan,

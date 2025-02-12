@@ -1,4 +1,4 @@
-###### Male, [[Aire Nomads]]/[[Northern Dwarves]], very old
+###### *Male, [[Aire Nomads]]/[[Northern Dwarves]], very old*
 ###### Location(s): location
 An ancient Aire/Dwarven mixed blood. In days of yore, Mork made a pact with a vicious, but honorable, spirit of stone and rock. His ferocious patron acts as a foil to Mork's gentle nature. This combination turned him a folk hero in the minds of the ancestral Aire slaves under the [[Ancient Merlings|Ancient Merling]] empire. Representing a stoic connection to the land and an understanding that freedom is inevitable, Mork did many great deeds throughout a long (extended) life. Eventually his recklessness caught up with him and some spiteful Merling hired a powerful [[Old Hag|Hag]] to deal with him. Centuries later, this hag was defeated and destroyed by the combined efforts of [[Harken Keelmender]] and [[Shae]], and Mork's prison came into the ownership of a certain [[Grendelle the Grotesque]]
 

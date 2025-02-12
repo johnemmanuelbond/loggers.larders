@@ -1,21 +1,20 @@
-Immediate Timeline
-
 Session Prep
-- Pigeon hole encounter note
+- Pigeon hole encounter note (w/ map)
 - Need a description of the skipping seal
+- Flesh out racetrack using Keys to the Golden Vault
+- Racetrack owner has it out for rivka, but only knows a druid did it, so wild shaping in view will kick off a series of events.
+- John moore vision in a vial -> bloody cosmic horror
+- add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
 
+Immediate Timeline
 - Day 2 (Sunday):
 	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)
-	- Party at citadel (checks checks checks): Interface to Garut and Lynn, introduced to Sargent Rainidayas, assigned detective Mildred Melloy:  "Investigations on the birdfoot are hard, their presence is not appreciated. We'll put the word out on patrols, feel free to come back anytime and find me in my office."
 - Lunch at caverns.
 	- Fleance wants to follow up with Hubert Horn at some point (definitely sightings on the river ferry) Prim will go-with.
 	- Chaz heard from Bene "Flerb's hiding out at the pigeon hole, she said not to tell you though." "Just a little ways west from here, on dove street near gull"
 - Day 3:
 	- players roll for esmellia (con save, persuasion check, wis save, investigation check)
-
-Future Session Prep:
-- add morian priest to npc list. Is she a grim sage? (based on john moore's vision)
-- Racetrack owner has it out for rivka, but only knows a druid did it, so wild shaping in view will kick off a series of events.
+	- Party at citadel (checks checks checks): Interface to Garut and Lynn, introduced to Sargent Rainidayas, assigned detective Mildred Melloy:  "Investigations on the birdfoot are hard, their presence is not appreciated. We'll put the word out on patrols, feel free to come back anytime and find me in my office."
 
 Build out harport:
 - Finish writing history (include stuff about fire of 0125) Harport is about 200 years old (founded in 0003) (i.e. 1830's boston, 60k people).

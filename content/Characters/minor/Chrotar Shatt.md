@@ -1,4 +1,4 @@
-###### Male, [[Orcblood]], 67
+###### *Male, [[Orcblood]], 67*
 ###### Location(s): [[Harport]], [[Birdfoot]]
 An aging bugbear from the gladiator pits in northern [[Drudwythe]].
 

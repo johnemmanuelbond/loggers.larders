@@ -1,3 +1,3 @@
-###### Female, [[Harport Colonials]], 25
+###### *Female, [[Harport Colonials]], 25*
 ###### Location(s): [[Milton]]
 The young purveyor of Medicks general store. An easygoing young lady she has strawberry blonde hair most often tied in a messy bun, she wears a leather apron on top of a blue striped shirt and brown trousers. Tyg delights in flirting and teasing old [[Walt]], her neighbor and competitor... maybe there's something more going on?

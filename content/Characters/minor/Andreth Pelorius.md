@@ -1,4 +1,4 @@
-###### Female, [[Andradorans]], 124
+###### *Female, [[Andradorans]], 124*
 ###### Location(s): [[Harport]]
 An old and senile Andradoran Magus, Andreth has long abandoned the pursuit of power that defined her youth. These days she lives in a quaint apartment in the Market Square with her [[Hagop Koshgarian|protege]]. Andreth is an ancient-looking woman with shock-white hair and a maroon and gold shawl. Her green eyes appear clouded on most days, though she occasionally manifests her formerly piercing gaze.
 

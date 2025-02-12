@@ -1,4 +1,4 @@
-###### Female, [[Aire Nomads]], 68
+###### *Female, [[Aire Nomads]], 68*
 ###### Location(s): [[Milton]]
 An elderly Aire woman who most commonly wears a simple brown dress and a smock, Old Gran runs the apothecary in Milton. She mostly stays secluded but is known to host [[Esmellia Leek]] and [[Prim Vosdottir]] for tea on occasion, as well as [[June Sturgil]] and [[Wilson Fit]]. She also provides horsekeeping advice and guidance to [[Silvoy Soot]].
 

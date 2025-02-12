@@ -1,4 +1,4 @@
-###### Female, [[Harport Colonials]]/[[Humans]], 56
+###### *Female, [[Harport Colonials]]/[[Humans]], 56*
 ###### Location(s): [[Milton]]
 The austere judge of [[Milton]].
 

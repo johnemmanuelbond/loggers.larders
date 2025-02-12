@@ -5,7 +5,7 @@ The swampy coastal forest surrounding the town of [location:4814537]\u00a0and en
 *Subject to change:*<br>Level 2:
 - 1-5: [[Saber-Deer]]
 - 6-9: Bears
-- 10-14: Cave (w\/ 1d4+1 [[Glowworms]])
+- 10-14: Cave (w\/ 1d4+1 [[Lurid Worms]])
 - 15-19: [[Possessed Pelican]]
 - 20 - [[Grendelle the Grotesque|Grendelle]]
 
@@ -26,7 +26,7 @@ The party is stalked and attacked by a possessed mountain-lion. The lion will at
 #### Cave
 The party encounters a cave entrance, if they go in they find a slimy floor and are attacked by glowworms. One of the glowworms has a coin shining through it's belly. Flip the coin to get advice on a decision. player and dm roll, if the sum of rolls mod 3 equals zero the answer is right. Otherwise the answer is based on the dm's roll odd=tails, even=heads.
 
-![[Glowworms]]
+![[Lurid Worms]]
 
 #### Posessed Pelican
 The weakest-looking party member is attacked by the possessed pelican.

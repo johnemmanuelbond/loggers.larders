@@ -1,4 +1,4 @@
-###### [[Sphinxes|Sphinx]], [[Andradorans]], *very old*
+###### *[[Sphinxes]], [[Andradorans]], very old*
 ###### Location(s): [[Harport]],[[Guild Quarter]]
 Ambrose Pence is one of the two current Headmen of the [[Harport Cartographer's Guild]]. He wears tall mid-calf boots over thick and sturdy blue trousers, a checkered yellow shirt, a bolo tie with a pear inlaid in it, and black hat with a wide curved brim and two dents in the crown.
 

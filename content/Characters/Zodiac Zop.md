@@ -1,4 +1,4 @@
-###### [[Sphinxes|Sphinx]], [[Orcblood]]/[[Andradorans]], very old
+###### *[[Sphinxes|Sphinx]], [[Orcblood]]/[[Andradorans]], very old*
 ###### Location(s): [[Fish Market]], [[Harport Night Market]]
 An ancient looking goblin, Zodiac Zop has saggy green arms that protrude out of a red and gold vestament. He runs a peculiar fortunetelling business out of a 4-post bed on wheels at the [[Harport Night Market]].
 

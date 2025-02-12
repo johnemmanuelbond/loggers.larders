@@ -1,3 +1,3 @@
-###### Female, [[Aire Nomads]], 57
+###### *Female, [[Aire Nomads]], 57*
 ###### Location(s): [[Milton]]
 A mixed blood goliath-human, July is the quickly-aging wife of the missing [[Frieder Harkensson]], who took her name. She's born and bred in [[Milton]] and runs a local bakery. She is tall and broad with no hair, but has a kind wrinkled face and a plump lil belly. She most often wears a white apron on a yellow blouse. Her skin is grey--as it is for most Aire folk--but her cheeks are blushed.

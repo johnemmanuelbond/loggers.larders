@@ -1,3 +1,3 @@
-###### Male, [[Harport Colonials]], 56
+###### *Male, [[Harport Colonials]], 56*
 ###### Location(s): location
 A pale-skinned and healthy-looking man with angular features and dark hair tied in a ponytail behind his head, Wilson Fit represents the [[Andradoran Exports Cooperative]] in Milton. Despite their differing views, he does have a working relationship and understanding with [[Moser Wilderly]]. He is diplomatic and well-spoken and resents the oppressive aspects of his role, though he has little to no respect for Aire culture. Nonetheless he does his duty w.r.t. both peoples. He most often wears the a jacket with the blue and grey colors of the AEC on top of a simple tunic and trousers, he does not live in luxury and spends most. He does have a bit of a crushy on [[June Sturgil|Judge Sturgil]].

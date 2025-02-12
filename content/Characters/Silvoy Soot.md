@@ -1,4 +1,4 @@
-###### Gender, Ancestry, Age
+###### *Gender, Ancestry, Age*
 ###### Location(s): location
 The commander of [[Fort Solton|Solton]] soldiers in [[Milton]], he has been instructed by [[Harald Brightbrow]] to follow [[June Sturgil]]'s instructions.
 

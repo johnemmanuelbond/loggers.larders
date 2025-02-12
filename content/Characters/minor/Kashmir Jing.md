@@ -1,2 +1,2 @@
-###### Male, [[Harport Colonials]], 41
+###### *Male, [[Harport Colonials]], 41*
 ###### Location(s): [[Harport]], [[Guild Quarter]]

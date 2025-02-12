@@ -1,4 +1,4 @@
-###### Male(s),[[Aire Nomads]] & [[Harport Colonials]], 57 & 49
+###### *Male(s),[[Aire Nomads]] & [[Harport Colonials]], 57 & 49*
 ###### Location(s): [[Harport]], [[Town Center]],[[The Ravenry]]
 These two druids run the day-to-day associated with the ravenry in [[Harport]]'s Market Square.
 

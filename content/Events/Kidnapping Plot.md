@@ -28,7 +28,7 @@ Day 10: If guard makes it back and figures out what happened, the begonias will 
 ### Kidnapper Movements
 Day 1: Lay low at the racetrack, Knick will go to the night market (early) to buy sleeping draughts for esmellia and to chat quickly with Kaire and Moser Wormwool. Turns out Knick has to track the party for a while and eventually finds out they're staying at the caverns? Knick does not tell Kaire about the prior run-in with the party (their alliance is tenuous).
 
-Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack.
+Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]]
 
 Day 3: 
 
@@ -48,7 +48,7 @@ Day 9: Sneak esmellia aboard day that the ship leaves
 
 Day 1: Reach out to Silvoy to corroborate. Figure out that the skipping seal leaves in 9 days. Meet with cartographer's guild. Go to night market, spotted by Knick. Catch Knick's accomplice. Tip off berendsens by accosting sasha's glass shop.    
 
-Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting.
+Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting. Go shopping for disguises. See chaz at caverns, who (via Benevolence) leads them towards the pigeon hole.
 
 Day 3: Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning.
 

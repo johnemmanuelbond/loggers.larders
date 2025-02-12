@@ -74,7 +74,7 @@ Petunia: Runs into a familiar face from the pits, an old bugbear beggar named [[
 
 
 ## Demographics
-Harport is about 75% [[Andradorans]] emigre, 20% [[Aire Nomads]] and 5% [[Northern Dwarves|Dwarven]]. The Aire are mostly concentrated in the [[Fish Market]] and the Ag Sector. Andradorans dominate the [[Birdfoot]], [[Town Center]], and the [[Old City]]. Dwarves are mostly centralized around the [[Guild Quarter]], where they make up a strong percentge of the [[Harport Mason's Guild|mason's]] and smith's guilds.
+Harport is about 75% [[Andradorans]] emigre, 20% [[Aire Nomads]] and 5% [[Northern Dwarves|Dwarven]]. The Aire are mostly concentrated on the [[Birdfoot]] and throughout the Ag Sector. Andradorans (i.e. [[Harport Colonials]]) dominate the [[Fish Market]], [[Town Center]], and the [[Old City]]. Dwarves are mostly centralized around the [[Guild Quarter]], where they make up a strong percentage of the [[Harport Mason's Guild|mason's]] and smith's guilds.
 
 [[Random Harport NPCs]]
 

@@ -1,4 +1,4 @@
-###### Male, [[Andradorans]], 34
+###### *Male, [[Andradorans]], 34*
 ###### Location(s): [[Harport]], [[Milton]]
 A scholar on the run from [[Silverspire]], Fleance has uncovered ancient and dangerous knowledge. He tries to protect the innocents from the magical dangers that man has wrought.
 

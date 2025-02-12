@@ -1,4 +1,4 @@
-###### Male, [[Aire Nomads]], 36
+###### *Male, [[Aire Nomads]], 36*
 ###### Location(s): [[Fowl Camp]]
 [[Kargoe Bepbiep Trukgohson]]'s uncle, and leader in [[Fowl Camp]], alongside [[Vos Flyggdottir]]. Just looking to protect his family and friends.
 - Wife: Flythe

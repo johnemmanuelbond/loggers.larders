@@ -1,4 +1,4 @@
-###### Male, [[Northern Dwarves]], 95
+###### *Male, [[Northern Dwarves]], 95*
 ###### Location(s): [[Harport]], [[Guild Quarter]], [[Harport Night Market]]
 The cagey and awkward purveyor of a small smithy in the back corner of the Mason's guildhall, Sigurd is actually cross-listed in both the [[Harport Chemist's Guild]] and the [[Harport Mason's Guild]] and is one of the finer craftspersons in Harport. He specializes in interfacing alchemy with fine smithwork and a little bit of divine magic. 
 

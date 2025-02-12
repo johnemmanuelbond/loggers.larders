@@ -1,4 +1,4 @@
-###### Male,[[Andradorans]]/[[Gnomes]], 301
+###### *Male,[[Andradorans]]/[[Gnomes]], 301*
 ###### Location(s): [[Harport]], [[Birdfoot]]
 Inventor and head operator of Syng's Barge in Harport.
 

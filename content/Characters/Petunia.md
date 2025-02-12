@@ -1,4 +1,4 @@
-###### Gender, Ancestry, Age
+###### *Gender, Ancestry, Age*
 ###### Location(s): [[Milton]], [[Harport]], [[Drudwythe]]
 - half orc from [[Drudwythe]]  
 - ex-gladiator, bought freedom

@@ -1,4 +1,4 @@
-###### Male, [[Northern Elves]], very old
+###### *Male, [[Northern Elves]], very old*
 ###### Location(s): [[Shimmering Grove]], [[Low Taiga]]
 
 An ancient Elven blood mage, TEMP has bound his body and spirit to the tree at the [[Shimmering Grove]].

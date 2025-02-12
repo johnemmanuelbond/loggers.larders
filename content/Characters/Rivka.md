@@ -1,4 +1,4 @@
-###### Female, [[Harport Colonials]]/[[Northern Elves]], 20's
+###### *Female, [[Harport Colonials]]/[[Northern Elves]], 20's*
 ###### Location(s): [[Harport]], [[Milton]]
 - Half-Elf from outside of Harport, hasn't shown elven features yet  
 - Andradoran mother was adventurous and traveled into the deep taiga, coming back with a child

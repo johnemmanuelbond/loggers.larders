@@ -1,4 +1,4 @@
-###### Female, [[Harport Colonials]], 32
+###### *Female, [[Harport Colonials]], 32*
 ###### Location(s): [[Harport]]
 32 year old human with shoulder-length brown hair, dark eyes, and an oval face. She stands at 5'3\" and wears a yellow dress and boots.
 

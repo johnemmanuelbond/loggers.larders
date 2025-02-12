@@ -1,4 +1,4 @@
-###### Male, [[Northern Dwarves]], 35
+###### *Male, [[Northern Dwarves]], 35*
 ###### Location(s): [[Harport]], [[Town Center]]
 A young and up-in-coming artist and mage living just across Shae's Stream from the old city in Harport. He works a desk at the city library, and studies under his elderly [[Andreth Pelorius|master]].
 
