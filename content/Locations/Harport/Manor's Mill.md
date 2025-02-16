@@ -36,4 +36,4 @@ Umun: Female Dwarf Soldier. Umun is short and thin, with copper hair and large g
 Athyew: Male Halfling Fisherman. Athyew has a square face, with brown hair and bright brown eyes. He wears tailored clothing and silk gloves. Athyew seeks a company of adventurers to clear his name against charges of stealing a pair of magic silver bolts?? from [[Sigurd Steamsinger]].
 
 #### Hooks
-Bulletin board:<br>several bounties:<br>- 50 Gp: Nicholas Bevurth<br>- 45 Gp: Edmund Mournhen<br>- 100 Gp: [[Chrotar Shatt|Knave Cleaver]]<br>- 150 Gp: Brunhilde Dust<br>- 5,000 Gp: Esme Landros (dirtied up and hidden behind a bunch of others DC 14 check)
+Bulletin board:<br>several bounties:<br>- 50 Gp: Nicholas Bevurth<br>- 45 Gp: Edmund Mournhen<br>- 100 Gp: [[Chrotar Shatt|Knave Cleaver]]<br>- 150 Gp: Brunhilde Dust<br>- 10,000 Gp: Esme Landros (dirtied up and hidden behind a bunch of others DC 14 check)

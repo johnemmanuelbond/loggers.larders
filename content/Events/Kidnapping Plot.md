@@ -30,7 +30,7 @@ Day 1: Lay low at the racetrack, Knick will go to the night market (early) to bu
 
 Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]]
 
-Day 3: 
+Day 3: As members of the berendsen family. Rhedda and knick must work security at the frank and ophelia's wedding. They resent taking moser's orders but are trying not to make a scene.
 
 Day 4:
 
@@ -50,7 +50,7 @@ Day 1: Reach out to Silvoy to corroborate. Figure out that the skipping seal lea
 
 Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting. Go shopping for disguises. See chaz at caverns, who (via Benevolence) leads them towards the pigeon hole.
 
-Day 3: Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning.
+Day 3: Frank and ophelia's wedding. (Apparently). Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning.
 
 Day 4: Detective Midred Melloy is appointed to the case.
 
