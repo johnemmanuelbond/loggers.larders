@@ -1,7 +1,7 @@
 ###### Parent: [[Birdfoot]], [[Harport]]
 A dingy dive bar within the Birdfoot Tunnels, the pigeon hole has naught but a few regular patrons, most of whom are just personal friends with its owner, a crusty Aire named [[Rolf Ingridson]].
 
-The cavern is dimly lit by a few braziers placed along at intervals along the walls and lanterns hanging from a network of suspended netting on the ceiling. A long L-shaped bar occupies most of the chamber, but there are a few tables towards the back, one longer banquet tables and two high-tops. Immediately to your right is a smaller high-top granite slab, seemingly just used as another
+The cavern is dimly lit by a few braziers placed along at intervals along the walls and lanterns hanging from a network of suspended netting on the ceiling. A long L-shaped bar occupies most of the chamber, but there are a few tables towards the back, one longer banquet tables and two high-tops. Immediately to your right is large rectangular granite slab, seemingly used as another bartop.
 
 ![[pigeonhole.png]]
 
@@ -16,7 +16,7 @@ Rhedda is impressed with the party's capability, and thinks it would be a shame 
 If/when the party fights.
 - Round 1:
 	- Knick uses legendary action to restrain a bunch of party members with a crossbow bolt to the netting on the ceiling.
-	- Rhedda downs a potion of strength (for athletics checks) and heaves the granite table ahead of the wall, blocking an easy escape, perhaps splitting the party.
+	- Rhedda downs a potion of heroism (10 temp hp and bless for the duration) and heaves the granite table ahead of the wall, blocking an easy escape, perhaps splitting the party.
 	- On Knick's turn he either attacks or readies an attack against whoever Rhedda engages.
 - Subsequent rounds:
 	- Rhedda activates her echos and wreaks havoc.

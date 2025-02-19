@@ -1,6 +1,10 @@
 Session Prep
 - Flesh out racetrack using Keys to the Golden Vault
 	- Racetrack owner has it out for rivka, but only knows a druid did it, so wild shaping in view will kick off a series of events.
+	- Moser statblock
+	- Guardhouse maps
+	- Harps entry and statblock
+	- simon hill entry and statblock
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
 - Need a description of the skipping seal
 
