@@ -16,6 +16,7 @@ Born and bred in [[Harport]] Nigel Fleck worked his way up from street urchin to
 	- 10,000 Gp reward upon safe return to silverspire, payable by order of House Vespera of Steelcry Hold
 
 **DC 18**
+- A vial of dark green syrupy liquid (1d4 uses extra poison)
 - Copy of [[Skipping Seal]] manifest:
 - Sketched out map of Skipping Seal's hull and quarters, with one chamber labeled with a red 'X'
 
