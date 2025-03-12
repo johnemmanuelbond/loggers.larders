@@ -13,8 +13,8 @@ Born and bred in [[Harport]] Nigel Fleck worked his way up from street urchin to
 - smaller purse: 5 pp, 27 gp
 - Tattoo of a rose, slowly fading
 - Bounty Papers for "Esme Landros":
-	- 10,000 Gp reward
-	- Contact: Bartender at the *Lavacious Maid*, Silverspire
+	- 10,000 Gp reward upon safe return to silverspire, payable by order of House Vespera of Steelcry Hold
+
 **DC 18**
 - Copy of [[Skipping Seal]] manifest:
 - Sketched out map of Skipping Seal's hull and quarters, with one chamber labeled with a red 'X'
