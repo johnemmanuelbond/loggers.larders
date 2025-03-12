@@ -1,4 +1,4 @@
-###### *August 30, 0223*
+###### *August 30 - September 8, 0223*
 By order of the [[Berendsen Family]], [[Rhedda Blud]] and [[Knick]] have kidnapped [[Esmellia Leek]] in order to fulfill the bounty put out by [[TEMP Esmellia's Fiance]]
 
 ### Setup
@@ -28,13 +28,13 @@ Day 10: If guard makes it back and figures out what happened, the begonias will 
 ### Kidnapper Movements
 Day 1: Lay low at the racetrack, Knick will go to the night market (early) to buy sleeping draughts for esmellia and to chat quickly with Kaire and Moser Wormwool. Turns out Knick has to track the party for a while and eventually finds out they're staying at the caverns? Knick does not tell Kaire about the prior run-in with the party (their alliance is tenuous).
 
-Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]]
+Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]] -> Knick frickin' **dies**...
 
-Day 3: As members of the berendsen family. Rhedda and knick must work security at the frank and ophelia's wedding. They resent taking moser's orders but are trying not to make a scene.
+Day 3: As a member of the Berendsen organization. Rhedda has must work security at the Frank and Ophelia's wedding. She is actively looking to be useful.
 
-Day 4:
+Day 4: Rhedda meets with ophelia at Berendsen Manor, Ophelia offers to buy Rhedda out, on the condition Rhedda ties up the loose end. Rhedda tries to track down
 
-Day 5: enact smuggling bust, all they really need to do is bribe the guards more than Manfred does, and make sure an AEC supervisor is there to see it.
+Day 5: Esmellia is moved to Berendsen Manor
 
 Day 6:
 
@@ -48,9 +48,9 @@ Day 9: Sneak esmellia aboard day that the ship leaves
 
 Day 1: Reach out to Silvoy to corroborate. Figure out that the skipping seal leaves in 9 days. Meet with cartographer's guild. Go to night market, spotted by Knick. Catch Knick's accomplice. Tip off berendsens by accosting sasha's glass shop.    
 
-Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting. Go shopping for disguises. See chaz at caverns, who (via Benevolence) leads them towards the pigeon hole.
+Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting. Go shopping for disguises. See chaz at caverns, who (via Benevolence) leads them towards the pigeon hole. Players are ambushed by Rhedda and Knick, and after a close fight, Knick is slain.
 
-Day 3: Frank and ophelia's wedding. (Apparently). Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning.
+Day 3: Frank and Ophelia's wedding. (Apparently). Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning (handy out at wedding?).
 
 Day 4: Detective Midred Melloy is appointed to the case.
 

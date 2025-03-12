@@ -1,5 +1,5 @@
 ###### Parent: [[Harport]], [[Birdfoot]]
-The largest building in Harport, the racetrack is one of the city's main draws. Owned and operated by [[Frank Horibert]], and his #2 [[Simon Hill]], here the liquid flows, meaning money. Mostly civilians losing it.
+The largest building in Harport, the racetrack is one of the city's main draws. Owned and operated by [[Frank Horibert]], and his #2 [[Simon Redmont]], here the liquid flows, meaning money. Mostly civilians losing it.
 
 ![[racetrack0.png]]
 
@@ -90,7 +90,7 @@ Evelin: flirty concierge<br>Chefs/Waiters/Bartenders/Dealers
 #### Third Floor
 [[Frank Horibert]]'s personal chambers and dining room for feting guests. Includes a lookout over the entire campus and all the amenities an oligarch could ask for. Decadent red curtains with golden threading cover the numerous windows, a large bearskin rug is on the floor of the main parlor, leather stools sit in front of a private bar with numerous beautifully decorated bottles of wine and liquor on display.
 
-Entering the third floor requires an escort by a staff member with a tattoo. [[Simon Hill]] personally approves every solicitor and holds a magic mirror which can detect the magical aura on the tattoo for frauds, but he is the only one with such a mirror.
+Entering the third floor requires an escort by a staff member with a tattoo. [[Simon Redmont]] personally approves every solicitor and holds a magic mirror which can detect the magical aura on the tattoo for frauds, but he is the only one with such a mirror.
 
 ![[racetrack3.png]]
 
@@ -117,7 +117,7 @@ Investigating Moser's office reveals
 
 #### Vault
 
-The vault doot is locked by *arcane lock* and can only be opened by a key in the possession of [[Frank Horibert]], though he frequently hands it off to [[Simon Hill]] or [[Moser Wormwool]] to handle large payouts. The Vault door is made of stone on a steel hinge. It can be forced open with a DC 30 athletics check, or by destroying the hinge: (AC 18, damage threshold 15, 50hp, immunity to poison/psychic damage)
+The vault doot is locked by *arcane lock* and can only be opened by a key in the possession of [[Frank Horibert]], though he frequently hands it off to [[Simon Redmont]] or [[Moser Wormwool]] to handle large payouts. The Vault door is made of stone on a steel hinge. It can be forced open with a DC 30 athletics check, or by destroying the hinge: (AC 18, damage threshold 15, 50hp, immunity to poison/psychic damage)
 
 #### Cells
 
@@ -181,6 +181,7 @@ Suspicion: Measured on a scale of 1-6. It starts at 1. The following things incr
 - Indiscretely asking around about esmellia
 - Showing the trout pin
 - Making a scene
+- SPECIAL: Wildshaping or de-wildshaping in *anyones* view is +3 sus
 
 Based on suspicion the players encounter a patrol of guards upon entering each of the following locations if they roll a 1 on the patrol die:
 - Each casino level.

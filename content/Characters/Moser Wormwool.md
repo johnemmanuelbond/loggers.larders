@@ -5,6 +5,5 @@ Pale-skinned, oily-haired, square-faced and ugly, Moser has had his nose broken 
 #### Statblock
 
 ```statblock
-creature: Veteran
-name: Moser Wormwool
+creature: Moser Woormwool
 ```

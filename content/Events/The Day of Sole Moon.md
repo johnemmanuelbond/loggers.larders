@@ -1,3 +1,4 @@
+###### *August 30, 0223*
 Each day a year the 4 moons line up in the western hemisphere (away from Pan's Disc). On this day, the light of the moons mix: Bright white (Amat), faint grey (Morian), pale blue (Scaathiel), and orange (Thuul). This mixed light makes colors appear more vivid and contrast appear more striking. Faint evanescent rainbows reflect off of exposed glass and metal. Additionally Pan's aurora is visible on the horizon, it looks like a gently undulating orange network of light-strands, shimmering and merging then separating and fading.
 
 Cultures, like the [[Aire Nomads]], on [[Nordwythe]] and [[Drudwythe]] usually celebrate a harvest festival on this day, the autumnal equinox.
