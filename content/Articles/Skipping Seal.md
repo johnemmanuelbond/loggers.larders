@@ -11,7 +11,7 @@ _The Skipping Seal_ is a robust three-masted, multi-decked cargo ship. She has s
 - Sailors:
 	- Leo Darkdraft: Young, dark skin, deep brown eyes, horn nubs
 	- Falco Nete
-	- Rasenth (dragonborn)
+	- Rasenth (dragonborn)s
 	- Winifred Wydleif
 	- Hilly Bottomhill
 

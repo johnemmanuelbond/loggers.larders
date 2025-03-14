@@ -114,6 +114,7 @@ Investigating Moser's office reveals
 - 12 a letter asking to store a bounty in the basement from "Knick"
 - 16 an extra key ring hidden inside a boot
 - 20 a steel lockbox nailed to underside of a wardrobe the wall containing pouch of 750 Gp hidden in a boot. Must be opened with a DC 20 theives' tools check.
+![[racetrack4.png]]
 
 #### Vault
 
@@ -129,6 +130,8 @@ The cells themselves are locked conventionally (DC 15 thieves' tools check), and
 - Barlo Ragestan (H) didn't pay protection for a gambling den in the birdfoot, being held until his friends/family pay bail
 - Quillium Sardo (1/2) couldn't pay debt at the casino, currently working it off
 - Grix (gob) bit off a guard's ear in a barfight at the casino
+
+![[racetrack5.png]]
 
 #### Security Guards
 In addition to the 4 guards accompanying the wait staff, 2 other guards regularly patrol the casino floors, 2 are assigned to the third floor stairwell. 2 are assigned to the entrance and 4 others patrol the rest of the grounds in pairs. If attacked the guards react in kind and call for reinforcements. Two guards and either Moser or Harps W.W. responds within 1d4 rounds.

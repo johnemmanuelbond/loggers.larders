@@ -1,2 +1,2 @@
-###### Parent: [[Melian (The World)]]
+###### Parent: [[Aldwythe]]
 A very large island southeast of [[Mardwythe]] and northwest of [[Sundwythe]]. Traditionally culturally linked with the people of Mardwythe, and curently well inside of the [[Andradora|Andradoran]] cultural sphere.

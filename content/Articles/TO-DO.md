@@ -1,15 +1,21 @@
 Session Prep
 - Flesh out racetrack using Keys to the Golden Vault
-	- Guardhouse maps
+	- Stalls (andreth, hagop, and sigurd)
+	- Thoroughfare
+	- Bandstands (Harps, who else)
 
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
-- Need a description of the skipping seal
 
 Immediate Timeline
-- Day 2 (Sunday):
-	- Pigeon hole aftermath
 - Day 3 (Monday):
-	- players roll for esmellia (con save, persuasion check, wis save, investigation check)
+	- players roll for Esmellia
+		- Con save to do anything
+		- Persuasion check to talk to guard
+		- Wis save against *suggestion*
+		- Investigation check to find party
+	- John rolls for Chaz:
+		- Wis to go back to taverns: He followed Rhedda back to the track, wasn't seen
+	- Early Morning: 7 Harport Goons and 1 Harport thug threatens mariah at the caverns... looking for the party. Just following orders from Moser at the racetrack
 	- frank and ophelia's wedding, party plans to crash. Rhedda (at least) is working security in the guardhouse.
 - Day 4:
 	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)
