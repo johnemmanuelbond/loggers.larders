@@ -156,21 +156,45 @@ creature: Harport Thug
 ```
 
 ### Thoroughfare
+On the east side of the track there is a long pathway on the way to the bandstands. Activity thrums on either side where on the right there is a set of stables and on the left there is a small market set up with about 10 stalls selling festival goods.
 
-#### Stalls
+1. See [[Harport Night Market]] for ideas and roll tables.
+2. [[Sigurd Steamsinger]] is wandering the thoroughfare catching up with the senile [[Andreth Pelorius]] and her young protege [[Hagop Koshgarian]].
+3. See [[Random Harport NPCs]] for more characters
 
 #### Stables
+Across from the thoroughfare a stables with 4 bays full with numerous riding horses, draft horses, donkeys, and other beasts of burden cared to by a crew recognizable by their prim beige tunics and black pants. 
+- Sun Sparks
+- Skyflash
+- Tatertot Thunderhoof
+- Moonflame
+- Rainbow Dashwood
+- Gulliver
+- Leo
+- Driver
+- Glitterhoof
+- Marion
+- Pancake Prancer
+- Noon Paste
 
-#### Bandstands
+There's another set of stables south of the thoroughfare where all the racing horses are fed, watered, groomed, and otherwise cared for before racing. This area, however, is off limits to anyone but horse owners and their entourages:
+- Little Beach
+- Richard Stomper
+- Cash
+- Free Crab
+- That Thing
 
-#### Groundskeepers
-Leomund: head groundskeeper<br>Stablehand:
-- Javin (orc)
-- Veth (H)
-- Haji (H)
-... +10
+
+### Bandstands
+Several wooden sets of seats loom over the north side of the track are the bandstands, where most of the common folk can buy a ticket for a single silver piece, though there's a buy three get one free deal in place on the weekends.
+1. [[Harps Walks-on-Water]] stalks back and forth, looking for anyone hiding/suspicious
+2. [[Jeff Porter]] and [[Aleida Sweeny]] are excited for the race and wedding pageantry
+3. see [[Random Harport NPCs]]
+
 
 ## Wedding "Heist"
+
+The whole racetrack is decked out in yellow and red, yellow ribbons and draping hang from every building and even the trees, groundskeepers are handing out a flower for everyone at the entrance. You hear excited chatter about the upcoming race and how the winner gets the honor of bearing the lady [[Ophelia Berendsen|Ophelia]] to the altar set. Glancing past the thrum you see the field in the middle of the track is covered in daffodils and pink tulips and red roses and in the center of that field there is a bare white dais circled by pristine whitewashed empty benches.
 
 While most of the guards are busy patrolling the wedding, they may recognize the party.
 
@@ -181,6 +205,7 @@ The party makes a group check upon trying to gain entry (stealth / deception / p
 Suspicion: Measured on a scale of 1-6. It starts at 1. The following things increase suspicion
 - Caught by a patrol outside of wedding-related locations
 - Casting a spell with verbal/somatic components in clear sight
+- Being seen with a visible weapon
 - Indiscretely asking around about esmellia
 - Showing the trout pin
 - Making a scene

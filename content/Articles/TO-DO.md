@@ -1,20 +1,12 @@
-Session Prep
-- Flesh out racetrack using Keys to the Golden Vault
-	- Stalls (andreth, hagop, and sigurd)
-	- Thoroughfare
-	- Bandstands (Harps, who else)
-
-- add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
-
 Immediate Timeline
 - Day 3 (Monday):
 	- players roll for Esmellia
-		- Con save to do anything
-		- Persuasion check to talk to guard
-		- Wis save against *suggestion*
-		- Investigation check to find party
+		- Con save (10) to do anything
+		- Persuasion check (13) to talk to guard
+		- Wis save (15) against *suggestion*
+		- Investigation check (15) to find party
 	- John rolls for Chaz:
-		- Wis to go back to taverns: He followed Rhedda back to the track, wasn't seen
+		- Wis (DC 13) to go back to taverns: He already followed Rhedda back to the track, wasn't seen
 	- Early Morning: 7 Harport Goons and 1 Harport thug threatens mariah at the caverns... looking for the party. Just following orders from Moser at the racetrack
 	- frank and ophelia's wedding, party plans to crash. Rhedda (at least) is working security in the guardhouse.
 - Day 4:
@@ -22,6 +14,9 @@ Immediate Timeline
 	- Party at citadel?  (checks checks checks): Interface to Garut and Lynn, introduced to Sargent Rainidayas, assigned detective Mildred Melloy:  "Investigations on the birdfoot are hard, their presence is not appreciated. We'll put the word out on patrols, feel free to come back anytime and find me in my office."
 - ...
 - Day 7 (Sunday)
+
+Session Prep
+- add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
 
 Build out harport:
 - Finish writing history (include stuff about fire of 0125) Harport is about 200 years old (founded in 0003) (i.e. 1830's boston, 60k people).
