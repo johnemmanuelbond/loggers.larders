@@ -1,13 +1,20 @@
+- Work out esmellia's suggestion
+- Work out Asra's plan (just hand over to moser and confiscate talisman)
+- Figure out what Rhedda does:
+	- Goes straight to ophelia (who's gonna throw her under the bus)
+- Ophelia
+	- Statblock and summon draconic spirit statblock 
+	- Willing to trade esmellia for insider info about Ambrose
+
 Immediate Timeline
 - Day 3 (Monday):
 	- players roll for Esmellia
-		- Con save (10) to do anything
-		- Persuasion check (13) to talk to guard
-		- Wis save (15) against *suggestion*
-		- Investigation check (15) to find party
+		- Con save (10) to do anything (success)
+		- Persuasion check (13) to talk to guard (success)
+		- Wis save (15) against *suggestion* (failure)
+		- Investigation check (15) to find party (success)
 	- John rolls for Chaz:
-		- Wis (DC 13) to go back to taverns: He already followed Rhedda back to the track, wasn't seen
-	- Early Morning: 7 Harport Goons and 1 Harport thug threatens mariah at the caverns... looking for the party. Just following orders from Moser at the racetrack
+		- Wis (DC 13) to go back to taverns: He already followed Rhedda back to the track, wasn't seen (success)
 	- frank and ophelia's wedding, party plans to crash. Rhedda (at least) is working security in the guardhouse.
 - Day 4:
 	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)

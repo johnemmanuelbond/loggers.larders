@@ -61,7 +61,7 @@ Yet more secretive mages/clerics rediscover the shaded door.
 
 [[Harport]] is founded, and the [[Andradoran Exports Cooperative]] sets up residence there.
 
-### Campaign 1
+### ![[Campaign Timeline|Campaign 1]]
 
 ## War
 
