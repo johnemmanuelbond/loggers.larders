@@ -17,22 +17,22 @@ Day 2: Identify the most susceptible Harport Goon and casts *suggestion* on them
 -> All successes: a wash, try again
 
 Day 3: Try *suggestion* again:
--> "Send a letter Alberta DG (which gets forwarded to the guild). Addressed from Fly Catcher, the text is 'gold at the ponies' "
+->"Look for an Aire with a battleaxe and a human with an extremely wide-brimmed hat, tell them Esme's underground and overheard chatter about a wedding."
 
 Day 4-9: repeat until she gets caught.
 1. Try to find the spoon man at a tavern and attack them -> new spoon thief chase?
-2. ...?
+2. -> "Send a letter Alberta DG (which gets forwarded to the guild). Addressed from Fly Catcher, the text is 'gold at the ponies' "
 
 Day 10: If guard makes it back and figures out what happened, the begonias will gag Esmellia and she will have to think outside the box, i.e. try to use hellish rebuke to burn off her bonds and escape in a firey explosion. This might happen in a dramatic scene at the docks.
 
 ### Kidnapper Movements
 Day 1: Lay low at the racetrack, Knick will go to the night market (early) to buy sleeping draughts for esmellia and to chat quickly with Kaire and Moser Wormwool. Turns out Knick has to track the party for a while and eventually finds out they're staying at the caverns? Knick does not tell Kaire about the prior run-in with the party (their alliance is tenuous).
 
-Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]] -> Knick frickin' **dies**...
+Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]] -> Knick frickin' **dies**... Rhedda decides to involve [[Moser Wormwool]], informing him that their prisoner is an expensive bounty. Moser, of course, insists on a cut. So Rhedda has to convince Ophelia to get involved because she doesn't have enough money.
 
-Day 3: As a member of the Berendsen organization. Rhedda has must work security at the Frank and Ophelia's wedding. She is actively looking to be useful.
+Day 3: As a member of the Berendsen organization, Rhedda must work security at the Frank and Ophelia's wedding. She is actively looking to be useful and prove herself to ophelia by finding and removing the party.
 
-Day 4: Rhedda meets with ophelia at Berendsen Manor, Ophelia offers to buy Rhedda out, on the condition Rhedda ties up the loose end. Rhedda tries to track down
+Day 4: Rhedda meets with Ophelia at Berendsen Manor, Ophelia offers to buy Rhedda out, on the condition Rhedda ties up the loose end.
 
 Day 5: Esmellia is moved to Berendsen Manor
 
@@ -50,7 +50,7 @@ Day 1: Reach out to Silvoy to corroborate. Figure out that the skipping seal lea
 
 Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting. Go shopping for disguises. See chaz at caverns, who (via Benevolence) leads them towards the pigeon hole. Players are ambushed by Rhedda and Knick, and after a close fight, Knick is slain.
 
-Day 3: Frank and Ophelia's wedding. (Apparently). Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning (handy out at wedding?).
+Day 3: [[Asra Sallowhide]] and goons attack at caverns. The party fights them off and "hypnotizes" (except not) Asra. Frank and Ophelia's wedding. (Apparently). Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning (handy out at wedding?).
 
 Day 4: Detective Midred Melloy is appointed to the case.
 

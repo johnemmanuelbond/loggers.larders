@@ -1,0 +1,2 @@
+###### Parent: [[Nordwythe]]
+Once called the Fryggian Peaks, this towering range dominates the southern reaches of [[Nordwythe]]. Home to Dwarves, Rocs, and who knows what else, the mountain paths are treacherous to traverse.

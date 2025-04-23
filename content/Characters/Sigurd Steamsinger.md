@@ -4,6 +4,32 @@ The cagey and awkward purveyor of a small smithy in the back corner of the Mason
 
 Oddly, Sigurd is blonde, which is rare for a dwarf. He wears a stained apron wherever he goes and his hair and beard are all over the place, only held out of his face by an dark black steel headband.
 
+#### Workshop
+Sigurd operates a workshop in a little adjunct off the side of the [[Harport Chemist's Guild|Chemist's Guildhall]]. Usually operating at a cool 95 degrees, the furnace is almost always burning. Different colored smoke billows out of the chimney most hours o the day. Inside is a hectic workshop littered with tools and metals. To Sigurd, there's a method to the madness, but to everyone else it is impenetrable clutter.
+
+#### Inventory
+| Item                                        | Cost (Gp) |
+| ------------------------------------------- | --------- |
+| [[frame.png\|Animation Frame]]              | 500       |
+| [[arrowshield.png\|Arrow-Catching Shield]]  | 1150      |
+| [[Bag of Rope Trick]]                       | 950       |
+| [[Bloody Knuckles]]                         | 420       |
+| [[borrowbands.png\|Borrowbands]]            | 720       |
+| [[bottledbreath.png\|Bottled Breath]]       | 150       |
+| [[Deconcussive Breastplate]]                | 2000      |
+| [[Dwarven Bolts]] (10)                      | 620       |
+| [[eversmoke.png\|Eversmoking Bottle]]       | 800       |
+| [[Flail of Ogre's Wit]]                     | 500       |
+| [[visor.png\|Gladiator's Visor]]            | 500       |
+| Greater Health Potion (2)                   | 200       |
+| Health Potion (5)                           | 50        |
+| [[hummingbird.png\|Mechanical Hummingbird]] | 200       |
+| [[slipquick.png\|Slipquick Silks]]          | 600       |
+| [[Sovereign Glue]]                          | 18,000    |
+| [[Whistling Scimitar]]                      | 2100      |
+| [[Wreath of Flame]]                         | 1200      |
+
+
 #### Statblock
 ```statblock
 creature: Sigurd Steamsinger
@@ -13,4 +39,5 @@ spells: #### Spellcasting. Sigurd is a 13th-level half-caster. His spellcasting
 - 2nd level (3 slots): _enlarge/reduce, heat metal_
 - 3rd level (3 slots): _elemental weapon, glyph of warding, dispel magic_
 - 4th level (1 slots): _reslilient sphere_
+hp: 67
 ```

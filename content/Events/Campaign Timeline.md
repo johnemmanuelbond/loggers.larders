@@ -27,4 +27,4 @@ A mysterious ship arrives in [[Harport]].
 #### 6. [[Endgame]]
 *Spring-End, 0224*
 
-[[TEMP elven blood mage]] threatens to unleash unholy apocalypse.
+[[Dhael Anar, Caendaur Fuirith]] threatens to unleash unholy apocalypse.

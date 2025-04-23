@@ -34,7 +34,7 @@ Voting is done by who gets the loudest cheer. Moser has the advantage, but Tyg's
 ### Banquet
 The whole town gathers along a long table stretch through the field beside the judge's house.
 
-The highlights are a delightful sunsquash soup (though they're not the competiton squashes), an Aire mushroom sampler prepared by [[Esmellia Leek|Esmellia]]and [[Prim Vosdottir|Prim]]. There is a fabulous fish and cabbage stew, the flavors are a delicious sour broth and peppercorns.[[Wilson Fit]] won the auction to prepare the roast beast, which is divine. There's a large basket of [[Mardwythe|Mardwythan]] pepper-pickles, and innumerable other small dishes prepared by local townsfolk.
+The highlights are a delightful sunsquash soup (though they're not the competiton squashes), an Aire mushroom sampler prepared by [[Esmellia Leek|Esmellia]] and [[Prim Vosdottir|Prim]]. There is a fabulous fish and cabbage stew, the flavors are a delicious sour broth and peppercorns.[[Wilson Fit]] won the auction to prepare the roast beast, which is divine. There's a large basket of [[Mardwythe|Mardwythan]] pepper-pickles, and innumerable other small dishes prepared by local townsfolk.
 
 For desert there are delicious honey-cakes, which come with a floral flavor and just the right amount of sweetness.
 

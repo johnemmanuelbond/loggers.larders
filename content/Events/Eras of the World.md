@@ -18,7 +18,7 @@ While they start as a lower caste of predominantly laborers and servants, they e
 ### The Arrival of Elves
 Elves arrive from another world on their swan ships, fleeing the malice of [[Pan]].
 
-These elves claim the continent pf [[Nordwythe]] and repel the Merling civilization using their blood magic.
+These elves claim the continent of [[Nordwythe]] and at the end of a vicious [[War of Salt and Snow|War]] to repel the Merling civilization using their blood magic.
 
 The human servants they liberate eventually become the [[Aire Nomads]].
 
