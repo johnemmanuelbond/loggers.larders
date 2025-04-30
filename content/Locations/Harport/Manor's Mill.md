@@ -37,3 +37,8 @@ Athyew: Male Halfling Fisherman. Athyew has a square face, with brown hair and b
 
 #### Hooks
 Bulletin board:<br>several bounties:<br>- 50 Gp: Nicholas Bevurth<br>- 45 Gp: Edmund Mournhen<br>- 100 Gp: [[Chrotar Shatt|Knave Cleaver]]<br>- 150 Gp: Brunhilde Dust<br>- 10,000 Gp: Esme Landros (dirtied up and hidden behind a bunch of others DC 14 check). Payable by order of house vespera of steelcry hold
+
+#### Statblocks
+
+![[gladditch.png]]
+![[gronk.png]]

@@ -28,6 +28,7 @@ In driver's den
 By flower's guard
 
 #### Statblock
+![[zodiac zop (janus pence).png]]
 ```statblock
 creature: Zodiac Zop (Janus Pence)
 spells: #### Spellcasting. Zop is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. Zop has the following spells prepared

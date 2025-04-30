@@ -43,6 +43,7 @@ As a token of good faith, Ambrose will direct the party to [[Zodiac Zop]] at the
 "Like any psychic, only 20% of what he says during the act is really trustworthy. But if you can cut through the bull, he is actually quite a capable magician who can occasionally glimpse the threads of fate, for a price."
 
 #### Statblock
+![[ambrose pence.png]]
 ```statblock
 creature: Ambrose Pence
 spells: #### Spellcasting. Ambrose is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. Ambrose has the following spells prepared

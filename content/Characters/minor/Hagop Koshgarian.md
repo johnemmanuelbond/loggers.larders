@@ -7,14 +7,14 @@ Hagop is a young-looking male dwarf with dark brown hair loosely combed over the
 Hagop carries himself with a jovial presence and seeks to give others the tools they need to achieve their goals. He has no patience for thieves, speaks with a slight stutter and loves to sketch and draw.
 
 #### Craftwork
-Hagop may offer to sell some of his magical craft if he's convinced it's a good idea.
+Hagop may offer to sell some of his magical craft if he's convinced it's a good idea. He will also offer to meet the party at his house in market square if they buy any of his wares.
 
-| Item                           | Cost(Gp) |
-| ------------------------------ | -------- |
-| Pearl of Power                 | 350      |
-| [[Protective Clasp]]           |          |
-| [[Runic Pyramid]]              |          |
-| [[Potion of Perceptiveness]]   |          |
-| [[Orb of Cat Command]]         |          |
-| [[Shield of Charm Reflection]] |          |
+| Item                           | Cost(Gp) | Location |
+| ------------------------------ | -------- | -------- |
+| Pearl of Power                 | 350      | Person   |
+| [[Potion of Perceptiveness]]   | 250      | Person   |
+| [[Shield of Charm Reflection]] | 1070     | Person   |
+| [[Protective Clasp]]           |          | Home     |
+| [[Runic Pyramid]]              |          | Home     |
+| [[Orb of Cat Command]]         |          | Home     |
  

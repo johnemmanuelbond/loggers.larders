@@ -22,16 +22,30 @@
 - Day 7 (Sunday)
 
 ###### Session Prep
-- Write a bunch of item descriptions (and print cards?).
-	- bag (check rope trick spell description)
-- Reconsider Erz. Put him in the taiga.
-- Statblocks
-	- Give sigurd (much) more hp (40 -> 67 at least)
-	- Brainstorm ophelia's ice dragon summon. Kind of like quetzacoatl.
-	- Write one for simon to switch cha and int and fix #'s
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
-- Write more of [[Dhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
 
+- Organize Items:
+	- Hagop item cost: clasp, pyramid, orb
+	- Entries for:
+		- arrow shield (fix, "weapon attacks", cost)
+		- blight biter
+		- borrowbands
+		- bottled breath (link)
+		- eversmoking bottle (link)
+		- coin of flipping
+		- animation frame
+		- mechanical humminbird
+		- narcisene piercings (link to rhedda, and sigurd)
+		- invuln pot (link)
+		- mind reading pot (link?)
+		- seaspray threespear
+		- slipquick silks
+		- spirit phial (link to mork, grendelle)
+		- gladiator's visor (move to uppercuts, they won't remember)
+
+- Ocean and Taiga random tables and travel rules.
+	- Write more of [[Dhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
+	- Reconsider [[Erz Agrious|Erz]]. Put him in the taiga.
 
 ###### Build out harport:
 - Finish writing history (include stuff about fire of 0125) Harport is about 200 years old (founded in 0003) (i.e. 1830's boston, 60k people).

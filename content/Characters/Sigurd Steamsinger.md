@@ -8,36 +8,38 @@ Oddly, Sigurd is blonde, which is rare for a dwarf. He wears a stained apron whe
 Sigurd operates a workshop in a little adjunct off the side of the [[Harport Chemist's Guild|Chemist's Guildhall]]. Usually operating at a cool 95 degrees, the furnace is almost always burning. Different colored smoke billows out of the chimney most hours o the day. Inside is a hectic workshop littered with tools and metals. To Sigurd, there's a method to the madness, but to everyone else it is impenetrable clutter.
 
 #### Inventory
-| Item                                        | Cost (Gp) |
-| ------------------------------------------- | --------- |
-| [[frame.png\|Animation Frame]]              | 500       |
-| [[arrowshield.png\|Arrow-Catching Shield]]  | 1150      |
-| [[Bag of Rope Trick]]                       | 950       |
-| [[Bloody Knuckles]]                         | 420       |
-| [[borrowbands.png\|Borrowbands]]            | 720       |
-| [[bottledbreath.png\|Bottled Breath]]       | 150       |
-| [[Deconcussive Breastplate]]                | 2000      |
-| [[Dwarven Bolts]] (10)                      | 620       |
-| [[eversmoke.png\|Eversmoking Bottle]]       | 800       |
-| [[Flail of Ogre's Wit]]                     | 500       |
-| [[visor.png\|Gladiator's Visor]]            | 500       |
-| Greater Health Potion (2)                   | 200       |
-| Health Potion (5)                           | 50        |
-| [[hummingbird.png\|Mechanical Hummingbird]] | 200       |
-| [[slipquick.png\|Slipquick Silks]]          | 600       |
-| [[Sovereign Glue]]                          | 18,000    |
-| [[Whistling Scimitar]]                      | 2100      |
-| [[Wreath of Flame]]                         | 1200      |
+| Item                                        | Cost (Gp) | Location   |
+| ------------------------------------------- | --------- | ---------- |
+| [[eversmoke.png\|Eversmoking Bottle]]       | 800       | Person     |
+| [[hummingbird.png\|Mechanical Hummingbird]] | 200       | Person     |
+| [[slipquick.png\|Slipquick Silks]]          | 600       | Person     |
+| [[Whistling Scimitar]]                      | 1700      | Person     |
+| [[Bag of Rope Trick]]                       | 450       | Person     |
+| [[Bloody Knuckles]]                         | 420       | Person     |
+| Greater Health Potion (2)                   | 200       | Person (1) |
+| Health Potion (5)                           | 50        | Person (2) |
+| [[borrowbands.png\|Borrowbands]]            | 720       | Shop       |
+| [[bottledbreath.png\|Bottled Breath]]       | 150       | Shop       |
+| [[Dwarven Bolts]] (10)                      | 620       | Shop       |
+| [[Wreath of Flame]]                         | 1200      | Shop       |
+| [[frame.png\|Animation Frame]]              | 500       | Shop       |
+| [[arrowshield.png\|Arrow-Catching Shield]]  | 1150      | Shop       |
+| [[Deconcussive Breastplate]]                | 2000      | Shop       |
+| [[Flail of Ogre's Wit]]                     | 500       | Shop       |
+| [[visor.png\|Gladiator's Visor]]            | 500       | Shop       |
+| [[Sovereign Glue]]                          | 18,000    | Shop       |
 
 
 #### Statblock
+![[sigurd steamsinger.png]]
+
 ```statblock
 creature: Sigurd Steamsinger
-spells: #### Spellcasting. Sigurd is a 13th-level half-caster. His spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Sigurd has the following spells prepared
+spells: #### Spellcasting. Sigurd is a 13th-level half-caster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). Sigurd has the following spells prepared
 - Cantrips (at will): _create bonfire, mage hand, prestidigitation_
 - 1st level (4 slots): _detect magic, identify, grease, shield_
 - 2nd level (3 slots): _enlarge/reduce, heat metal_
 - 3rd level (3 slots): _elemental weapon, glyph of warding, dispel magic_
 - 4th level (1 slots): _reslilient sphere_
-hp: 67
+hp: 97
 ```
