@@ -32,14 +32,3 @@ Sigurd operates a workshop in a little adjunct off the side of the [[Harport Che
 
 #### Statblock
 ![[sigurd steamsinger.png]]
-
-```statblock
-creature: Sigurd Steamsinger
-spells: #### Spellcasting. Sigurd is a 13th-level half-caster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). Sigurd has the following spells prepared
-- Cantrips (at will): _create bonfire, mage hand, prestidigitation_
-- 1st level (4 slots): _detect magic, identify, grease, shield_
-- 2nd level (3 slots): _enlarge/reduce, heat metal_
-- 3rd level (3 slots): _elemental weapon, glyph of warding, dispel magic_
-- 4th level (1 slots): _reslilient sphere_
-hp: 97
-```

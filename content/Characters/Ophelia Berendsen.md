@@ -17,7 +17,7 @@ Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell att
 - 2nd level (3 slots): _detect thoughts,  misty step_
 - 3rd level (3 slots): _counterspell, slow_
 - 4th level (3 slots): _greater invisibility, dimension door_
-- 5th level (2 slots): _summon [[Cahuatelle|Cahuatelle]], dominate person
+- 5th level (2 slots): _summon [[Cahuatelle]], dominate person_
 - 6th level (1 slot): _Otiluke's freezing sphere_
 - 7th level (1 slot): _etherealness_
 
@@ -25,10 +25,8 @@ Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell att
 #### Inventory
 - [[Stoic's Ring]]
 - [[Heels of Hasty Retreat]]
-- [[Ring of Pain]]
+- [[Masked Ablate|Ablated Amulet]]
+- [[Cahuatelle|Sapphire Hairpin]]
 
 #### Statblock
 ![[ophelia berendsen.png]]
-```statblock
-creature: Ophelia Berendsen
-```
