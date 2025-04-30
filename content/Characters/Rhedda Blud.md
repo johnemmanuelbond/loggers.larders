@@ -7,7 +7,4 @@ A gruff, but jolly woman, Rhedda's demeanor isn't instantly foreboding and she i
 While she harbors no ill will against her marks, her calm demeanor masks a ferocity that comes out in battle.
 
 #### Statblock
-
-```statblock
-creature: Rhedda Blud
-```
+![[rhedda blud.png]]

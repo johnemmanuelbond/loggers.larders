@@ -6,6 +6,3 @@ While he's soon to be married to [[Ophelia Berendsen]], he's only tangentially c
 
 #### Statblock
 ![[frank horibert.png]]
-```statblock
-creature: Frank Horibert
-```

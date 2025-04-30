@@ -21,6 +21,4 @@ Born and bred in [[Harport]] Nigel Fleck worked his way up from street urchin to
 - Sketched out map of Skipping Seal's hull and quarters, with one chamber labeled with a red 'X'
 
 #### Statblock
-```statblock
-creature: Knick
-```
+![[knick.png]]

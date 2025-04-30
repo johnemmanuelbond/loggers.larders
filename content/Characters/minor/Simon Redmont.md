@@ -10,6 +10,3 @@ If asked, Simon is all to happy to share that he's descended from the Barons of 
 
 #### Statblock
 ![[simon redmont.png]]
-```statblock
-creature: Simon Redmont
-```

@@ -2,6 +2,4 @@
 ###### Location(s): [[Harport]], [[Harport Racetrack]]
 
 #### Statblock
-```statblock
-creature: Harps Walks-on-Water
-```
+![[harps walks-on-water.png]]
