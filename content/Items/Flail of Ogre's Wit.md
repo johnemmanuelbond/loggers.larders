@@ -5,3 +5,5 @@
 While attuned, reduce your intelligence score by 1.
 
 *A black iron bladed octagonal weight hangs from a long chain attached to a ragged leather grip. Swinging the flail results in a deep gurgling noise.*
+
+![[ogreflail.png]]

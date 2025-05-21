@@ -2,6 +2,8 @@
 ###### Location(s): [[Harport]], [[Harport Racetrack]], [[Old City]]
 The eldest daughter of the [[Robert Berendsen|first Berendsen]] to arrive in [[Harport]], Ophelia is a force. An extremely tall woman with predatory features and immaculately sharp red-painted fingernails, Ophelia is usually dressed to the nines. Most often seen in a Yellow waistcoat over an extremely dark red dress, Ophelia travels around the city in a private carriage, flanked by guards on horseback, as she attends business.
 
+![[Pasted image 20250521005541.png]]
+
 #### Personal Goals
 Beyond advancing the general power and prosperity of the [[Berendsen Family]] organization, Ophelia has an interest in continuing her appointment to the closet counsel of the [[Harport Diet]] so that she can divert [[Harport City Watch|Watch]] attention away from her laundering locations, as well as give legitimacy to clandestine meetings with [[Thomas Smythe]]. 
 
