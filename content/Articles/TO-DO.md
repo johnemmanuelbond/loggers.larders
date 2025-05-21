@@ -1,17 +1,31 @@
-
 ###### Immediate Timeline
-- Day 3 (Monday):
-	- players roll for Esmellia
-		- Con save (10) to do anything (success)
-		- Persuasion check (13) to talk to guard (success)
-		- Wis save (15) against *suggestion* (failure)
-		- Investigation check (15) to find party (success)
-	- John rolls for Chaz:
-		- Wis (DC 13) to go back to taverns: He already followed Rhedda back to the track, wasn't seen (success)
-	- They'll need a DC 27 check to tell if Asra is hypnotized. His basic idea is to lead JM into the guardhouse where moser will get reinforcements to imprison him (near esme)
-		- Asra can point out the raven's foot charm and the mace is fairly obvious
-		- Inv check on JM: 12: coinpurse, 15: holy symbol, 18: eveything
-	- Frank and Ophelia's wedding, party plans to crash. Rhedda (at least) is working security in the guardhouse.
+- Day 3 (Monday) (Wedding Day):
+	- SUSPICION STARTS ON 3
+	- Early:
+		- Harps: after being suggestioned by Esmellia, he's stalking around looking for the party: lead Barty to the guardhouse.
+			- "Find the spoony dwarf, he'll be making a fool"
+		- Ophelia: making the rounds to important security personnel and VIPs
+		- Frank: getting ready in the penthouse and discussing wedding planning with the staff
+		- Moser: getting documents ready in office
+		- Rhedda: Planning with Kaire and staying out of sight on the 2nd floor. She's looking for the party out of the 2nd story windows (DC 14 stealth on the party in/out of casino back entrance). If she sees them she'll look for an opportunity to start taking them out.
+		- Asra: looking for Chaz to get intel on JM
+		- Prim & Fleance: scoping the joint
+	- Midday (2pm) -> Ceremony
+		- Ceremony: All security officers are posted up on crowd control as Ophelia and Frank get married in the middle of the racetrack
+		- Prim and fleance find the party to advise them that this is the moment, many guards are occupied if they can get out of sight they'll have a few hours to move
+	- Late: (5pm) -> reception. There's a horserace!
+		- Ophelia and Frank: making the rounds together
+		- Security is getting more lax, despite higher suspicion
+			- roll a 1 on a d4 to see who's drunk
+			- might see a scene of security personnel harassing poorer-looking attendees.
+		- Moser and Harps: Posted up at important locations (Security office and Thoroughfare respectively)
+		- Rhedda: Hoping to snag ophelia to present Esmellia's bounty as a gift
+
+
+- Party needs need a DC 22 check to tell if Asra is hypnotized. His basic idea is to lead JM into the guardhouse where moser will get reinforcements to imprison him (near esme)
+	- Asra can point out the raven's foot charm and the mace is fairly obvious
+	- Inv check on JM: 12: coinpurse, 15: holy symbol, 18: everything
+
 
 - Day 4:
 	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)
@@ -22,8 +36,12 @@
 - Day 7 (Sunday)
 
 ###### Session Prep
-- add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them. 
+- Figure out what Asra says, and where rhedda/kaire go next.
+- JM changeling alternative statblock and rules
+- add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.
 
+
+- Creatures statblock to image
 - Organize Items:
 	- Hagop item cost: clasp, pyramid, orb
 	- Entries for:

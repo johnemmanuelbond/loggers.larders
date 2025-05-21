@@ -51,6 +51,11 @@ Day 1: Reach out to Silvoy to corroborate. Figure out that the skipping seal lea
 Day 2: Search around racetrack, get kicked out. Talk to Hubert and Henning at river ferry, catch wind of Rhedda sighting. Go shopping for disguises. See chaz at caverns, who (via Benevolence) leads them towards the pigeon hole. Players are ambushed by Rhedda and Knick, and after a close fight, Knick is slain.
 
 Day 3: [[Asra Sallowhide]] and goons attack at caverns. The party fights them off and "hypnotizes" (except not) Asra. Frank and Ophelia's wedding. (Apparently). Silvoy's letter comes back, seal is verified at Solton offices in guild quarter, party is summoned for questioning (handy out at wedding?).
+- Early: 
+  Petunia and Rivka sneak around, see [[Harps Walks-on-Water]] stalking the thoroughfare, and then move to the flower garden and overhear Rhedda and Kaire talking about offloading their problem to the mistress.
+  Kargoe and Barty put on a traditional Aire dance with their new friend Lionhunter (from the caverns) in the middle of the thoroughfare. During the applause barty sees Asra slink away and enter the casino. They follow and get stopped at the door to hand over their weapons, they make a scene and end up talking with [[Simon Redmont]] about the vault.
+  JM tries to infiltrate the casino by lying about catering, he's given an escort (orwise and iklal) to help carry things but panics and decides
+- 
 
 Day 4: Detective Midred Melloy is appointed to the case.
 

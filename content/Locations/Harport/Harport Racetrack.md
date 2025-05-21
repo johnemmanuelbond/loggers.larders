@@ -183,6 +183,7 @@ There's another set of stables south of the thoroughfare where all the racing ho
 - Cash
 - Free Crab
 - That Thing
+- Fake News
 
 
 ### Bandstands
