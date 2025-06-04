@@ -1,15 +1,46 @@
+- figure out fleance and prim's plan. What do they know? What would they do?
+- Actually balance encounters
+	- Nerf Esmellia (she tired and hasn't recovered spells)
+	- Nerf Asra (also tired, only half-health)
+	- Find appropriate defense potion for rhedda (invuln seems strong)
+	- Who else is in cells?
+	- DC for breaking / picking cells
+	- DCs for escape over the walls / gate
+	- Guards waiting at armory exit (surprise round, good surprise for party)
+
 ###### Immediate Timeline
 - Day 3 (Monday) (Wedding Day):
-	- SUSPICION STARTS ON 3
+	- SUSPICION STARTS ON 4
+	- Top of session: 
+		- Stealth for Prim and Fleance (against sus 3)
+		- Investigation for fleance: to sus out information
+			- Ceremony is at 2pm (2 hours)
+		- Perception 
+	- Bart and Kargoe in cell 1 JJr in cell 2, Esmellia in cell 3
+	  Immediate: Cellmates witness iklal walk away to have a muffled conversation. Barty overhears:
+		  Moser: "There are at least two others, go and find Rhedda and tell Shraah to get his ass over here."
+		  Asra: "For folks without a plan these folks know how to throw a punch, I know we're stretched thin but we should keep at least two guards posted to raise an alarm if they try something."
+		  Moser: "Fine, Asra and Chuck, you stay here, Harps is upstairs briefing the next shift. I'll be back shortly."
+		  Bart and Esmellia get a few words before guards tell them to shut up
+		  
+	  15 minutes: Rhedda and Moser show up and begin interrogating the prisoners, starting with JJr. "Who are your friends. What are they wearing. Where is that totem you have?" If he's uncooperative they'll just start beating him up until he answers. "Nice of you to bring a wedding gift, etc."
+	
+	- Petunia and Rivka are stealthing around the flower garden.
+	  Immediate: witness each of their friends escorted into the guardhouse.
+		  Moser leaves and enters the casino, Rivka recognizes him from the night market
+	  5 min: Rhedda herself leaves the casino and grabs the orc by the door (another human takes his place), they both enter the guardhouse.
+		  DC 10 check: her piercings are back.
+	  10 min: disguised Fleance nonchalantly exits the casino back entrance plans plans plans
+	  15 min: Moser exits casino again, and returns to guardhouse
+	
+- If the party doesn't do anything for an hour, ophelia will be on her way whenever they do something
+
+
 	- Early:
-		- Harps: after being suggestioned by Esmellia, he's stalking around looking for the party: lead Barty to the guardhouse.
-			- "Find the spoony dwarf, he'll be making a fool"
-		- Ophelia: making the rounds to important security personnel and VIPs
-		- Frank: getting ready in the penthouse and discussing wedding planning with the staff
-		- Moser: getting documents ready in office
-		- Rhedda: Planning with Kaire and staying out of sight on the 2nd floor. She's looking for the party out of the 2nd story windows (DC 14 stealth on the party in/out of casino back entrance). If she sees them she'll look for an opportunity to start taking them out.
+
 		- Asra: looking for Chaz to get intel on JM
 		- Prim & Fleance: scoping the joint
+	
 	- Midday (2pm) -> Ceremony
 		- Ceremony: All security officers are posted up on crowd control as Ophelia and Frank get married in the middle of the racetrack
 		- Prim and fleance find the party to advise them that this is the moment, many guards are occupied if they can get out of sight they'll have a few hours to move

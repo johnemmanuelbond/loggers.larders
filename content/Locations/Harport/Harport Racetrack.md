@@ -113,7 +113,7 @@ Investigating Moser's office reveals
 - 10 empty key ring and map of the racetrack
 - 12 a letter asking to store a bounty in the basement from "Knick"
 - 16 an extra key ring hidden inside a boot
-- 20 a steel lockbox nailed to underside of a wardrobe the wall containing pouch of 750 Gp hidden in a boot. Must be opened with a DC 20 theives' tools check.
+- 20 a steel lockbox nailed to underside of a wardrobe containing a pouch of 750 Gp. Must be opened with a DC 20 theives' tools check.
 ![[racetrack4.png]]
 
 #### Vault
