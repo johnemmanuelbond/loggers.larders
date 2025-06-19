@@ -2,6 +2,8 @@
 ###### Location(s): [[Shimmer Grove]], [[Low Taiga]]
 ###### Titles: Sleeper under Shimmer Grove (Rovail Taur Henion), Fell Lord of Ashes (Gorthaur oer a Dhaerlind), Warden of the Floes (nîn-en-eithel)
 
+A hero and a heretic, a savior and a sadist.
+
 An ancient Elven blood mage, Adhael Anar has bound his body and spirit to the Preserved Ash tree at the [[Shimmer Grove]].
 
 His body sits preserved in the cavern underneath the ash tree, in a state of perpetual decay as it is ever-so-slowly torn apart and sundered by the tree's roots.

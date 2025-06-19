@@ -5,7 +5,7 @@ A word meaning "All Lands" in the [[Andradora|Andradoran]] tongue. In certain cu
 ![[aldwythe.png]]
 ```leaflet
 id: world
-image: melian.png
+image: aldwythe.png
 height: 800px
 width: 150%
 lat: 50

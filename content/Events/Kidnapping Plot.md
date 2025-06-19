@@ -17,11 +17,9 @@ Day 2: Identify the most susceptible Harport Goon and casts *suggestion* on them
 -> All successes: a wash, try again
 
 Day 3: Try *suggestion* again:
-->"Look for an Aire with a battleaxe and a human with an extremely wide-brimmed hat, tell them Esme's underground and overheard chatter about a wedding."
+-> Succeeded on Harps, who tipped off Bartholomood as to look
 
-Day 4-9: repeat until she gets caught.
-1. Try to find the spoon man at a tavern and attack them -> new spoon thief chase?
-2. -> "Send a letter Alberta DG (which gets forwarded to the guild). Addressed from Fly Catcher, the text is 'gold at the ponies' "
+...
 
 Day 10: If guard makes it back and figures out what happened, the begonias will gag Esmellia and she will have to think outside the box, i.e. try to use hellish rebuke to burn off her bonds and escape in a firey explosion. This might happen in a dramatic scene at the docks.
 
@@ -30,19 +28,11 @@ Day 1: Lay low at the racetrack, Knick will go to the night market (early) to bu
 
 Day 2: Rhedda and Knick get word from Benevolence. Decide to use Chaz to entrap the party in the Birdfoot tunnels. These plans get moved up because the party is asking around the racetrack. -> [[The Pigeon Hole]] -> Knick frickin' **dies**... Rhedda decides to involve [[Moser Wormwool]], informing him that their prisoner is an expensive bounty. Moser, of course, insists on a cut. So Rhedda has to convince Ophelia to get involved because she doesn't have enough money.
 
-Day 3: As a member of the Berendsen organization, Rhedda must work security at the Frank and Ophelia's wedding. She is actively looking to be useful and prove herself to ophelia by finding and removing the party.
+Day 3: As a member of the Berendsen organization, Rhedda must work security at the Frank and Ophelia's wedding. She is actively looking to be useful and prove herself to Ophelia by finding and removing the party. However, she gets drawn into a fight and dispatched.
 
-Day 4: Rhedda meets with Ophelia at Berendsen Manor, Ophelia offers to buy Rhedda out, on the condition Rhedda ties up the loose end.
+...
 
-Day 5: Esmellia is moved to Berendsen Manor
-
-Day 6:
-
-Day 7:
-
-Day 8:
-
-Day 9: Sneak esmellia aboard day that the ship leaves
+Day 10: Sneak esmellia aboard day that the ship leaves
 
 ### Player Movements
 
@@ -54,20 +44,14 @@ Day 3: [[Asra Sallowhide]] and goons attack at caverns. The party fights them of
 - Early: 
   Petunia and Rivka sneak around, see [[Harps Walks-on-Water]] stalking the thoroughfare, and then move to the flower garden and overhear Rhedda and Kaire talking about offloading their problem to the mistress.
   Kargoe and Barty put on a traditional Aire dance with their new friend Lionhunter (from the caverns) in the middle of the thoroughfare. During the applause barty sees Asra slink away and enter the casino. They follow and get stopped at the door to hand over their weapons, they make a scene and end up talking with [[Simon Redmont]] about the vault.
-  JM tries to infiltrate the casino by lying about catering, he's given an escort (orwise and iklal) to help carry things but panics and decides
-- 
-
-Day 4: Detective Midred Melloy is appointed to the case.
-
-Day 5:
-
-Day 6:
-
-Day 7:
-
-Day 8:
-
-Day 9:
+  JM tries to infiltrate the casino by lying about catering, he's given an escort (orwise and iklal) to help carry things but panics and decides to drink the holy water from the temple of melian and morian
+- Mid:
+  JM [[Vision in a Vial|trips out]] and emerges as a young child. The guards sus out what's going on and arrest him, throwing him into the dungeon.
+  Kargo and Barty saunter over to the guardhouse to stow Kargoe's scary glaive. Somehow they talk their way into getting a tour of the grounds where they run into Harps WW who, (under *suggestion*) tips off Barty about where Esme is hidden. After a brief kerfuffle they intentionally get captured and brought to the dungeon.
+  Rivka and Petunia watch all this happen, and see Moser fetch Rhedda from the casino. Rivka gets spotted and Rhedda brings her Downstairs. 
+- Action
+  Fleance and prim meet up with petunia and they begin quietly dispatching guards and moving towards the sounds of combat, because...
+  Rhedda and rivka's appearance in the dungeon triggers an all-out brawl. Rivka manages to keep Whedda pinned and Kargoe rips out her earing while Mork keeps the waves of guards busy. The fight gets close but eventually both Rhedda and Moser are downed by Kargoe's bitter blood and Prim's crossbow respectively, but not before Rhedda can activate her tattoo for reinforcements. 
 
 Day 10: Skipping seal leaves
 
@@ -107,3 +91,9 @@ Chase ends with whoever gets 3 successes or 3 failures first. If party succeeds 
 ```statblock
 creature: Harport Goon
 ```
+
+### Pigeon Hole Encounter
+![[The Pigeon Hole]]
+
+### Racetrack Heist
+![[Harport Racetrack]]

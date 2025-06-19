@@ -1,78 +1,17 @@
-- figure out fleance and prim's plan. What do they know? What would they do?
-- Actually balance encounters
-	- Nerf Esmellia (she tired and hasn't recovered spells)
-	- Nerf Asra (also tired, only half-health)
-	- Find appropriate defense potion for rhedda (invuln seems strong)
-	- Who else is in cells?
-	- DC for breaking / picking cells
-	- DCs for escape over the walls / gate
-	- Guards waiting at armory exit (surprise round, good surprise for party)
-
-###### Immediate Timeline
-- Day 3 (Monday) (Wedding Day):
-	- SUSPICION STARTS ON 4
-	- Top of session: 
-		- Stealth for Prim and Fleance (against sus 3)
-		- Investigation for fleance: to sus out information
-			- Ceremony is at 2pm (2 hours)
-		- Perception 
-	- Bart and Kargoe in cell 1 JJr in cell 2, Esmellia in cell 3
-	  Immediate: Cellmates witness iklal walk away to have a muffled conversation. Barty overhears:
-		  Moser: "There are at least two others, go and find Rhedda and tell Shraah to get his ass over here."
-		  Asra: "For folks without a plan these folks know how to throw a punch, I know we're stretched thin but we should keep at least two guards posted to raise an alarm if they try something."
-		  Moser: "Fine, Asra and Chuck, you stay here, Harps is upstairs briefing the next shift. I'll be back shortly."
-		  Bart and Esmellia get a few words before guards tell them to shut up
-		  
-	  15 minutes: Rhedda and Moser show up and begin interrogating the prisoners, starting with JJr. "Who are your friends. What are they wearing. Where is that totem you have?" If he's uncooperative they'll just start beating him up until he answers. "Nice of you to bring a wedding gift, etc."
-	
-	- Petunia and Rivka are stealthing around the flower garden.
-	  Immediate: witness each of their friends escorted into the guardhouse.
-		  Moser leaves and enters the casino, Rivka recognizes him from the night market
-	  5 min: Rhedda herself leaves the casino and grabs the orc by the door (another human takes his place), they both enter the guardhouse.
-		  DC 10 check: her piercings are back.
-	  10 min: disguised Fleance nonchalantly exits the casino back entrance plans plans plans
-	  15 min: Moser exits casino again, and returns to guardhouse
-	
-- If the party doesn't do anything for an hour, ophelia will be on her way whenever they do something
-
-
-	- Early:
-
-		- Asra: looking for Chaz to get intel on JM
-		- Prim & Fleance: scoping the joint
-	
-	- Midday (2pm) -> Ceremony
-		- Ceremony: All security officers are posted up on crowd control as Ophelia and Frank get married in the middle of the racetrack
-		- Prim and fleance find the party to advise them that this is the moment, many guards are occupied if they can get out of sight they'll have a few hours to move
-	- Late: (5pm) -> reception. There's a horserace!
-		- Ophelia and Frank: making the rounds together
-		- Security is getting more lax, despite higher suspicion
-			- roll a 1 on a d4 to see who's drunk
-			- might see a scene of security personnel harassing poorer-looking attendees.
-		- Moser and Harps: Posted up at important locations (Security office and Thoroughfare respectively)
-		- Rhedda: Hoping to snag ophelia to present Esmellia's bounty as a gift
-
-
-- Party needs need a DC 22 check to tell if Asra is hypnotized. His basic idea is to lead JM into the guardhouse where moser will get reinforcements to imprison him (near esme)
-	- Asra can point out the raven's foot charm and the mace is fairly obvious
-	- Inv check on JM: 12: coinpurse, 15: holy symbol, 18: everything
-
-
-- Day 4:
-	- Roll for Silvoy letter (10% there's a return message at citadel, 30% it's at ravenry)
-	- If Rhedda survives: Rhedda and Ophelia meet around noon to discuss bounty.
-	- If Rhedda dies but the players don't save esme: Ophelia reaches out to meet with party.
-	- Party at citadel?  (checks checks checks): Interface to Garut and Lynn, introduced to Sargent Rainidayas, assigned detective Mildred Melloy:  "Investigations on the birdfoot are hard, their presence is not appreciated. We'll put the word out on patrols, feel free to come back anytime and find me in my office."
-- ...
-- Day 7 (Sunday)
-
 ###### Session Prep
-- Figure out what Asra says, and where rhedda/kaire go next.
-- JM changeling alternative statblock and rules
+- Write / Print letter from alberta
+- Write / Print letter to alberta / next quest
+- flesh out Thetis crew and ocean travel encounters
+- Work with drew
+	- if ranger: Give him partially filled maps, and make tables to know things
+	- if elf: flesh out more of elven society
+- Map and populate cartographer's camp
+- Ocean and Taiga random tables and travel rules.
+- Write more of [[Dhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
+- Reconsider [[Erz Agrious|Erz]]. Put him in the taiga.
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.
 
-
-- Creatures statblock to image
+- Creatures: statblock to image
 - Organize Items:
 	- Hagop item cost: clasp, pyramid, orb
 	- Entries for:
@@ -92,9 +31,7 @@
 		- spirit phial (link to mork, grendelle)
 		- gladiator's visor (move to uppercuts, they won't remember)
 
-- Ocean and Taiga random tables and travel rules.
-	- Write more of [[Dhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
-	- Reconsider [[Erz Agrious|Erz]]. Put him in the taiga.
+
 
 ###### Build out harport:
 - Finish writing history (include stuff about fire of 0125) Harport is about 200 years old (founded in 0003) (i.e. 1830's boston, 60k people).
