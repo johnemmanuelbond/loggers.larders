@@ -1,6 +1,4 @@
 ###### Session Prep
-- Write / Print letter from alberta
-- Write / Print letter to alberta / next quest
 - flesh out Thetis crew and ocean travel encounters
 - Work with drew
 	- if ranger: Give him partially filled maps, and make tables to know things
