@@ -13,7 +13,6 @@
 
 - Creatures: statblock to image
 - Organize Items:
-	- Hagop item cost: clasp, pyramid, orb
 	- Entries for:
 		- arrow shield (fix, "weapon attacks", cost)
 		- blight biter

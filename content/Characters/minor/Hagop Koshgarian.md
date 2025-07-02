@@ -11,10 +11,11 @@ Hagop may offer to sell some of his magical craft if he's convinced it's a good 
 
 | Item                           | Cost(Gp) | Location |
 | ------------------------------ | -------- | -------- |
-| Pearl of Power                 | 350      | Person   |
+| [[Pearl of Power]]             | 350      | Person   |
 | [[Potion of Perceptiveness]]   | 250      | Person   |
 | [[Shield of Charm Reflection]] | 1070     | Person   |
-| [[Protective Clasp]]           |          | Home     |
-| [[Runic Pyramid]]              |          | Home     |
-| [[Orb of Cat Command]]         |          | Home     |
+| [[Bag of Rope Trick]]          | 450      | Person   |
+| [[Protective Clasp]]           | 610      | Home     |
+| [[Runic Pyramid]]              | 425      | Home     |
+| [[Orb of Cat Command]]         | 985      | Home     |
  

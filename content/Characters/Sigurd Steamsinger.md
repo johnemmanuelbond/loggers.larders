@@ -14,7 +14,6 @@ Sigurd operates a workshop in a little adjunct off the side of the [[Harport Che
 | [[hummingbird.png\|Mechanical Hummingbird]] | 200       | Person     |
 | [[slipquick.png\|Slipquick Silks]]          | 600       | Person     |
 | [[Whistling Scimitar]]                      | 1700      | Person     |
-| [[Bag of Rope Trick]]                       | 450       | Person     |
 | [[Bloody Knuckles]]                         | 420       | Person     |
 | Greater Health Potion (2)                   | 200       | Person (1) |
 | Health Potion (5)                           | 50        | Person (2) |

@@ -1,0 +1,3 @@
+###### Parent: [[The Floes]], [[Nordwythe]]
+
+Between that and the suspicious lack of nearby wildlife I decided it warranted investigation. I camped out nearby for a few days and found that the clearing is almost perfectly circular, and the ridge starts near the precise center of this circle and points out like a clock hand with only a few breaks in an otherwise straight line. I eventually discovered the whistling coming from one of these breaks in the stone of the ridge revealing a hollow interior cavity. 
