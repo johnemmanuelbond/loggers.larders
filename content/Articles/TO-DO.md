@@ -5,7 +5,7 @@
 	- if elf: flesh out more of elven society
 - Map and populate cartographer's camp
 - Ocean and Taiga random tables and travel rules.
-- Write more of [[Dhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
+- Write more of [[Adhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
 - Reconsider [[Erz Agrious|Erz]]. Put him in the taiga.
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.
 

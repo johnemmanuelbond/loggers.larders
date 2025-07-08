@@ -9,13 +9,14 @@ Hagop carries himself with a jovial presence and seeks to give others the tools 
 #### Craftwork
 Hagop may offer to sell some of his magical craft if he's convinced it's a good idea. He will also offer to meet the party at his house in market square if they buy any of his wares.
 
-| Item                           | Cost(Gp) | Location |
-| ------------------------------ | -------- | -------- |
-| [[Pearl of Power]]             | 350      | Person   |
-| [[Potion of Perceptiveness]]   | 250      | Person   |
-| [[Shield of Charm Reflection]] | 1070     | Person   |
-| [[Bag of Rope Trick]]          | 450      | Person   |
-| [[Protective Clasp]]           | 610      | Home     |
-| [[Runic Pyramid]]              | 425      | Home     |
-| [[Orb of Cat Command]]         | 985      | Home     |
+| Item                           | Cost(Gp) | Location      |
+| ------------------------------ | -------- | ------------- |
+| [[Pearl of Power]]             | 350      | [[Esoterica]] |
+| [[Potion of Perceptiveness]]   | 250      | [[Esoterica]] |
+| [[Shield of Charm Reflection]] | 1070     | Person        |
+| [[Bag of Rope Trick]]          | 450      | [[Esoterica]] |
+| [[Protective Clasp]]           | 610      | [[Esoterica]] |
+| [[Runic Pyramid]]              | 425      | Home          |
+| [[Orb of Cat Command]]         | 985      | [[Esoterica]] |
+
  

@@ -33,7 +33,7 @@ An ancient war between the [[Northern Elves]] and [[Ancient Merlings|Merlings]] 
 #### A custom-made plague
 
 
-[[Dhael Anar, Caendaur Fuirith]]
+[[Adhael Anar, Caendaur Fuirith]]
 
 
 ### Aftermath

@@ -18,6 +18,8 @@ Located on the tip of the [[Birdfoot]], the Guild Quarter houses the city's main
 			- +1 Longsword (250Gp)
 			- +1 Chain shirt (500Gp)
 			- Flaming Mace (1d6 fire damage on hit 1/turn) (300Gp)
+			- [[Flail of Ogre's Wit]] courtesy of [[Sigurd Steamsinger]]
+	- [[Esoterica]]
 
 #### The New Haven
 | Ship                  | Destination      | Departure |
@@ -36,15 +38,5 @@ Located on the tip of the [[Birdfoot]], the Guild Quarter houses the city's main
 | Karen                 | [[Harport]]      | Sep. 21   |
 ### Guildhalls
 
-###### [[Sigurd Steamsinger|Sigurd]]'s workshop
-- A little outcropping attached to the chemist's guildhall
-- Stock
-	- Hummingbird - 300
-	- Animation frame - 5000
-	- Arrow-shield - 3000
-	- Visor - 500
-	- Silks - 600
-	- Borrowbands - 720
-	- Eversmoke - 800
-	- Bottled Breath - 150
-	- Sovereign Glue - 18000
+- Cartographer's guildhall
+

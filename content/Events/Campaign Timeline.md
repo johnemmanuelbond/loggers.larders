@@ -27,4 +27,4 @@ A mysterious ship arrives in [[Harport]].
 #### 6. [[Endgame]]
 *Spring-End, 0224*
 
-[[Dhael Anar, Caendaur Fuirith]] threatens to unleash unholy apocalypse.
+[[Adhael Anar, Caendaur Fuirith]] threatens to unleash unholy apocalypse.
