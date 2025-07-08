@@ -16,5 +16,5 @@ While connected to the tree, Adhael's spirit is free to roam wherever the tree's
 
 #### Goals
 - Reincarnate into a powerful body.
-	- was creating [[Drew's Character]] for this purpose
-	- [[Olivia's Character]] and [[Rivka]] are also strong options
+	- was creating Drew's Character's body for this purpose
+	- Olivia's Character and Rivka are also strong options
