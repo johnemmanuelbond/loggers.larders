@@ -1,5 +1,5 @@
 ###### *Male, [[Aire Nomads]], 20's*
-###### Location(s): [[Weir's Point]],[[Fowl Camp]],[[Milton]],[[Harport]]
+###### Location(s): [[Weir's Point]],[[Fowyl Camp]],[[Milton]],[[Harport]]
 - A strapping young lad
 - Common is his 2nd language
 

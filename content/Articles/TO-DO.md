@@ -1,12 +1,23 @@
 ###### Session Prep
 - flesh out Thetis crew and ocean travel encounters
-- Work with drew
-	- if ranger: Give him partially filled maps, and make tables to know things
-	- if elf: flesh out more of elven society
-- Map and populate cartographer's camp
-- Ocean and Taiga random tables and travel rules.
+	- solton encounter npcs
+	- what's in alberta's chest
+- Alberta description & inventory
+- Taiga random tables and travel rules.
+	- Lemming/Remorhaz: remorhaz token, loot in remorhaz lair
+	- Werewolf: token, brief backstory
+	- Erz: token + statblock
+	- New grendelle statblock (with trident and skinsplinterer)
+	- Aire druid name, personality, reason for exploring
+- Design ruined tower encouter:
+	- mimic-ish with a magic crown
+		- long reach tentacle
+		- stinky sweet aura
+		- teleportation
+- collude with drew and olivia
+- Finish up ruined tower map and loot tables
+
 - Write more of [[Adhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
-- Reconsider [[Erz Agrious|Erz]]. Put him in the taiga.
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.
 
 - Creatures: statblock to image

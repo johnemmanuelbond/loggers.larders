@@ -1,5 +1,5 @@
 ###### *Gender, Ancestry, Age*
-###### Location(s): [[Ruined Tower]]
+###### Location(s): Ruined Tower
 
 ### Plot Hook
 

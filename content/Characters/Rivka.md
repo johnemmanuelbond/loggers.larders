@@ -7,4 +7,5 @@
 - Loves coffee
 
 #### Visions of the past
-Sitting in a stone circle outside of [[Fowl Camp]], Rivka was visited by the lanky spirits of long-dead denizens of those woods. They told her...
+Sitting in a stone circle outside of [[Fowyl Camp]], Rivka was visited by the lanky spirits of long-dead denizens of those woods. They told her... (whoops I forgot). Let's retcon/summarize:
+- I think they basically warned her about shay-luuq and all that stuff.

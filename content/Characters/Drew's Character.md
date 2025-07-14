@@ -1,5 +1,5 @@
 ###### *Male(?), Lemming/Humanoid, 4/v. old*
-###### Location(s): [[Ruined Tower]]
+###### Location(s): Ruined Tower
 
 - name ideas:
 	- panya (love it)

@@ -1,12 +1,9 @@
 ###### *Sep 3 - ?, 0223*
 
 ### Setup
-Upon arriving at _camp_
+Upon arriving at [[Map Camp]]
 
-
-
-### Travel to 
-
+See [[The Floes]] for travel tables along the river Wyfloe.
 
 ### Encounter at the ruined tower
 

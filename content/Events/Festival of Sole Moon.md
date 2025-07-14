@@ -11,7 +11,7 @@ The [[Player Party|party]] resolves the [[Dretch Abductions]], accidentally esco
 
 ### T-6
 ###### *August 24, 0223*
-The party leaves Milton to track down the woods woman. June Sturgil oversees food shipments into Milton for the festival, she seems a little more sluggish than usual. People comment on how she seems more comfortable because last year she was so stressed. The party arrives in [[Fowl Camp]] and feasts with [[Trukgoh Honkhonk Largoson]].
+The party leaves Milton to track down the woods woman. June Sturgil oversees food shipments into Milton for the festival, she seems a little more sluggish than usual. People comment on how she seems more comfortable because last year she was so stressed. The party arrives in [[Fowyl Camp]] and feasts with [[Trukgoh Honkhonk Largoson]].
 
 ### T-5
 ###### *August 25, 0223*

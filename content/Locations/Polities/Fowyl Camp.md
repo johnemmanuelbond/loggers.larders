@@ -1,4 +1,6 @@
 ###### Parent: [[Nordwythe]], [[Harken's Sound]]
+![[fowyl.png]]
+
 Deep down Shae's Stream, at the foot of the [[Mountains of Melian]] lies a small camp of about 4 large [[Aire Nomads|Aire]] families. The camp is ringed by an ancient and crumbling stone wall, no higher than 6ft, but still defensible by skilled Aire warriors. Ancient writings in a [[Northern Elves|forgotten language]] are carved into a few of the stones, scattered verses muse on "frozen wards" and "vile terrors" and "deepling horrors". Inside the ring are several dwellings made of hide and wood organized around a small common area with benches, tanning tables, and a large oven. Children play and their parents watch on.
 
 The people of this camp are outcasts, banished from the Northern Aire for claiming the sea spirit was reborn. They fled south, only to find their southern kin integrated with the [[Harport Colonials]]. Retreating into the dark wood, they cling to the river in hopes of the sea spirit's protection, but find themselves beset by danger. Nonetheless the strong leadership of Clan Mother [[Vos Flyggdottir]] and [[Uncle Tram Largoson]], the village has helped its denizens to eek out a living based off hunting, gathering, farming mushrooms in the river-caves, and limited trade with [[Milton]].

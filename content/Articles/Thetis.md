@@ -1,4 +1,5 @@
-_Thetis_ is a medium sized dual-masted, multi-decked cargo ship. Her linen sails are currently tied up .
+_Thetis_ is a medium sized dual-masted, multi-decked cargo ship. Her linen sails are currently tied up. The deck itself is in fairly good condition 
+
 
 She has salt-stained linen sails stained 
 
@@ -8,7 +9,6 @@ The deck is a patchwork of sturdy planks, with ropes and lines running in every 
 
 One of them looks up at the sun and, with a sigh begins to heave a barrel aftwards from the main deck. Your eyes follow his path towards the rear of the ship, where you see, above the stairs two levels of quarters and some stairs leading down below decks.
 
-Coming up from those stairs, in conversation is a familiar rotund and flamboyantly mustachioed man, in an energetic conversation with a taller, thin man dressed in a purple coat.
 
 See [sailing ship](https://www.dndbeyond.com/vehicles/sailing-ship?srsltid=AfmBOop_eF_EuhUWHeFLsOB2tBngpGdGXTBAhPbK8_PqriGC8UGFUy1c|asd) for rules.
 
@@ -54,3 +54,19 @@ The fjords themselves last for an entire day and night of sailing before they fi
 - **Roll 16-17:** Fog, moderate winds.
 - **Roll 18-19:** Storm, heavy rain, very low visibility.
 - **Roll 20:** polar storm: torrential downpour, near zero visibility.
+
+#### Dreams
+
+**Bartholomood**: Fake-out. Set the scene with the boat rocking and the distant rhythmic clashing of waves like a cymbal rising and falling. Then say sleep comes peacefully.
+
+**Petunia**: You're unsettled, sleep does not come easily. Seeing that obelisk of a man in the guardhouse basement today/yesterday is bringing up all kinds of painful memories from the pits. Friends who you put out of their misery, and the one friendly face dragged away before your eyes. You never knew what happened to the winning gladiators after they were bought by the masters. Those tall lanky figures in long black robes and lacquered wooden masks still haunt your quiet moments. Then, as now, you couldn't do anything.
+
+**Rivka**: As you close your eyes and smell the seaspray on the air, you're lulled to sleep by the rhythmic rocking of the ship. You wake up on the deck, the air filled with a cold mist around you. Out of the mist drift six forms with elongated limbs beneath tattered robes, atop slender necks sit gaunt faces with hollow eyes and pointed ears. These wraiths are familiar to you, you've spoken once before.
+*\[pause to interact\]*
+The figures begin to drift closer together, opening a passage through the ring to the northwest.
+*\[pause to interact\]*
+As you walk pass through this circle of ghosts the deck beneath you begins to shift, the wood softens into mud and reeds, where a small wooden boat is caught in a lazily flowing stream. You get in the boat, and fall back into trance as you paddle into the mist.
+
+**JM**: You're having trouble falling asleep too, one night you're doing that thing where you turn over and over in your cot trying to find the cool side of your bedroll, and all that turning is getting you a little dizzy. You know when you're alone in a dark room and your brain starts to play tricks on you and all of the sudden your feet feel like they're miles away? Well the movement of the boat doesn't help at all. You close your eyes and try to focus on your breathing but you just keep spinning. Spinning and falling through a familiar red cloud, under crushing weight until you lie prostrate beneath a familiar throne where a familiar figure speaks to you:
+*"Adhael, Hero, Heretic, Savior, Sadist"*
+*"Burn his memory to ash, and rise with will renewed"*
