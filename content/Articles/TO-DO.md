@@ -1,13 +1,13 @@
 ###### Session Prep
-- flesh out Thetis crew and ocean travel encounters
-	- solton encounter npcs
-	- what's in alberta's chest
-- Alberta description & inventory
 - Taiga random tables and travel rules.
-	- Lemming/Remorhaz: remorhaz token, loot in remorhaz lair
-	- Werewolf: token, brief backstory
+	- adventuring forest playlist
+		- forest sounds
+		- camp
+		- storm
+		- spooky mist
+		- battle
+	- Werewolf: brief backstory
 	- Erz: token + statblock
-	- New grendelle statblock (with trident and skinsplinterer)
 	- Aire druid name, personality, reason for exploring
 - Design ruined tower encouter:
 	- mimic-ish with a magic crown
@@ -34,7 +34,6 @@
 		- narcisene piercings (link to rhedda, and sigurd)
 		- invuln pot (link)
 		- mind reading pot (link?)
-		- seaspray threespear
 		- slipquick silks
 		- spirit phial (link to mork, grendelle)
 		- gladiator's visor (move to uppercuts, they won't remember)

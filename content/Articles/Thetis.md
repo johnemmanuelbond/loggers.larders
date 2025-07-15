@@ -1,52 +1,101 @@
-_Thetis_ is a medium sized dual-masted, multi-decked cargo ship. Her linen sails are currently tied up. The deck itself is in fairly good condition 
+An 80-foot, dual-masted, multi-decked cargo ship with a broad beam and deep draft, _Thetis_ is weatherworn and reliable. Her dark oak hull is stained near-black by salt and time, and streaks of oxidized green trace the iron bands reinforcing her prow. Though she bears no ornament or crest, her sharp silhouette and low, sloping rig designate her as speedy for her size.
 
+_Thetis_ is outfitted for cargo, not comfort. Her deck is a patchwork of sturdy planks with ropes and lines running in every direction, crisscrossing the rigging like a maze. The deck holds stout cranes and winches where you see several sailors loading fish barrels, lumber, ore, and the occasional reindeer carcass. At the bow of the ship there's a large open deck where you see about 4 or 5 sailors passing a pipe around, and as you approach the gangplank, the captain comes and greets you.
 
-She has salt-stained linen sails stained 
+Below deck, she carries a labyrinth of cargo holds and cold storage, lined with frost-covered brass runes that keep perishables from spoiling—a bit of helpful dwarven magic.
 
-strikingly blue-dyed sails tied to looming masts and stretched taut in the wind. The ship's deep hull is made of dark wood, though it's in surprisingly unweathered condition considering the length of her usual voyages.
-
-The deck is a patchwork of sturdy planks, with ropes and lines running in every direction, crisscrossing the rigging like a maze. At the bow of the ship there's a large open deck where you see about 4 or 5 sailors passing a pipe around.
-
-One of them looks up at the sun and, with a sigh begins to heave a barrel aftwards from the main deck. Your eyes follow his path towards the rear of the ship, where you see, above the stairs two levels of quarters and some stairs leading down below decks.
-
-
-See [sailing ship](https://www.dndbeyond.com/vehicles/sailing-ship?srsltid=AfmBOop_eF_EuhUWHeFLsOB2tBngpGdGXTBAhPbK8_PqriGC8UGFUy1c|asd) for rules.
+![[the thetis.png]]
+See [sailing ship](https://www.dndbeyond.com/vehicles/sailing-ship?srsltid=AfmBOop_eF_EuhUWHeFLsOB2tBngpGdGXTBAhPbK8_PqriGC8UGFUy1c|asd) for more rules.
 
 #### Crew
-- Captain: Charon Greywater, an aging, but still lithely muscular human. They wear their jet black hair in a short almost bowl-ish cut. Their red-speckled skin betrays a hint of dragonkin, but their eyes grey and round and cold, like stones. The captain is of few words, but navigates the ship with poise and strength
-- First Mate: Seffon Perri: loud and encouraging
-- Bosun: Obol Goldweather: jolly human, good with tools
-- Cook: Sherby Maddegood: kind of creepy halfling
-- Sailors:
-	- Mallekyn Kallow (T): Maroon skin, broken horn, athletic. Zealous worshipper of Morian
-	- Jetta Drake (H): Short brown hair, Narrow eyes, always seems to be judging you
-	- Loren Clevas (H)
-	- Jade Caskbow (H)
-	- Eli Stone (H) colorblind
+
+**Captain:** Charon Greywater
+	 An aging, but still lithely muscular human. Gruff and deliberate, they wear their jet black hair in a short, round cut. Their red-speckled skin betrays a hint of dragonkin, but their eyes grey and round and cold, like stones. The captain is of few words, but navigates the ship with uncanny foresight and has never lost a shipment.
+
+**First Mate:** Seffon Perri
+	A bouncy redhead with a voice that really carries, Seffon is the spirited heart of the _Thetis_. She's all toothy grins and booming encouragement—part cheerleader, part drill sergeant. She knows every knot, every haul line, and every crewmember’s favorite curse.
+
+**Bosun:** Obol Goldweather
+	A barrel-chested man with a soot-smudged face and a rolling laugh, Obol keeps the _Thetis_ afloat one rivet at a time. He's happiest elbow-deep in gearwork or carving scrimshaw between shifts. His tools are named. He talks to them. They sometimes answer.
+
+**Cook:** Sherby Maddegood  
+	A wiry goblin with wild eyes and a chef's hat that's definitely stolen, Sherby runs the galley like a mad scientist’s lab. He’s constantly inventing "new techniques" involving pickled squid, boiled pinecones, or fermented fish guts. The food is _technically_ edible. His enthusiasm is terrifying.
+
+**Sailors:**
+	1. Mallekyn Kallow _(Tiefling)_: Maroon skin, broken horn, coils up rigging like a spider. Devout follower of [[Osisran Monks|Morian]], mutters prayers in the rain.
+	2. Jetta Drake: Sharp eyes, sharper tongue. Always watching. Makes you feel like you’ve done something wrong, even if you haven’t.
+	3. Loren Clevae _(Half-Orc)_: Quiet, steady, unreadable. Says little, listens much. Possibly part barnacle with that grey skin.
+	4. Andrew Caskbow: Grimy hands, big grin. Constantly wet. Always has a story about nearly dying—and somehow makes it funny.
+	5. Eli Stone: Big, blunt, and colorblind. Double-checks everything, trusts no one else’s knots. Loyal as a ship's dog.
+	6. Brannick Toll: Brawny, bald, brash. Laughs in storms and spits in the face of danger.  
+	   🜏 _Secret: Mordred Kiln is a deserter from a [[Fort Solton|Solton]] warship—hiding under a fake name._
+	7. Suli Nardra: Cool, silent, unnervingly still. Grey eyes that look through you.
+	   🜏 _Secret: Haunted by dreams of ancient ruins calling from beneath the sea._
+	8. Tugg Lorman: Permanently smudged with grease. Fixes things mid-shift, mid-sentence, mid-bite. Might be part of the ship by now.
+	9. Merrit “Whiskers” Belk: Enormous beard, enormous stories. Claims to have outrun a ghost ship. No one’s sure if he's joking.
+	10. Drena Coil: Angular, scarred, and lean. Laughs too hard at dangerous situations. Always sharpening her axe.
+	11. Wick Dullen: Young, sunburned, anxious. Always writing in a little book. Probably knows more about the crew than anyone else.
+	12. Korrick Fen: Tall, slow-moving, sings sea dirges in a deep rumble. Avoids eye contact. Hates mirrors.
+	13. Marda “Peach” Glem _(Halfling)_ Small, sticky-fingered, and cheerful. Smuggles snacks. Might be smuggling more than that.
+	14. Torla Jebb: Braided hair, sea-glass eyes. Whittles sea creatures out of driftwood. Says her carvings “keep the real ones away.”
+
+
+![[captain charon.png]]
 
 #### Voyage
 
-###### Leg 1:
-Departing from the busy New Haven docks of Harport you get quite a spectacular view of the island-bound Old City with it's patchwork of stone and wooden buildings each with a brightly colored shingled rooves as it sits between those two branches of Shae's stream. You pass by several fishing barges and rowboats as you make towards the main lane where cargo ships come in and out of the bay which hosts Harport. You make north towards the bay's outlet, and as you make more distance the full breadth of the Birdfoot peninsula and it's mismash of architectural styles sitting on top of that rock which you know hosts numerous tunnels and caverns beneath. The farther you sail north into the bay, lined to the starboard with small fishing hamlets, the more you can see of Harken's Sound as a whole, and you can see why there's a city here. The entire sound sits within a valley between two spurs of an enormous mountain range coming into view to the south, Shae's stream tumbles northward from those mountains towards the city, all along it's lined with golden fields and small tufts of forest.
+###### Casting Off:
+You cast off from the **busy New Haven docks**, with gulls wheeling overhead and dockworkers shouting in mismatched Aire and Common. From the stern, the **Old City** unfolds—an island-bound patchwork of stone and timber, each rooftop shingled in vivid hues. Between the twin branches of **Shae’s Stream**, Harport bustles like a living map.
 
-After about an hour the boat begins to turn west as it follows the coastline towards rockier ground. To starboard the shore gives way to a rocky peninsula, at the tip of which you can see a small town of mostly wooden houses and a small dockyard with a few meager fishing vessels. Kargoe, you know this to be Hart's Point and while it has no harbor, it still sees some trade as it marks the entrance to the sound which contains Harport. Congratulations, you have hit the open ocean, and left Harken's sound for points unknown.
+Small fishing barges and rowboats drift by as _Thetis_ slips into the main lane, joining the broad flow of **cargo ships** entering and leaving the great bay. Behind and to port, **the Birdfoot Peninsula** rises—its rocky heights stacked with mismatched buildings above the labyrinth of caverns you know to run beneath.
 
-For another five or so hours the *Thetis* follows the coastline, which gets considerably rockier as you travel west. For the first few hours you can still make out a wagon or rider here or there following that road, but before too long it curves more inland and falls out of view behind increasingly jagged rocks. It's at the 6 hour mark, just as the sun begins, to set that you start to hear sounds of preparation from the crew. Ahead and to starboard another jagged and rocky shore comes in to meet the line you're following. Along that coastline sails another ship, roughly twice as large as yours, making a beeline straight towards you.
+As you sail northward, the bay opens wide. **Fishing hamlets** line the starboard shore, and you get a view of the entirety of Harken's Sound, sitting in a great valley between two **spurs of the mountain range** which come into view to the south. You follow Shae’s Stream with your eyes as it tumbles from the peaks, past **golden fields** and scattered woodlands, toward this very bay.
 
-As you and the other ship approach, you can begin to make out that where the two shorelines meet there is a high stone bridge fording a gushing river which violently flows down between two cliff faces to empty into the gulf you're now entering. On the south side of this bridge, atop one of those cliffs, sits is a squat stone keep made of roughly hewn grey stone, almost blending in with the cliffsides surrounding it.
+###### First Leg:
 
-The *Thetis* begins to slow as this other ship approaches...
+About an hour out into the bay, _Thetis_ turns west, hugging the rocky coastline. To starboard: a **jagged peninsula**, with a **small wooden town** perched at its tip. Kargoe pipes up: "That's **Hart’s Point**, I've sailed out of that town on many a trip to harvest from the seas' bounty!" You see it has no deep harbor, but still maintains a little trade due to its position here at the mouth of the bay. Congratulations, you have hit the open ocean, and left Harken's Sound for points unknown.
 
-###### Leg 2:
+For five more hours, you follow the **increasingly treacherous coast**. At first, you spot the odd wagon or rider inland—but the road disappears behind crags. By the **sixth hour**, as the sun dips low, you hear activity on deck. Another ship—**twice your size**—is approaching head-on.
 
-The next day's sail is marked with a decisive turn northward. Once again, the *Thetis* aims to follow the coastline. The captain is careful to keep a wide berth of the coast today, and their reasoning becomes clear the longer you look peer off to port. Where yesterday's sail was in comfortable view of Harport's surrounding farmland, the coast to the north of Fort Solton is nothing but jagged cliffs and fjords. Periodically you can see a waterfall jettisoning river water directly off of one of these cliffs down onto a beach where it carves a pit into the sand. At other times the cliffs step out to meet the water directly whereupon whitewater waves crash repeatedly into the sheer rock face. Behind those cliffs you see the range that the colonials have started calling the Mountains of Melian, extending impossibly far south and west, dominating the horizon. You can see why people associate these peaks with the world's mother itself. To the starboard side you look east, towards the empty northern sea, with not one other ship on the horizon. It's late in the summer, but down in Andradora you'd expect more trading vessels this close to the coast. The captain pipes up: "These aren't quite as bad as the Brokenkeel, but we'd still be pressed to keep the boat together if a storm hit. Best we make passage through the night."
+As you crest the deck, you see the off in the distance the meeting point of two rocky coasts, a **gushing river** pours between high cliffs. An unadorned **stone bridge** spans it. Beside the bridge, atop the cliff, stands a **squat grey keep**, almost indistinguishable from the stone around it—**Fort Solton**.
+
+Then comes the ship:  
+A sleek, iron-ribbed cutter with red and white sails, the name **_Stalworth_** gleaming in dark wood. **Marines in white tunics and steel helms** stand ready. A gangplank lowers. Five figures board.
+
+Leading them is **Commander Vellin Darse**, tall, poised, arms behind his back, uniform crisp and gold-trimmed. His voice is cold and formal:
+
+> **“Captain Greywater, glad to see you well.”**
+
+
+**Company:**
+- (Sannick) A stocky and serious man a thick moustache and an ink-stained journal.
+- (Iska) Cold-eyed, gloved, smells faintly of copper.
+- (Corv) Quiet, Grizzled, broad-shouldered. Has a haunted thousand-yard stare.
+- (Rel) Young and earnest, clearly on their first inspection voyage. Occasionally apologizes.
+
+###### Second Leg:
+
+At dawn, _Thetis_ veers **north**. The coastline becomes forbidding—**cliffs and fjords**, not farmland.  Periodically you can see a waterfall jettisoning river water directly off of one of these cliffs down onto a beach where it carves a pit into the sand. At other times the cliffs step out to meet the water directly whereupon whitewater waves crash repeatedly into the **sheer rock face**.
+
+To starboard: the empty northern sea, stretching to the horizon—**no sails, no ships**, eerily still and quiet.
+
+Behind those cliffs you see the range that the colonials have started calling the **Mountains of Melian**, extending impossibly far south and west, dominating the horizon. You can see why people associate these peaks with the world's mother herself. 
+
+Behind the cliffs rise a range the colonials have named the **Mountains of Melian**, ancient and immense, dominating the sky.
+
+The captain surveys the darkening waves and mutters:
+
+> _“Not as bad as the Brokenkeel, but if a storm hits, we’re in for it. Best make passage through the night.”_
+
 
 ###### Leg 3:
-The fjords themselves last for an entire day and night of sailing before they finally start to descend in amplitude and the coast finally lowers to actual sea level. Here the rocky cliffs give way to a low marsh dotted with high grasses and reeds. It's at about midday when the ship makes a turn to the west, proceeding down wide river outlet, about 300ft across, and begins to slow. The first mate comes to fetch you.
+After a full day and night through the fjords, the land finally **lowers**, and the cliffs fade into a low **marshland** dotted with **high grasses and reeds** swaying in the breeze. Around midday, the ship veers west into a **wide river outlet**, some **300 feet across**, and begins to slow.
 
-"Now I believe your passage only takes you this far, your guild has supplied a few canoes for your troupe. We'll keep anchor here for another few hours, but if we don't see you by nightfall we continue our voyage north."
+The **First Mate** (Seffon) approaches:
 
-###### Weather Table:
+> _“This is where we leave you. Your guild's canoes are prepped. We’ll anchor for a few hours—and if we don't hear you by nightfall, we continue north.”_
+
+##### Weather Table:
 - **Roll 1-5:** Calm, clear skies, light winds.
 - **Roll 6-8:** Light rain, slightly choppy seas.
 - **Roll 9-11:** Windy, rough seas, moderate visibility.
@@ -70,3 +119,11 @@ As you walk pass through this circle of ghosts the deck beneath you begins to sh
 **JM**: You're having trouble falling asleep too, one night you're doing that thing where you turn over and over in your cot trying to find the cool side of your bedroll, and all that turning is getting you a little dizzy. You know when you're alone in a dark room and your brain starts to play tricks on you and all of the sudden your feet feel like they're miles away? Well the movement of the boat doesn't help at all. You close your eyes and try to focus on your breathing but you just keep spinning. Spinning and falling through a familiar red cloud, under crushing weight until you lie prostrate beneath a familiar throne where a familiar figure speaks to you:
 *"Adhael, Hero, Heretic, Savior, Sadist"*
 *"Burn his memory to ash, and rise with will renewed"*
+
+#### Playlist:
+
+###### [adventerous](https://www.youtube.com/watch?v=LO3qLkzjg3w&list=RDLO3qLkzjg3w&start_radio=1)
+
+###### [somber and spooky](https://www.youtube.com/watch?v=2ovdl4FcI1g&list=RD2ovdl4FcI1g&start_radio=1)
+
+###### [stormy](https://www.youtube.com/watch?v=f43ANvCEltQ)

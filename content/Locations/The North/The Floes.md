@@ -33,11 +33,18 @@
 4. Petrified Skinspliter Grove
 
 #### Encounters
-1. 3d4+3 Dire Lemmings attack the party, afterwards a Young Remorhaz erupts out of the ground:
+1. 3d4+3 Dire Lemmings attack the party, afterwards a Young Remorhaz erupts out of the ground. Should the party defeat the remorhaz, a tunnel leads to a chamber with a burned-out lithe corpse. Upon investigating the corpse:
+   ***DC 5***
+	- cloak of elvenkind
+	- Elven half-plate (anyone can wear. negates stealth disadvantage)
+	**DC 10**
+	- Silvered spear
+	**DC 13**
+	- 4d6+6 pp, (printed with the image of a swan and a princess)
 
 2. The party finds a wolfed-out figure hunting deer, will attack if it notices the party: 
 
-3. One misty night Erz Agrious
+3. One misty night [[Erz Agrious]]
 
 4. A chance encounter with [[Grendelle the Grotesque]] and her [[Skinsplinterer]] bodyguard in the middle of the woods, how convenient!
 
@@ -50,5 +57,8 @@
 
 ![[werewolf.png]]
 
+![[erz agrious.png]]
 
+![[grendelle the grotesque (abroad).png]]
 
+![[skinsplinterer.png]]

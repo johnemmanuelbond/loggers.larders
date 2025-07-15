@@ -11,7 +11,14 @@ Her dog Toto, however, is a delight
 Born in [[Weir's Point]] to Shae and Harken, Grendelle's true name is Hagatha Shaesdottir.
 
 #### Malevolent Magics
-Intensely curious about the ancient [[Ancient Merlings|Merling]] tongue, she is inspired by the beasts she sees emerge from the deep lake. Killing and studying them has informed her own use of spirit magic to make the abominations she plans to unleash. This fascination with the Merlings and the [[Shay-Luuq]] started when Grendelle robbed a bestiary off of an [[Alberta de Genne|explorer]] that she left for dead after a fateful encounter in the forest. Deciphering the ancient language based on conversations with the nearby spirit at the [[Grendelle's Valley|Sealed Tomb]], she has used this ancient knowledge to hatch a plot.
+Intensely curious about the ancient [[Ancient Merlings|Merling]] tongue, she is inspired by the beasts she sees emerge from the deep lake. Killing and studying them has informed her own use of spirit magic to make the abominations she plans to unleash. This fascination with the Merlings and the [[Shay-Luuq]] started when Grendelle robbed a bestiary off out of a nearby mountain tomb. Deciphering the ancient language based on conversations with the nearby spirit at the [[Grendelle's Valley|Sealed Tomb]], she has used this ancient knowledge to hatch a plot.
+
+#### In Search of the Sleeper
+something something running through the woods to find the [[Ruined Tower]] and find the [[Adhael Anar, Caendaur Fuirith|Sleeper's]] spirit.
+
+![[grendelle the grotesque (abroad).png]]
+
+![[skinsplinterer.png]]
 
 #### The Skinsplinter Plot
 Grendelle's association with [[Harald Brightbrow]] began as most of her encounters do, with a murder in the woods. The victim, in this case, was a rather undistinguished Solton soldier, whose much luckier companion escaped Grendelle's claws. The 'lucky' soldier didn't last much longer since his tall tales of a horrifying woods woman sculpting the flesh of valiant men into a morbid abominations caught the attention of Grandmaster Harald, who, for the sake of more, cut this loose thread. By then Harald was already deeply ensnared by the spirits of the ruin under Solton, and looking for aid in comprehending the ancient Merling theological writings, and so he reached out to Grendelle.
@@ -22,9 +29,7 @@ Grendelle's cruelty and Harald's obsession have since fed off each other, what w
 
 Meanwhile, Harald's agent [[Tievel Set|Tievel]] will be gathering anti-Aire elements to further build out Harald's power base so he can eventually make a play for control of [[Harport]] itself. Beyond the destruction of [[Harken Keelmender|Harken's]] descendents and all they hold dear, Grendelle is excited about the prospect of an exiled and vulnerable population of feedstock for her dark magics. She is also hopeful that [[Knights of Termat|Termat]] rule will be a little more welcoming to her due to her having facilitated that rule.
 
-```statblock
-creature: Grendelle the Grotesque
-```
+![[grendelle the grotesque (lone).png]]
 
 #### Lair Encounter
 Approaching the lair the party will see several mangled corpses and skeletons, as well as many crows perched... watching.
@@ -62,9 +67,7 @@ If there's a ton of time left then Grendelle will monologue about how she knows 
 
 Captured = grappled by the tree of hands with the most problematic party member's dominant hand tied to a chopping block (Grendelle is walking around with a bloody axe). She may use suggestion to gather intelligence about party questgivers and might mutter something about killing [[Esmellia Leek]]. Alternatively, the party can try to drive her off with attacks, after which they'll have full run of the place.
 
-```statblock
-creature: Grendelle the Grotesque (Lair)
-```
+![[grendelle the grotesque (lair).png]]
 
 #### Lair Investigation
 If the party drives Grendelle off, start a 60 minute timer, (after which Grendelle returns to get her stuff).
