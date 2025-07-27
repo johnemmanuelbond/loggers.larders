@@ -1,14 +1,4 @@
 ###### Session Prep
-- Taiga random tables and travel rules.
-	- adventuring forest playlist
-		- forest sounds
-		- camp
-		- storm
-		- spooky mist
-		- battle
-	- Werewolf: brief backstory
-	- Erz: token + statblock
-	- Aire druid name, personality, reason for exploring
 - Design ruined tower encouter:
 	- mimic-ish with a magic crown
 		- long reach tentacle

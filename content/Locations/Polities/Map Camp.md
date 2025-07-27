@@ -18,3 +18,7 @@ After about an hour of padding past floating rafts of muddy grasses and vegetabl
 **Mollis Finnsdottir:**
 **Slen Wittensdottir:**
 **Hasdrubal Barrinson:**
+
+#### Soundboard
+- [Day](https://www.youtube.com/watch?v=3XsAejnuya0&list=RD3XsAejnuya0&start_radio=1)
+- [Night](https://www.youtube.com/watch?v=7KFoj-SOfHs)

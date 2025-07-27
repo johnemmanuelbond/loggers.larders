@@ -2,6 +2,9 @@
 
 Alberta: "Between that and the suspicious lack of nearby wildlife I decided it warranted investigation. I camped out nearby for a few days and found that the clearing is almost perfectly circular, and the ridge starts near the precise center of this circle and points out like a clock hand with only a few breaks in an otherwise straight line. I eventually discovered the whistling coming from one of these breaks in the stone of the ridge revealing a hollow interior cavity." 
 
+[Spooky Sounds](https://www.youtube.com/watch?v=2wyCWmhDbFc)
+[Monster Fight](https://www.youtube.com/watch?v=it4Ew1oJzpQ&list=RDit4Ew1oJzpQ&start_radio=1)
+Wi
 
 ### Baird Arth'hel Ruin
 *"The Tower at Ash Hollow"*
