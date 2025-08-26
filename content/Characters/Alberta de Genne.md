@@ -8,21 +8,15 @@ Alberta is halfling in the prime of her life! She has a boisterous and bubbly pe
 - leather armor, shield
 - shortbow, shorsword
 - Cartographer's tools, Thieves' tools
-- 2pp, 52gp
-- 1 greater healing potion
+- Extra charcoal, paper, ink, for making rubbings/maps/journals
+- 12pp, 102gp
+- 3 healing potions
+- 2 greater healing potion
 - Cute canvas hat, Travelers clothes
 - [[The Floes]] map
 - Explorer's pack Bullseye lantern, Miner's pick, Shovel
 - Local vegetation samples: Egarthopian pinecones, pressed reeds, etc
 - Ceramic unicorn statuette
-
-#### Delivery aboard the *Thetis*
-Alberta is expecting a sealed box containing:
-- extra funds (10pp, 50gp)
-- Extra charcoal, paper, ink, for making rubbings/maps/journals
-- Winter clothing for the camp members (just in case)
-- 3 healing potions
-- 1 greater healing potion
 
 #### Statblock
 ![[alberta de genne.png]]

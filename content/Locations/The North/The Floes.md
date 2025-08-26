@@ -37,7 +37,7 @@
    (Night, Camp): As night falls around your camp, the mist thickens and rises—curling in slow, deliberate coils between the trees. The world narrows to a circle of dim firelight, beyond which the forest melts into the greying fog.
    (on perception check, DC 10) From time to time, a faint blue glow flickers in the distance, like lantern light glimpsed through fog. It never moves when you're looking… but it's never quite in the same place twice. The rising fog doesn’t settle evenly. It moves with intent, threading like veins across the clearing, around the campfire—_toward_ Kargoe. Kargoe, your sleep is beset by a dull pulse in your chest and shoulder, and all you can see as you sleep is that weird sensation of dull red splotches like when you rub your eyes too hard. Make a constitution saving throw.
    
-5. Petrified Skinspliter Grove: 
+4. Petrified Skinspliter Grove: 
    The forest breaks all at once, giving way to a barren, silent, and choked clearing. Around you stand petrified trees—if you can call them that—twisted things with pale chalk-white and crumbling trunks littered with wickedly curved thorns. Some are hunched, others claw skyward, their grasping limbs frozen mid-motion, as if they died reaching for salvation towards the moon. The earth underfoot is scorched and cracked in a near-perfect ring, dried out like a molted insect shell, half-consumed by ash and time. Nothing moves beyond the shadows of clouds in the sky.
    Checks:
 	- perception

@@ -104,6 +104,14 @@ The **First Mate** (Seffon) approaches:
 - **Roll 18-19:** Storm, heavy rain, very low visibility.
 - **Roll 20:** polar storm: torrential downpour, near zero visibility.
 
+#### Delivery for [[Alberta de Genne|Alberta]]
+Alberta is expecting a sealed box containing:
+- extra funds (10pp, 50gp)
+- Extra charcoal, paper, ink, for making rubbings/maps/journals
+- Winter clothing for the camp members (just in case)
+- 3 healing potions
+- 1 greater healing potion
+
 #### Dreams
 
 **Bartholomood**: Fake-out. Set the scene with the boat rocking and the distant rhythmic clashing of waves like a cymbal rising and falling. Then say sleep comes peacefully.
