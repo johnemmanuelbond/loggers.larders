@@ -3,7 +3,7 @@ So, in lieu of last week's session, and in an attempt to get new players involve
 
 In order to get there you have a 9-day upriver canoe trip (kinda intense IRL, but it's fiction! Heyo!). I'm happy to wave my hands and just roll for exhaustion at the end. Buuuuut I think it could be pretty fun to play out just a little bit of that trip in character over text! That way we keep everybody's memory fresh, give y'all something to follow up on when we resume, get super distracted at Paul's wedding, that kinda thing. It's you 5 and Alberta in 3 canoes for over a week so there'd be plenty of time for character moments, looking out over the landscape, experimenting with magic items, talking to animals, etc.
 
-I'm attaching a link which has some details about the trip just as a jumping off point. It'd be cool if we can intersperse my narration with a few little vignettes from the lot of you guys (and even Kevin if you wanna!). Just like a couple of little scenes with 2-3 people to keep everyone engaged. The link is contained within my campaign wiki, so be super careful because there are spoilerific reveals if you read around too far. I'm trusting y'all :).
+I'm attaching a link (https://johnemmanuelbond.github.io/loggers.larders/Articles/Canoe-Trip!) which has some details about the trip just as a jumping off point. It'd be cool if we can intersperse my narration with a few little vignettes from the lot of you guys (and even Kevin if you wanna!). Just like a couple of little scenes with 2-3 people to keep everyone engaged. The link is contained within my campaign wiki, so be super careful because there are spoilerific reveals if you read around too far. I'm trusting y'all :).
 
 ### Timeline
 
@@ -29,8 +29,8 @@ The third tributary comes from the south again. Here, at the start of the eighth
 
 #### Day 10
 
-At the end of the ninth day you camp at the edge of the river and Alberta gives you a low-down on what you're expecting:
+At the end of the ninth day you pull your canoes ashore and camp at the edge of the river. Alberta gives you a low-down on what to expect:
 
 "So, friends, I cannot lie this is very exciting. I'm going to lead you to this clearing and by the way its arranged there's no way it can be natural. The meadow itself is almost perfectly circular, about 200 feet across, and this weird rock formation just stops right at the middle! On top of that, I think there's something living in it! I'm pretty quiet myself and got close enough to see an, I don't know, masoned(?) texture on the inside of its cave. If this is what I think, its a remnant of something truly ancient, so we need to be careful not to disturb anything."
 
-After you pull your canoes ashore, the trek to the site takes about 6 hours of cutting through thick taiga underbrush, and you reach the clearing Alberta spoke of, dominated by this strange mound, and the rush of curiosity.
+The trek to the site takes about 6 hours of cutting through thick taiga underbrush, and you reach the clearing Alberta spoke of, dominated by this strange mound, and the rush of curiosity.
