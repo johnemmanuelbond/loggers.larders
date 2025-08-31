@@ -1,34 +1,8 @@
 ###### *Sep 3 - ?, 0223*
 
-### Setup
-Upon arriving at [[Map Camp]] the party meets [[Alberta de Genne]] and agrees to move out towards the ruined tower.
+### Setup (breaking third wall)
 
-(speedrun for canoe travel) See [[The Floes]] for travel tables along the river Wyfloe.
-
-3 days by canoe to river:
-	describe flowing reeds and a whistling sound, occasional mounds of greying earth out in the distance.
-	Sleep in the bag? It's hella cramped and uncomfortable, especially for kargoe and petunia. If they close the hatch they might run out of air.
-
-12 days slow = 6 days direct:
-	describe deep woods, an occasional squirrel burying a nut, and the cracking of pinecones under a bear's foot
-
-#### Canoe Table
-| roll  | event                                                   |
-| ----- | ------------------------------------------------------- |
-| 1-6   | rain                                                    |
-| 7-12  | ominous: vultures on carcass, feelings of being watched |
-| 13-18 | cute animal (squirrel -> osprey -> bear -> moose)       |
-| 19-20 | Erz's eyes come                                         |
-
-1 day walk out to the tower
-	under the shadow of enormous fir trees where the ground is firm bed of dried and decaying needles punctuated with occasional ferns
-
-#### Soundboard
-- [Adventure!](https://www.youtube.com/watch?v=RQJiDxIiWAc&list=RDRQJiDxIiWAc&start_radio=1)
-- [Camp](https://www.youtube.com/watch?v=7KFoj-SOfHs)
-- [Mystery](https://www.youtube.com/watch?v=4Y6n-1XQSfE&list=RD4Y6n-1XQSfE&start_radio=1)
-- [Scary vibes](https://www.youtube.com/watch?v=FK6vMuD-W0U&list=RDFK6vMuD-W0U&start_radio=1)
-- [Bad Weather](https://www.youtube.com/watch?v=y2w_NS0qbqs)
+![[Canoe Trip!]]
 
 ### Encounter at the ruined tower - 
 
