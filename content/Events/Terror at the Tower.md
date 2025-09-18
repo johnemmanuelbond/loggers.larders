@@ -2,7 +2,7 @@
 
 ### Setup (breaking third wall)
 
-![[Canoe Trip!]]
+![[Canoe Trip]]
 
 ### Encounter at the ruined tower - 
 
