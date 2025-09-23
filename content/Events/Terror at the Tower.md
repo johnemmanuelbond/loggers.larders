@@ -1,8 +1,17 @@
 ###### *Sep 3 - ?, 0223*
 
-### Setup (breaking third wall)
+After the [[Canoe Trip]], players arrive at the tower
 
-![[Canoe Trip]]
+Quick canoe trip skill challenge:
+
+| Successes | result           |
+| --------- | ---------------- |
+| 5         | DC 6 exhaustion  |
+| 4         | DC 8 exhaustion  |
+| 3         | DC 10 exhaustion |
+| 2         | DC 12 exhaustion |
+| 1         | DC 15 exhaustion |
+
 
 ### Encounter at the ruined tower - 
 
@@ -22,6 +31,20 @@ Perception Check:
 
 If dive right in start combat, otherwise, if they spend more than 1 hour out of line of sight:
 - Fail a group stealth: (DC 10) Ask for If stealthy approach
+
+##### Fight prep
+
+
+###### If rest:
+During middle watch, Kargoe gets up and approaches ruin enterence
+
+###### If explore immediately:
+Play it out, but Kargoe will try and enter the ruin well ahead of everyone, and look kind of weird doing so.
+
+Kargoe Insight
+- 10: doesn't seem quite himself
+- 15: he's been getting steadily weaker over the course of the trip, now that you think of it
+- 20: that viney growth sure is acting up
 
 ##### Fight
 **Round 1**: Blood burbles, viscous transit to someone. - descend, ascend at bart?
