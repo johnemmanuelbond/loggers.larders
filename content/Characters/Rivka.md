@@ -1,5 +1,6 @@
 ###### *Female, [[Harport Colonials]]/[[Northern Elves]], 20's*
 ###### Location(s): [[Harport]], [[Milton]]
+
 - Half-Elf from outside of Harport, hasn't shown elven features yet  
 - Andradoran mother was adventurous and traveled into the deep taiga, coming back with a child
 - Rescued [[Old Gran Mimsdottir]] as part of a daring racehorse freeing escapade
@@ -7,9 +8,8 @@
 - Loves coffee
 
 #### Visions of the past
-Sitting in a stone circle outside of [[Fowyl Camp]], Rivka was visited by the lanky spirits of long-dead denizens of those woods. They told her... (whoops I forgot). Let's retcon/summarize:
-- I think they basically warned her about shay-luuq and all that stuff.
-
+- Sitting in a stone circle outside of [[Fowyl Camp]], Rivka was visited by the lanky spirits of long-dead denizens of those woods, who warned of "deepling horrors" on the way.
+- Meditating on the deck of the [[Thetis]], Rivka was ensorcelled and encircled by the familiar ring of wraiths. This time they encouraged her westward journey.
 
 #### Spells
 
@@ -19,9 +19,9 @@ Sitting in a stone circle outside of [[Fowyl Camp]], Rivka was visited by the la
 3. [Druidcraft](https://dnd5e.wikidot.com/spell:druidcraft)
 4. [Produce Flame](https://dnd5e.wikidot.com/spell:produce-flame)
 
-##### 1st-2nd Level
+##### 1st-3rd Level
 
-Prepare 7 (Wisdom mod. + Druid Level) from [druid spell lists](https://dnd5e.wikidot.com/spells:druid)
+Prepare 8 (Wisdom mod. + Druid Level) from [druid spell lists](https://dnd5e.wikidot.com/spells:druid)
 
 #### Arctic List
 | Druid Level | Circle Spells                                                                                                                          |
@@ -37,6 +37,8 @@ Prepare 7 (Wisdom mod. + Druid Level) from [druid spell lists](https://dnd5e.wik
 
 ### 5e Rules
 
+###### [Half-Elf](https://dnd5e.wikidot.com/lineage:half-elf)
+###### [Outlander](https://dnd5e.wikidot.com/background:outlander)
 ###### [Druid Rules](https://dnd5e.wikidot.com/druid)
 ###### [Circle of Land](https://dnd5e.wikidot.com/druid:land)
 ###### [Druid Spells](https://dnd5e.wikidot.com/spells:druid)

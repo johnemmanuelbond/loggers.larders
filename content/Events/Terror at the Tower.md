@@ -11,7 +11,7 @@ Quick canoe trip skill challenge:
 | 3         | DC 10 exhaustion |
 | 2         | DC 12 exhaustion |
 | 1         | DC 15 exhaustion |
-
+- @kargoe and @alberta each have 1 level
 
 ### Encounter at the ruined tower - 
 
@@ -34,7 +34,6 @@ If dive right in start combat, otherwise, if they spend more than 1 hour out of 
 
 ##### Fight prep
 
-
 ###### If rest:
 During middle watch, Kargoe gets up and approaches ruin enterence
 
@@ -54,8 +53,28 @@ Kargoe Insight
 ![[Sloghoth]]
 
 
+### A smokey ballroom
 
+1. Eitheloth ballroom, but red and smokey and viscous
+2. Dancers obstruct view of another figure
+3. Angry all of the sudden, lashing out at dancers
+	1. Blast of fire
+4. Party member falls in
+	1. Petunia
+5. Feels wounds from flight, passes out
+	1. blast of fire, intense heat
+	2. stabbing pains in the head and side
+	3. 
+6. Wakes up on the ground in a fetal position
 
-### A stranger in the hold 
+@Gilroy, you've been in a daze for so long, walking wistlessly around this great hall. For what feels like the millionth time you regard the gaseous forms which surround you, dancing in smoking whirls around and between the viscous columns of flowing crimson which fall from some far-off ceiling. Some of their ghastly faces are framed in horror and others carry an eerie joy that's much, much worse. None regards you back, they never have.
 
-Upon defeating the [[Sloghoth]] and exploring the [[Ruined Tower]], the you all come across...
+You remember dancing in a ballroom like this with your sister when you were young, but the colors are all off. Eitheloth was a lovely blue and silver, flush with daylight. These figures dance the same dance your friends and family did, but in the dim red light of this room any music is overwhelmed by the surrounding walls of terribly torrential wind and cloud. The dancers materialize in and out of the walls, but you've always stayed away.
+
+In the midst of this twisted memory you stumble forward, fighting the current, and step your way ever closer to the only other dancer with any color in their face. You've been chasing them for as long as you've been trapped here, but every time, as soon as you arrive, they're as far away as they've always been. Your calls are drowned out by the rushing wind.
+
+It's infuriating to feel this powerless. In a range, you swing out at a dancer with both your hands, and violently disperse it only for it to reform naught but a step away, it's unbothered partner simply continuing the dance.
+
+Then you feel something a new, a stabbing pang in your left side, you double over and feel an intense blow to your gut, you double over, the wind knocked out of you, and your consciousness fades...
+
+Upon defeating the [[Sloghoth]] it vomits forth four bodies, two of which are recognizably @petunia and @johnmoore, two of which are new.

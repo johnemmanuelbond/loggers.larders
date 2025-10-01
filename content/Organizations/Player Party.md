@@ -27,11 +27,13 @@ A loveable gang of knuckleheads
 
 ### Members
 
-| Member                        | Role    |
-| ----------------------------- | ------- |
-| [[Bartholomood]]              | Bard    |
-| [[John Moore]]                | Cleric  |
-| [[Kargoe Bepbiep Trukgohson]] | Paladin |
-| [[Petunia]]                   | Fighter |
-| [[Rivka]]                     | Druid   |
+| Member                        | Role      |
+| ----------------------------- | --------- |
+| [[Bartholomood]]              | Bard      |
+| [[John Moore]]                | Cleric    |
+| [[Kargoe Bepbiep Trukgohson]] | Paladin   |
+| [[Petunia]]                   | Fighter   |
+| [[Rivka]]                     | Druid     |
+| [[Lemm No]]                   | Sorcerer  |
+| [[Gilothy Silarin]]        | Artificer |
 

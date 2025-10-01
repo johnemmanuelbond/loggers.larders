@@ -1,5 +1,5 @@
 ###### *Male, [[Andradorans]], 40-something*
-###### Location(s): [[Milton]],[[Harport]] 
+###### Location(s): [[Milton]], [[Harport]], [[Map Camp]], [[Ruined Tower]]
 - human from Andradora
 - far traveler
 - was an Osisran monk, but is growing disillusioned
