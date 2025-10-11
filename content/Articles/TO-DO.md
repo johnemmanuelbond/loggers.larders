@@ -1,8 +1,30 @@
 ###### Session Prep
 - FIX BAG ITEM CARD
-- FIX SHOGGOTH STATBLOCK
-- collude with drew and olivia
+- Alberta mini
+- second remorhaz mini
+
+- Finish introducing ruined tower1
+	- how to tease grendelle - toto
+	- kargoe timing
+
 - Finish up ruined tower dungeon, encounters, and loot
+	- Remake map (in story book gm advice)
+	- Make astrolabe puzzle
+		- adhael was astral projecting into the tower but got stuck in the astrolabe when it got gummed up by the sloghoth
+			1. sloghoth goop is receding
+			2. astrolabe is stuck in a clicking loop
+			3. missing a key part
+	- Sloghoth lair loot table
+	- ward room checks / description
+	- Descent / entrance verse checks / description
+	- atrium/extraplanar/kitchen
+		- animated cutlery encounter... lol
+		- loot tables
+		- lore? - find... stuff about astrolabe and kargoe's ritual
+	- Master's apartments
+		- loot table
+		- remorhaz sign (and escape tunnels)
+	- Missing libray checks / descriptions (signs of being teleported away) 
 
 - Write more of [[Adhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.
