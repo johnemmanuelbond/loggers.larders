@@ -64,7 +64,7 @@ In Session:
 	- Fleance, [[Rivka]], and [[John Moore|John]] discuss the odd ruins and this old book, though John doesn't seem to trust Fleance with full detail.
 - [[Bartholomood|Barty]] shits himself silly, at least until he gets dragged away to (not) translate a book.
 - Party successfully convinces June, Wilson, and Silvoy that Grendelle's threat is real and Sillvoy sends for reinforcements.
-- The party interrupts the play rehearsal to warn old gran. Then they get the outline of the play and the broad strokes of the story of [[Shae]], [[Harken Keelmender|Harken]]and the [[Old Hag]]
+- The party interrupts the play rehearsal to warn old gran. Then they get the outline of the play and the broad strokes of the story of [[Shae]], [[Harken Keelmender|Harken]] and the [[Old Hag]]
 
 ### The Day of Sole Moon
 ###### *August 30, 0223*

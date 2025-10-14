@@ -1,25 +1,24 @@
 ###### Session Prep
 - FIX BAG ITEM CARD
-- Alberta mini
-- second remorhaz mini
+- necromancy ring
+- see invisibility lens
+- Climbing potion
+- magic circle scroll
+- wind chime
+- driftglobe
+- violin
 
-- Finish introducing ruined tower1
+- Finish introducing ruined tower
 	- how to tease grendelle - toto
 	- kargoe timing
 
 - Finish up ruined tower dungeon, encounters, and loot
-	- Remake map (in story book gm advice)
-	- Make astrolabe puzzle
-		- adhael was astral projecting into the tower but got stuck in the astrolabe when it got gummed up by the sloghoth
-			1. sloghoth goop is receding
-			2. astrolabe is stuck in a clicking loop
-			3. missing a key part
-	- Sloghoth lair loot table
 	- ward room checks / description
 	- Descent / entrance verse checks / description
 	- atrium/extraplanar/kitchen
 		- animated cutlery encounter... lol
 		- loot tables
+			- Silly enchnated kitchen utensil as a weapon
 		- lore? - find... stuff about astrolabe and kargoe's ritual
 	- Master's apartments
 		- loot table

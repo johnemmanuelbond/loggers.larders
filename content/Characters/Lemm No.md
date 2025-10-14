@@ -6,28 +6,33 @@
 - needs to use an old-timey voice when speaking common, (any old timey), (collaborate w/ olivia)
 
 #### Spells
+V: verbal (abracadabra)
+S: somatic (hand gestures)
+M: material (usually a joke)
+- An *arcane focus* or *component pouch* can generically cover random material components (but it's still fun flavor to mention them)
+- If a component has a gold cost (i.e. incense) you need to find/purchase/steal that actual item in the world
 
 ##### Cantrips
-1. [Minor Illusion](https://dnd5e.wikidot.com/spell:minor-illusion)
-2. [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
-3. [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
-4. [Thaumaturgy](https://dnd5e.wikidot.com/spell:thaumaturgy)
-5. [Ray of Frost](https://dnd5e.wikidot.com/spell:ray-of-frost)
+1. [Minor Illusion](https://dnd5e.wikidot.com/spell:minor-illusion) V, S, M (a bit of fleece)
+2. [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation) V, S
+3. [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand) V, S
+4. [Thaumaturgy](https://dnd5e.wikidot.com/spell:thaumaturgy) V
+5. [Ray of Frost](https://dnd5e.wikidot.com/spell:ray-of-frost) V, S
 
 ##### 1st Level
-1. [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar)
-2. [Shield](https://dnd5e.wikidot.com/spell:sheild)
-3. [Magic Missile](https://dnd5e.wikidot.com/spell:magic-missile)
-4. [Charm Person](https://dnd5e.wikidot.com/spell:charm-person)
+1. [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) V, S, M (10gp of charcoal, incense, herbs, etc)
+2. [Shield](https://dnd5e.wikidot.com/spell:shield) V, S
+3. [Magic Missile](https://dnd5e.wikidot.com/spell:magic-missile) V, S
+4. [Charm Person](https://dnd5e.wikidot.com/spell:charm-person) V, S
 
 ##### 2nd Level
-1. [Invisibility](https://dnd5e.wikidot.com/spell:invisibility)
-2. [Shadow Blade](https://dnd5e.wikidot.com/spell:shadow-blade)
-3. [Phantasmal Force](https://dnd5e.wikidot.com/spell:phantasmal-force)
+1. [Invisibility](https://dnd5e.wikidot.com/spell:invisibility) V, S, M (an eyelash encased in gum arabic)
+2. [Shadow Blade](https://dnd5e.wikidot.com/spell:shadow-blade) V, S
+3. [Phantasmal Force](https://dnd5e.wikidot.com/spell:phantasmal-force) V, S, (a bit of fleece)
 
 #### 3rd Level
-1. [Major Image](https://dnd5e.wikidot.com/spell:major-image)
-2. [Fireball](https://dnd5e.wikidot.com/spell:fireball)
+1. [Major Image](https://dnd5e.wikidot.com/spell:major-image) V, S, M (a bit of fleece... lol)
+2. [Fireball](https://dnd5e.wikidot.com/spell:fireball) V, S, M (bat guano and sulfur)
 
 #### Feats
 ###### [Metamagic Aedept](https://dnd5e.wikidot.com/feat:metamagic-adept) 

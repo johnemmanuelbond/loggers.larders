@@ -9,12 +9,12 @@ The [[Player Party|party]] investigates missing lumberjacks in [[Milton]].
 
 [[Grendelle the Grotesque]] unleashes a [[Skinsplinterer]] on the unsuspecting [[Milton]] villagers on [[The Day of Sole Moon]].
 
-#### 3. [[Kidnapping Plot]]
+#### 3. [[Kidnapping Plot]]/[[Harport Racetrack#Wedding "Heist"|Wedding Heist]]
 *August 30 - September 8, 0223*
 
 [[Rhedda Blud]] and [[Knick]] kidnap [[Esmellia Leek]] to fulfill a bounty. They hope to smuggle her to [[Andradora]] aboard *The [[Skipping Seal]]*.
 
-#### 4. [[The Hunt for Alberta]]
+#### 4. [[Terror at the Tower]]
 *Fall-Winter, 0223-0224*
 
 [[Alberta de Genne]] requests help exploring the [[Wyfloe Delta]] from the [[Harport Cartographer's Guild]].

@@ -1,18 +1,28 @@
 ###### Parent: [[The Floes]], [[Nordwythe]]
 
 > Moving aside the ooze-slicked rocks reveals two yawning cavern openings to either side. You see a trail of coagulating red liquid trickle down through the jagged disrupted stones which make of the floor. The ground itself slopes noticeably from right to left and has this odd depressed shape with a clear centerline, along which the red liquid drips.
-> 
+
+*On a DC 13 check:*
+> On the right-hand passageway you notice see how the ground slopes up towards a large pile of rubble. It's mostly shattered stones, but you see bits of corroded metal and the telltale soft splinters of long-rotten wood. A steady stream of that red liquid trails over the pile from the darkness on the other side before trickling down to your feet. But you notice far less liquid makes it to you than seems to fall over the rubble intially.
+
+*On a DC 17 check:*
+> A little ways before the rubble, you notice a faint shimmer and hum from the floor. Pushing aside some of the debris you notice a layer of dust sitting on top of... nothing? Then it shines, some kind of magical ward  is blocking they way down.
+> *(disintegrate or DC 20 dispel to break the ward and get into [[#The Teleportation Room]])*
+
+
+**Kargoe:** DC 10 insight to notice he doesn't seem himself
+DC 8 perception to see the skinsplinter curse has swollen with red ooze.
+1) If they never notice kargoe: the party walks straight into solved puzzle scene
+2) If they immediately chase kargoe: He seems to know just where to go and we can run a chase to see what happens.
+3) If they stop kargoe / If kargoe never goes: He'll try and break open the astrolabe when he gets to it. And he'll
 
 ### [The Hold](https://youtu.be/X-7c_sMeLT8?list=RDX-7c_sMeLT8&t=183)
 
-> Climbing up over the rubble you causes you to almost lose your footing as the ground rapidly descends about 20-25 feet downwards. Only the back wall is flat and pockmarked by deep grooves and squared-off cracks in the stone. Emerging from the wall in the back right corner is this ring of stones protruding outwards, reinforced by what looks like metal.
+> Climbing up over the rubble you causes you to almost lose your footing as the ground rapidly descends nearly 30 feet downwards. Across the chamber you see the back wall is pockmarked by deep grooves and squared-off cracks in the stone. Emerging from the wall in the back right corner is this ring of stones protruding outwards, reinforced by what looks like metal.
 > 
-> The right and left walls themselves curve seamlessly into the floor where, dominating your attention, a pile of ruined metal and other detritus fills the last couple feet of the descent. It's topped by this broken glass encasement filled with a familiar red fluid. What looks like a mostly rotten wooden plank dangles above it by a chain from the arched ceiling.
+> The back wall is the only flat surface in the room, the right and left walls themselves curve seamlessly into the floor where, dominating your attention, a dusty pile broken stonework, ruined metal, and other debris fills the last couple feet of the descent. It's topped by this broken glass encasement filled with a familiar red fluid. The remains of a rotten wooden plank dangles above it by a chain from the arched ceiling.
 > 
-> Mixed in with all the mess at the bottom of the pit is a truly gross amount of lightly glowing red ooze which, as you look closer, seems to coat every surface in this room like wet glass. The whole room retains that unnerving sucrid scent now very familiar to you all, though it seems to be fading, at least compared to earlier.
-> 
-
-
+> Mixed in with all the mess at the bottom of the pit is a truly gross amount of lightly glowing red ooze which, as you look closer, seems to coat every surface in this room like wet glass. The whole room retains that unnervingly sweet scent now very familiar to you all, though it seems to be fading, at least compared to earlier. 
 
 **Ambience:**
 - Any open wounds or blood droplets subtly “steam” when in contact with the dried ooze (harmless, but unsettling).
@@ -34,6 +44,14 @@
 | **17**  | There are faint, circular impressions along the back wall near the ring— something round and metallic was dragged through long ago.                                                                                                              |
 | **20+** | 1. Under a layer of hardened slime, you find a fragment of arcane metal, etched with a spiral glyph which seems to be a housing. It's missing it's inside but the runes are identical to the glyphs on the<br>2. one more roll on the loot table |
 
+
+
+| **Approach**                         | **DC 10**                                                                               | **DC 13**                                                                                            | **DC 15**                                                                          | **DC 17+**                                                                                                                                   |
+| ------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Perception / Survival / Nature**   | The ooze’s residue crackles faintly under torchlight — harmless now, but faintly alive. | The red fluid pools differently depending on the terrain — like it’s avoiding certain stone seams.   | The metallic ring at the back wall is perfectly round and recently disturbed.      | Faint drag marks and circular impressions around the base suggest something heavy was rolled or dragged away centuries ago.                  |
+| **Investigation / Arcana / History** | You find inert glyphs carved into the ring’s stones — containment symbols.              | The rune shapes match a summoning circle’s “inversion” pattern — used to _bind_ rather than release. | A buried chunk of feather-embossed metal is actually a shattered _construct limb_. | Under the hardened slime you find a fragment of spiral-glyph metal, likely one component of the tower’s machinery — or the astrolabe itself. |
+
+
 | **d12** | **Item Found**                                                                                                                                                                                                                                                                                                          |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | [Junk](https://tabletoptrinketsbyjj.tumblr.com/post/187125822272/all-trinkets-a-working-rolling-table-of-all-the)                                                                                                                                                                                                       |
@@ -45,121 +63,116 @@
 | 7       | **Tiny steel sphere** – faintly hums, repels water, and resists corrosion.<br>-> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of)                                                                                                      |
 | 8       | **Silver ring** with a drop of red enamel that never dries. Detect Magic shows faint necromantic aura.<br>-> [Valuable](https://tabletoptrinketsbyjj.tumblr.com/post/187125727182/all-valuables-a-working-rolling-table-of-all)                                                                                         |
 | 9       | **A scrap of animated parchment** that occasionally folds and unfolds on its own. Seems eager to be written on.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                         |
-| 10      | [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                                                                                                                                               |
+| 10      | **A small bag** containing 600gp worth of small gems, including one large (300gp) diamond<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                                               |
 
 
-### Guest Apartments (Now the Lemming Warren)
+### [Lemming Warren](https://www.youtube.com/watch?v=CXHDzj4s9zA&list=RDCXHDzj4s9zA&start_radio=1)
 
-> The passage narrows into a long hall lined with warped doorframes and splintered furniture. Everything looks slightly wrong — floorboards slope sharply, bedframes are half-buried in what should be a wall, and curtains hang at odd angles, drooping like wilted flowers. A faint smell of damp fur and stale air lingers.
+> To take the left-hand pass you have to duck through a warped jagged opening in the stone. Emerging on the other side, a long and narrow chamber extends 60ft ahead, gradually sloping downwards. Every 10 feet or so there are these jagged ridges along the curved cavern walls, floor, and ceiling. The floor itself is littered with debris, but, unlike in the earlier room, you can see some shattered stonework peeking through. A musky scent, mixed in with dust, makes you sneeze.
 > 
-> You hear faint scurrying — dozens of tiny claws tapping wood, then silence. Dust motes drift _sideways_ through the light from a broken window, caught in a faint updraft.
+> About halfway down the chamber the left side descends rapidly into darkness while the left side continues down at the same rate towards, at the edge of everyone's vision, a snaking mess of... roots!, seems interwoven with a familiar mess of rotten wood twisted metal. That red fluid from before is not much more than a tiny little trickle in this room, periodically pooling at those ridges before snaking towards to the left. 
 
-_(If they’re paying attention, this should start to sell the “sideways tower” idea — gravity still works normally, but the environment makes no geometric sense.)_
+**Ambience**
+- Constant faint squeaking, clicking, and rustling
+- The smell of musk, mold, and dry bedding.
 
-| **DC**  | **Discovery**                                                                                                                                                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **10**  | You notice small burrows in the debris — clusters of straw, fur, and gnawed cloth. The smell of musk is strong near one of the overturned bedframes.                                                                                 |
-| **13**  | You spot several sets of **oversized paw prints**, like rats the size of dogs. They seem to lead both _up_ and _along the wall_, suggesting some strange incline or gravity change.                                                  |
-| **15**  | One “ceiling” doorframe has claw marks around its hinges — the dire lemmings have chewed through to make escape tunnels between rooms.                                                                                               |
-| **17**  | A few of the rooms are decorated identically, but rotated ninety degrees — wardrobes jut from the walls, and chandeliers sprout horizontally. The party might start to suspect the tower didn’t collapse so much as _fall sideways_. |
+**Hazards**
+- Low ceilings and jagged beams make climbing difficult; Acrobatics DC 12 to move freely without casing debris to fall, which alerts the lemmings *and* the [[#Spirit]] to your presence.
 
-
-- **Environmental notes:**
-    - The floor slopes sharply; loose debris may tumble into adjacent “rooms” that are really sideways corridors.
-    - Low ceilings and jagged beams make climbing difficult; Acrobatics DC 12 to move freely without catching gear.
-- **Ambience:**
-    - Constant faint squeaking, clicking, and rustling
-    - Occasional thumps as something heavy scurries inside the walls.
-    - The smell of musk, mold, and dry bedding.
+| **DC** | **Discovery**                                                                                                                                                                                                                                   |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **10** | You notice small traces in the debris — clusters of straw, fur, and gnawed cloth. The smell of musk gets stronger as you descend.                                                                                                               |
+| **13** | A closer look at the traces reveals several sets of **oversized paw prints**, and drag marks.                                                                                                                                                   |
+| **15** | You hear faint scurrying — dozens of tiny claws tapping wood, then silence.                                                                                                                                                                     |
+| **17** | You see a few bits of metal bolted along the wall just past one of the periodic rings along the floor and ceiling. Each piece is attached to the a piece of shattered wood still flecked with blue paint. Damn if doesn't look like **hinges.** |
 
 ##### Dire Lemmings
 The hissing intensifies as you realize a colony of [[Dire Lemmings]] have taken over the back end of this room. These semi-intelligent, terrier-sized, burrowing rodents seem a little skittish and malnourished. You can see their fur is patchy patchy fur and fait reddish streaks marking their paws as they avoid your gaze.
 
 Passing a DC 13 animal handling check (DC 8 with food) can calm them down and allow access to parts of the warren with loot. A failure results in a stampede (dex 14 or be knocked prone), initiative, and a ton of noise.
 
-Hitting a DC 12 check on the nest grants a roll on the lute table. Hitting a DC 20 check reveals the **Nest-core**: a spherical tangle of roots, cloth, and a faintly glowing pebble. Acts as a _Driftglobe_ if recharged with a spell slot.
+Hitting a DC 10 check rolls on the  [Jewelry Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the), a DC 15 check rolls on the loot table. Hitting a DC 20 check reveals the **Nest-core**: a spherical tangle of roots, cloth, and a faintly glowing pebble. Acts as a _Driftglobe_ if recharged with a spell slot.
 
-| **d6** | **Item Found** -> [Jewelry Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the)                                                                                                                            |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Bundle of matted fur and cloth** that conceals a few intact coins (2d10 gp).<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                       |
-| 2      | **Guest’s journal**, written shortly before the tower fell. Mentions “the tower trembling — as though struck by some great wave.”<br>-> [Necklace Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124899057/all-necklaces-a-working-rolling-table-of-all-the) |
-| 3      | **Small brass wind chime**, still hanging sideways. If used, grants +1 to Listen/Perception checks involving sound for an hour.<br>-> [Ring Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the)           |
-| 4      | **Guest’s signet ring**, engraved with the tower’s crest (a spiral tower within an eye). Useful clue for identifying the place.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)      |
-| 5      | **Broken violin** with intact strings. Playing it produces faint echoes like a duet — possibly enchanted.<br>-> [Necklace Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124899057/all-necklaces-a-working-rolling-table-of-all-the)                         |
-| 6      | **Silver spoon set**, chewed but serviceable; worth 15 gp as antique tableware.<br>-> [Ring Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the)                                                           |
-
-
-
-- **Visual hints:** Rooms repeat in orientation but rotated 90°, with chandeliers and doors along “walls.”
-
-- **Environmental cues:** Things slide subtly toward one side, dust falls sideways, or torches burn with a lean.
-
-- **The journal or signet ring** could name the location as _The Ascendant Spire_ or _Tower of Astris_, making the PCs realize: _“Wait — a spire? Why are we walking through it sideways?”_
-
+If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 ![[dire lemming.png]]
 
-
+| **d6** | **Item Found**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Bundle of matted fur and cloth** that conceals a few intact coins (2d10 gp).<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                                                                                                                                                                                                                                                                            |
+| 2      | **A folded bit of paper**, One one side is a beautiful sketch of a forest of enormous trees along the shore of a lake. Hanging from the trees are gardens, and dwellings! A single rower propels a swan-headed boat on the lake. On the back side there is writing *in Elvish*: "Your tower's hospitality is as warm as ever, despite the environs. I hope those rare seeds are worthy recompense. -V"<br>-> [Necklace Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124899057/all-necklaces-a-working-rolling-table-of-all-the) |
+| 3      | **Small brass wind chime**, still hanging sideways. If used, grants +1 to Listen/Perception checks involving sound for an hour.<br>-> [Ring Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the)                                                                                                                                                                                                                                                                                |
+| 4      | **Guest’s signet ring**, engraved with the tower’s crest (a spiral tower within an eye). Useful clue for identifying the place.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                                                                                                                                                                                                                           |
+| 5      | **Broken violin** with intact strings. Playing it produces faint echoes like a duet — possibly enchanted.<br>-> [Necklace Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124899057/all-necklaces-a-working-rolling-table-of-all-the)                                                                                                                                                                                                                                                                                              |
+| 6      | **Silver spoon set**, chewed but serviceable; worth 15 gp as antique tableware.<br>-> [Ring Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the)                                                                                                                                                                                                                                                                                                                                |
 
 ### [The Observatory](https://youtu.be/pk5IwDX2p-o?list=RDpk5IwDX2p-o&t=593)
 
-> The descent opens into a cavernous chamber, its walls slick with mineral runoff and faintly luminescent moss. A circular floor of black marble lies canted at an angle, half-buried in stone. In the center rests a massive brass astrolabe, cracked and tarnished — a tangle of rings and orbiting arms frozen mid-motion.
-> 
-> Faded constellations glimmer faintly across the ceiling, their glow warped by moisture. Dust and grit coat the floor like the sediment of centuries. As your light flickers, something inside the astrolabe moves — a pale shimmer that coils through its rings, briefly forming the shape of a face that stares back at you before dissolving into motes of light.
+> The descent opens into the smallest chamber so far, only about 10 feet across and 25 feet deep. Unlike the prior room there are no piles of cluttered debris or red liquid, just a few scattered instruments here and there. All around the walls you see the chipped remains of a mural depicting a vast starscape in blacks and blues and white pinpricks, the last of their enchantment gives off a dim white light. Broken stones protrude from the wall, ceiling, wall, and floor, in a spiral towards the end of the chamber where a tangle of shining bronze rings surround a floating crystal globe. 
 
-|**DC**|**Discovery**|
-|---|---|
-|**10**|The room feels _wrongly heavy_ — gravity pulls slightly toward the canted wall, as though the space still remembers the tower’s original axis.|
-|**13**|The astrolabe’s structure is composed of nested rings representing the world’s four moons. Tiny etched runes identify them — _Irran, Vel, Thure, and Cael._|
-|**15**|A fifth element, the ship, bears the name _“Aurum’s Wake”_ in archaic Celestial script — the same name as a vanished astral vessel from legend.|
-|**17**|The rings can be coaxed to move again (Arcana or Investigation check). When aligned, the mechanism hums with dormant energy, and the spirit’s face becomes more coherent. It mouths words but makes no sound.|
-|**20+**|Hidden inscriptions under the baseplate describe a ritual: the astrolabe once served as a _celestial key_ for opening gates between planes, guided by the phases of the moons. The spirit within is its “Navigator,” bound to the machine for eternity.|
+**Ambience**
+- Sounds in this space are oddly muffled
+- The temperature drops noticeably
+
+**Hazards**
+- Mostly just the [[Ruined Tower#Spirit|Spirit]]
+
+###### Astrolabe
+> The device at the end of the room consists of three nested rings surrounding an orange faceted crystal ball. The rings are made of shining untarnished brass and each features a circular plate stained a different color and featuring a tiny etched rune. For those of you that speak elvish, you see, in order:
+> 1. A faint grey disc and the rune *Gonn* (meaning stone) 
+> 2. A dull red disc and the rune *Arus* (meaning rust)
+> 3. A dark blue disc and the rune *Kemen* (meaning earth)
+> 4. A pale blue disc and the rune *Helca* (meaning ice)
+> 5. A stark white disk and the rune *Asto* (meaning dust)
+> The device itself is floating slightly above the ground and is... clicking, the rings stutter and jam, going nowhere.
+
+- **Spinning the astrolabe:**
+	- A DC 15 strength check will break the astrolabe, unleashing the spirit on the party.
+    - Properly repairing the astrolabe requires getting tools and a power source from the [[Ruined Tower#The Master's Atrium / Animated Kitchen / Extraplanar Study|Extraplanar Study]]
+    - Once active, it emits faint light and hums at resonant frequencies — enough to make loose stones tremble, and it projects an image:
+		*Three stones orbit a glowing sphere. Then a fleet of white motes appears from the edges of the vision and migrates towards that middle stone. You keep looking until the edges of the projection start to gray, the stones begin to warp, and the whole scene blurs, shears, and fades into red.*
+
+| **DC**  | **Discovery**                                                                                                                                                                                                                                                                                                                                     |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **10**  | The wall at the end of the chamber is a rounded dome with packed earth and even some roots creeping through.                                                                                                                                                                                                                                      |
+| **13**  | As your light flickers, something inside the device moves — a pale shimmer that coils through its rings, briefly forming the shape of a face that stares back at you before dissolving into motes of light.                                                                                                                                       |
+| **15**  | You find, in the shadows behind the spiraling stones, a fourth brass element. What looks like a model ship on a thin arm. Looking at the device you see                                                                                                                                                                                           |
+| **17**  | The rings can be coaxed to move again (Arcana or Investigation check), whoever built this place must have kept tools or spare power sources around somewhere.                                                                                                                                                                                     |
+| **20+** | Four of those five rings pretty closely match the colors of the moons. You know them as Morian (grey), Thuul (orange/red), Scaathiel (light blue), and Amat (white). <br>(character-dependet -- the geometry here doesn't make any sense, shouldn't they be orbiting the middle disc (earth) or at least be a little closer? It seems incomplete) |
+
+| **d8** | **Instruments** (3 rolls tops)                                                                                                    |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Fragment of brass gearing**, etched with elvish runes for “Orbit” and “Memory.” Worth 20 gp or useful as arcane focus.          |
+| 2      | **Navigator’s lens** – cracked monocle of smoked glass; Allows _See Invisibility_ once per. (10% chance of breaking on each use). |
+| 3      | **Set of brass calipers** inscribed with Celestial symbols; precise and nearly unbreakable.                                       |
+| 4      | **Crystal phial**, labeled “Starlight, Sample 2.” The glass feels warm to the touch.                                              |
+| 5      | **Silver compass** that spins lazily even underground, always pointing toward the tower’s core.                                   |
+| 6      | **Crystal sphere** If charged with magic, it briefly projects an image of swan-headed ships sailing a starscape.                  |
+| 7      | **Brass nameplate** reading “Astrolabe”.                                                                                          |
+| 8      | **Dusty satchel** of celestial charts and navigation tools, all damaged but one. Worth 35 gp to a scholar.                        |
 
 ###### Spirit
-- **Nature:** A fragment of a long-dead astral mage, trapped within the astrolabe as both power source and caretaker.
+- **Nature:** A fragment of a [[Adhael Anar, Caendaur Fuirith|thought-dead mage]], trapped within the astrolabe as he was astral-projecting back to his old home.
 - **Appearance:** Wisps of blue-white light that drift among the orbits; occasionally forms the faint outline of a human face or hand pressed against invisible glass.
 - **Behavior:**
     - Silent most of the time, but reacts to proximity or magical light.
-    - When the mechanism is set spinning, it moves in harmony, whispering faintly like distant wind.
-    - If spoken to with _Comprehend Languages_ or _Speak with Dead_, it communicates broken phrases — “Stars... gone... ship lost... still orbiting...”
-- **Temperament:** Not hostile, just confused — still trying to chart the heavens that no longer exist above it.
-
-###### Astrolabe
-- **Spinning the astrolabe:**
-    - Requires a DC 15 Strength (to unjam the rusted gears) or Arcana check (to realign the runes).
-    - Once active, it emits faint light and hums at resonant frequencies — enough to make loose stones tremble.
-    - If tampered with recklessly, a pulse of inert planar energy might briefly distort gravity, pulling objects gently toward the ceiling for a few seconds.
-- **Environmental feel:**
-    - Air is colder than the rest of the tower.
-    - Sound is oddly muffled, as though space itself absorbs it.
-    - When the astrolabe moves, faint echoes of stars shimmer faintly along the curved ceiling — constellations that shouldn’t exist anymore.
-
-|**d12**|**Item Found**|
-|---|---|
-|1|**Fragment of brass gearing**, etched with runes for “Orbit” and “Memory.” Worth 20 gp or useful as arcane focus.|
-|2|**Small moonstone orb** dislodged from the astrolabe — glows softly when near starlight. Worth 50 gp.|
-|3|**Navigator’s lens** – cracked monocle of smoked glass; once belonged to the spirit’s body. Allows _Augury_ once per day if repaired.|
-|4|**Set of brass calipers** inscribed with Celestial symbols; precise and nearly unbreakable.|
-|5|**Piece of parchment** fused to the floor: a star chart that no longer matches the night sky.|
-|6|**Empty crystal phial**, labeled “Starlight, Sample 2.” The glass feels faintly warm to the touch.|
-|7|**Silver compass** that spins lazily even underground, always pointing toward the tower’s core.|
-|8|**Inert crystal sphere** (part of the astrolabe’s mechanism). If charged with magic, it briefly projects an image of four moons and the lost ship.|
-|9|**Shattered telescope lens** that, when looked through, reveals faint outlines of ghostly stars.|
-|10|**Brass nameplate** reading “Observatory of the Ascendant Spire.” Confirms the tower’s identity.|
-|11|**Dusty satchel** of celestial charts and navigation tools, all damaged but one. Worth 35 gp to a scholar.|
-|12|**Residual essence** – if a spellcaster meditates here for 10 minutes, they regain 1 expended spell slot (once per long rest). The spirit seems grateful.|
-
-- **Clue to the tower’s orientation:**
-    - The astrolabe’s baseplate clearly shows the moons orbiting _above_ — yet it now lies on its side.
-    - The “ceiling” mural aligns sideways, hinting that the whole tower rotated ninety degrees.
-    - The cracked dome above shows packed earth and roots — confirming it was once open to the sky.
-- **Narrative possibilities:**
-    - Restoring the astrolabe could reawaken the spirit and briefly project a **vision of the night sky as it once was**, giving clues to ancient celestial events or forgotten deities.
-    - The “Aurum’s Wake” ship may tie into a larger story arc — the wizard might have been trying to contact, summon, or follow it.
-    - The Navigator spirit might ask for release — perhaps by reopening the gate the astrolabe once controlled, or by reuniting it with a matching device deeper in the tower.
+    - When the mechanism is set spinning, it moves in harmony, whispering faintly.
+    - If spoken to with _Comprehend Languages_ or _Speak with Dead_, it communicates broken phrases — “home... bodiless... trapped...”
+- **Temperament:** Not hostile, just confused — slowly losing its sense of self.
+- **Lines**
+	- Ah, legs! to be housed again!.
+	- Oh interesting, he's one of those deepling slaves, I was hoping for the mouse-man but this body should carry me far enough.
+	- Now I wonder if this is still here -> *wristpocket*
+	- Oh hello! friends, thank you for finding me here. Sadly I must be going. Come meet me at my shimmering ash.
 
 
+![[kargoe, posessed.png]]
 
-### Descent
+
+### The Teleportation Room
+> 
+
+
+### [Descent](https://www.youtube.com/watch?v=3CBTfCjuDyA&list=RD3CBTfCjuDyA&start_radio=1)
 > The path down opens into what was once a vast, high-ceilinged hall — now a crushed canyon of stone and splintered furniture. Chandeliers hang sideways like tangled vines, and long banquet tables jut from the walls, frozen in mid-collapse. Tapestries cling to the tilted masonry in tatters, their faded heraldry half-buried in dust.
 > 
 > A cold draft sighs up from below, carrying the faint scent of old incense and something metallic — blood, or rust. The rubble forms a rough slope leading down into shadow, slick with condensation and studded with half-buried debris.
