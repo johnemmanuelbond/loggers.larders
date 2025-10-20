@@ -14,14 +14,17 @@
 
 ##### 1st Level
 1. [Comprehend Languages](https://dnd5e.wikidot.com/spell:comprehend-languages)
-2. [Identify](https://dnd5e.wikidot.com/spell:identify)
-3. [Tasha's Hideous Laughter](https://dnd5e.wikidot.com/spell:tashas-hideous-laughter)
-4. [Dissonant Whispers](https://dnd5e.wikidot.com/spell:dissonant-whispers)
-5. [Charm Person](https://dnd5e.wikidot.com/spell:charm-person)
+2. [Tasha's Hideous Laughter](https://dnd5e.wikidot.com/spell:tashas-hideous-laughter)
+3. [Dissonant Whispers](https://dnd5e.wikidot.com/spell:dissonant-whispers)
+4. [Charm Person](https://dnd5e.wikidot.com/spell:charm-person)
+5. 2. [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 
 ##### 2nd Level
 1. [Shatter](https://dnd5e.wikidot.com/spell:shatter)
 2. [Suggestion](https://dnd5e.wikidot.com/spell:suggestion)
+
+#### 3rd Level
+1. [Bestow Curse](https://dnd5e.wikidot.com/spell:bestow-curse)
 
 #### Feats
 ###### [Lucky](https://dnd5e.wikidot.com/feat:lucky)

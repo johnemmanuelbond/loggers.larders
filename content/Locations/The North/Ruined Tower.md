@@ -7,16 +7,26 @@
 
 *On a DC 17 check:*
 > A little ways before the rubble, you notice a faint shimmer and hum from the floor. Pushing aside some of the debris you notice a layer of dust sitting on top of... nothing? Then it shines, some kind of magical ward  is blocking they way down.
-> *(disintegrate or DC 20 dispel to break the ward and get into [[#The Teleportation Room]])*
+> *(need disintegrate, or to restart the observatory, to break the ward and get into [[#The Teleportation Room]])*
 
 
-**Kargoe:** DC 10 insight to notice he doesn't seem himself
-DC 8 perception to see the skinsplinter curse has swollen with red ooze.
-1) If they never notice kargoe: the party walks straight into solved puzzle scene
-2) If they immediately chase kargoe: He seems to know just where to go and we can run a chase to see what happens.
-3) If they stop kargoe / If kargoe never goes: He'll try and break open the astrolabe when he gets to it. And he'll
+### Kargoe Plot
 
-### [The Hold](https://youtu.be/X-7c_sMeLT8?list=RDX-7c_sMeLT8&t=183)
+
+1. Over the [[The Floes|journey]] Kargoe has been getting sicker and sicker and more and more tired as Bartholomood continues to rely on him.
+2. During the [[Sloghoth]] fight, the skinspliter growth absorbed a lot of the reddish ooze and is now swolen and engorged.
+3. DC 10 insight (failed): Kargoe seems distracted by silent whispers.
+
+**Actions**:
+1. Kargoe tried to enter the tower before resting, seemed compelled. But the party noticed and convinced him to stop
+2. While everyone else was looting the hold, Kargoe slipped into the lemming warren. This is a fake out and instead the party will find him just kind of looking around the chamber, not really putting any puzzle pieces together.
+      *if the party takes too long to check up, he'll trigger the lemming encounter by falling down*
+3. When the party enters the observatory, Kargoe will become entranced by the astrolabe at the end of the chamber and slowly go off to touch it.
+   > *You all hear a choked off cry and a creaking sound as you turn and see your food friend Kargoe, his fingers having just contacted that flickering blue barrier. The thorny vine interlaced with his arm is disjointedly moving, creaking, growing through the barrier. Through this connection you see a red essence drawn through Kargoe's body, which falls limp onto the ground in front of the floating device.
+4. Kargoe's spirit becomes entrapped within the astrolabe, alongside the other spirit who can confusedly help the party restart the machine.
+
+### The Hold
+[ambience sound](https://youtu.be/X-7c_sMeLT8?list=RDX-7c_sMeLT8&t=183)
 
 > Climbing up over the rubble you causes you to almost lose your footing as the ground rapidly descends nearly 30 feet downwards. Across the chamber you see the back wall is pockmarked by deep grooves and squared-off cracks in the stone. Emerging from the wall in the back right corner is this ring of stones protruding outwards, reinforced by what looks like metal.
 > 
@@ -58,8 +68,8 @@ DC 8 perception to see the skinsplinter curse has swollen with red ooze.
 | 10      | **A small bag** containing 600gp worth of small gems, including one large (300gp) diamond<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                                               |
 
 
-### [Lemming Warren](https://www.youtube.com/watch?v=CXHDzj4s9zA&list=RDCXHDzj4s9zA&start_radio=1)
-
+### Lemming Warren
+[ambient sound](https://www.youtube.com/watch?v=CXHDzj4s9zA&list=RDCXHDzj4s9zA&start_radio=1)
 > To take the left-hand pass you have to duck through a warped jagged opening in the stone. Emerging on the other side, a long and narrow chamber extends 60ft ahead, gradually sloping downwards. Every 10 feet or so there are these jagged ridges along the curved cavern walls, floor, and ceiling. The floor itself is littered with debris, but, unlike in the earlier room, you can actually see a good amount shattered stonework peeking through. A musky scent, mixed in with dust, makes you sneeze.
 > 
 > That red fluid from before is not much more than a tiny little trickle in this room, periodically pooling at those ridges before snaking towards to the left where... about halfway down the chamber the left side descends rapidly into darkness. The right half of this chamber continues down at the same rate towards, at the edge of everyone's vision, a snaking mess of... roots!, seems interwoven with a familiar mess of rotten wood twisted metal. But within that pile you see 
@@ -100,7 +110,8 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 | 5      | **Broken violin** with intact strings. Playing it produces faint echoes like a duet — possibly enchanted.<br>-> [Necklace Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124899057/all-necklaces-a-working-rolling-table-of-all-the)                                                                                                                                                                                                                                                                                              |
 | 6      | **Silver spoon set**, chewed but serviceable; worth 15 gp as antique tableware.<br>-> [Ring Table](https://tabletoptrinketsbyjj.tumblr.com/post/187124810987/all-rings-a-working-rolling-table-of-all-the)                                                                                                                                                                                                                                                                                                                                |
 
-### [The Observatory](https://youtu.be/pk5IwDX2p-o?list=RDpk5IwDX2p-o&t=593)
+### The Observatory
+[ambient sound](https://youtu.be/pk5IwDX2p-o?list=RDpk5IwDX2p-o&t=593)
 
 > The descent opens into the smallest chamber so far, only about 10 feet across and 25 feet deep. Unlike the prior room there are no piles of cluttered debris or red liquid, just a few scattered instruments here and there. All around the walls you see the chipped remains of a mural depicting a vast starscape in blacks and blues and white pinpricks, the last of their enchantment gives off a dim white light. Broken stones protrude from the wall, ceiling, wall, and floor, in a spiral towards the end of the chamber where a tangle of shining bronze rings surround a floating crystal globe. 
 
@@ -124,10 +135,10 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 	- A DC 20 strength check (or DC 20 dispel) will break the astrolabe, unleashing the spirit on the party.
     - Properly repairing the astrolabe requires:
 	    1. Implanting the power source:
-		    1. getting an **animating gem** from the [[Ruined Tower#The Master's Atrium / Animated Kitchen / Extraplanar Study|Extraplanar Study]]
-		    2. getting the **brass casing** from [[Ruined Tower#[The Hold](https //youtu.be/X-7c_sMeLT8?list=RDX-7c_sMeLT8&t=183)|The Hold]]
+		    1. getting an **animating gem** from the [[Ruined Tower#The Gallimaufry|The Gallimaufry]]
+		    2. getting the **brass casing** from [[Ruined Tower#The Hold|The Hold]]
 	    2. Using the **astral notebook** from the  [[Ruined Tower#The Master’s Chambers|Master's Chambers]] to re-etch the final rune
-	    3. Applying the **charcoal lubricant** from the [[Ruined Tower#[Lemming Warren](https //www.youtube.com/watch?v=CXHDzj4s9zA&list=RDCXHDzj4s9zA&start_radio=1)|Lemming Warren]]
+	    3. Applying the **charcoal lubricant** from the [[Ruined Tower#Lemming Warren|Lemming Warren]]
 	    - **Two fragments** = basic activation → the spirit wakes but unstable (dangerous but salvageable).
 		- **Three fragments + notes** = full reactivation → stable vision sequence
 		- **All four** = complete success and potential long-term boon (astrolabe acts as a navigation focus or divination tool).
@@ -136,24 +147,24 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 			*Three stones orbit a glowing sphere. Then a fleet of white motes appears from the edges of the vision and migrates towards that middle stone. You keep looking until the edges of the projection start to gray, the stones begin to warp, and the whole scene blurs, shears, and fades into red.*
 		- **Long-term boon**: you hear a clattering the falling of small stones behind you. Trekking back to the entrance reveals the ward to the [[Ruined Tower#The Teleportation Room|Teleportation Room]] has been dispelled.
 
-| **DC**      | **Skill**                    | **Discovery**                                                                                                                                                                                                                                                                                                                                     |
-| ----------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **10: P/I** | Perception/<br>Investigation | The wall at the end of the chamber is a rounded dome with packed earth and even some roots creeping through.                                                                                                                                                                                                                                      |
-| **13 P/A**  | Perception/<br>Arcana        | As your light flickers, something inside the device moves — a pale shimmer that coils through its rings, briefly forming the shape of a face that stares back at you before dissolving into motes of light.                                                                                                                                       |
-| **15 P/I**  | Perception/<br>Investigation | You find, in the shadows behind the spiraling stones, a fourth brass element. What looks like a model ship on a thin arm. Looking at the device you see that the disc on the third ring seems to have a broken-off metal spur.                                                                                                                    |
-| **17 A/I**  | Arcana/<br>Investigation     | The rings can be coaxed to move again (Arcana or Investigation check), this isn't a workshop, but there might be one around.                                                                                                                                                                                                                      |
-| **20+ A/R** | Arcana/<br>Religion          | Four of those five rings pretty closely match the colors of the moons. You know them as Morian (grey), Thuul (orange/red), Scaathiel (light blue), and Amat (white). <br>(character-dependet -- the geometry here doesn't make any sense, shouldn't they be orbiting the middle disc (earth) or at least be a little closer? It seems incomplete) |
+| **DC**   | **Skill**                    | **Discovery**                                                                                                                                                                                                                                                                                                                                     |
+| -------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **10: ** | Perception/<br>Investigation | The wall at the end of the chamber is a rounded dome with packed earth and even some roots creeping through.                                                                                                                                                                                                                                      |
+| **13 **  | Perception/<br>Arcana        | As your light flickers, something inside the device moves — a pale shimmer that coils through its rings, briefly forming the shape of a face that stares back at you before dissolving into motes of light.                                                                                                                                       |
+| **15**   | Arcana/<br>Investigation     | This device is not meant to be stuck clicking like this, whatever has Kargoe trapped is not the original function of this machine. Maybe fixing the device will undo the side-effect.                                                                                                                                                             |
+| **17**   | Perception/<br>Investigation | You find, in the shadows behind the spiraling stones, a fourth brass element. What looks like a model ship on a thin arm. Looking at the device you see that the disc on the third ring seems to have a broken-off metal spur.                                                                                                                    |
+| **20+**  | Arcana/<br>Religion          | Four of those five rings pretty closely match the colors of the moons. You know them as Morian (grey), Thuul (orange/red), Scaathiel (light blue), and Amat (white). <br>(character-dependet -- the geometry here doesn't make any sense, shouldn't they be orbiting the middle disc (earth) or at least be a little closer? It seems incomplete) |
 
-| **d8** | **Instruments** (3 rolls tops)                                                                                                    |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Fragment of brass gearing**, etched with elvish runes for “Orbit” and “Memory.” Worth 20 gp or useful as arcane focus.          |
-| 2      | **Navigator’s lens** – cracked monocle of smoked glass; Allows _See Invisibility_ once per. (10% chance of breaking on each use). |
-| 3      | **Set of brass calipers** inscribed with Celestial symbols; precise and nearly unbreakable.                                       |
-| 4      | **Crystal phial**, labeled “Starlight, Sample 2.” The glass feels warm to the touch.                                              |
-| 5      | **Silver compass** that spins lazily even underground, always pointing toward the tower’s core.                                   |
-| 6      | **Crystal sphere** If charged with magic, it briefly projects an image of swan-headed ships sailing a starscape.                  |
-| 7      | **Brass nameplate** reading “Astrolabe”.                                                                                          |
-| 8      | **Dusty satchel** of celestial charts and navigation tools, all damaged but one. Worth 35 gp to a scholar.                        |
+| **d8** | **Instruments** (3 rolls tops)                                                                                                        |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Fragment of brass gearing**, etched with elvish runes for “Orbit” and “Memory.” Worth 20 gp or useful as arcane focus.              |
+| 2      | **Navigator’s lens** – cracked monocle of smoked glass; Allows _See Invisibility_ once per day. (10% chance of breaking on each use). |
+| 3      | **Set of brass calipers** inscribed with Celestial symbols; precise and nearly unbreakable.                                           |
+| 4      | **Crystal phial**, labeled “Starlight, Sample 2.” The glass feels warm to the touch. (only really useful as a specialty component)    |
+| 5      | **Silver compass** that spins lazily even underground, always pointing toward the tower’s core.                                       |
+| 6      | **Crystal sphere** If charged with magic, it briefly projects an image of swan-headed ships sailing a starscape.                      |
+| 7      | **Brass nameplate** reading “Astrolabe”.                                                                                              |
+| 8      | **Dusty satchel** of celestial charts and navigation tools, all damaged but one. Worth 35 gp to a scholar.                            |
 
 ###### Spirit
 - **Nature:** A fragment of a [[Adhael Anar, Caendaur Fuirith|thought-dead mage]], trapped within the astrolabe as he was astral-projecting back to his old home.
@@ -163,7 +174,15 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
     - When the mechanism is set spinning, it moves in harmony, whispering faintly.
     - If spoken to with _Comprehend Languages_ or _Speak with Dead_, it communicates broken phrases — “home... bodiless... trapped...”
 - **Temperament:** Not hostile, just confused — slowly losing its sense of self.
-- **Lines**
+- **Lines while trapped**
+	- You, voice! to hear a voice again!
+	- Stuck, stuck, stuck! Clicking, clacking, maddening! make it stop.
+	- Free? free!? We're trapped by the rings. Forever frozen, I fear.
+	- I cannot say it, but it is written, it is written! find the silvered tome, down, down!
+	- Oil, not blood! never blood!
+	- At this hour? It's gonna be jammed! (californians)
+	- I see *her* through the circle, tall and thin, scraping the stars away…
+- **Lines Upon Escaping**
 	- Ah, legs! to be housed again!.
 	- Oh interesting, he's one of those deepling slaves, I was hoping for the mouse-man but this body should carry me far enough.
 	- Now I wonder if this is still here -> *wristpocket*
@@ -184,64 +203,86 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 | 15     | While this creature itself never fully emerges from the haze. Faintly, in the periphery of your vision you can see a small band of little rat-like bipeds scuttle from tree to tree.<br>                                                                                                                                                                                                                                                                                                                                       |
 | 20     | It takes all of your effort to draw your attention away from this creature as it lumbers through the mist. But straining your eyes, you can see hanging from the trees, decrepit platforms with thin vine-like shapes hanging from them, and in the distance moonlight reflecting off of water.                                                                                                                                                                                                                                |
 
+### Descent
+[ambient sounds](https://www.youtube.com/watch?v=3CBTfCjuDyA&list=RD3CBTfCjuDyA&start_radio=1)
 
+> Clearing the rubble, you see a crack which opens into a deep vertical chamber which descends, well over 50 feet into the yawning darkness.  The walls are ruined and buckled but you can still make out the shredded remains of dust-covered tapestries and shattered window frames with jagged stones breaking through. Chains support a tangle of long-tarnished silver and multicolored glass shards dangling limply against righthand wall. The bottom of this chamber emerges from beneath a ledge on the left, sloping sharply back towards the right where you see another pile of shattered wood and broken glass. A warm draft sighs up from below, carrying the faint scent of old incense and something metallic. 
 
+**Ambience**
+- Dust drifts in slow spirals, occasionally disturbed by your movements.
+- Faint glimmers of colored glass from broken windows scatter your torch light across the jagged surfaces.
 
-### [Descent](https://www.youtube.com/watch?v=3CBTfCjuDyA&list=RD3CBTfCjuDyA&start_radio=1)
-> The path down opens into what was once a vast, high-ceilinged hall — now a crushed canyon of stone and splintered furniture. Chandeliers hang sideways like tangled vines, and long banquet tables jut from the walls, frozen in mid-collapse. Tapestries cling to the tilted masonry in tatters, their faded heraldry half-buried in dust.
-> 
-> A cold draft sighs up from below, carrying the faint scent of old incense and something metallic — blood, or rust. The rubble forms a rough slope leading down into shadow, slick with condensation and studded with half-buried debris.
+**Hazards**
+- Rappelling down the tilted hall is tricky: DC 13 Athletics check to descend safely, or DC 12 Acrobatics if using another’s assistance. Failure results in a slip: 1d6 bludgeoning and a chance to catch on jagged debris (DC 15 dex save).
+- The dangling chandelier is unstable: disturbing it triggers a DC 15 Dexterity save to avoid being struck (2d6 bludgeoning damage).
+- The entire area is difficult terrain.
 
-|**DC**|**Discovery**|
-|---|---|
-|**10**|You can make out fragments of furniture wedged between the stone — silver cutlery, broken goblets, and shattered plates. A few clink loose and tumble into the dark below.|
-|**13**|A faded mural runs along one wall — the wizard presiding over guests beneath a starry dome. Now, that dome is what you’re climbing _through._|
-|**15**|You notice faint scorch marks and long drag lines along the stone — perhaps from the collapse or something heavy being pulled deeper into the rubble.|
-|**17**|The air shifts unnaturally near the midpoint of the descent — like a faint pulse of magic still leaking from the tower’s buried heart. Dust motes drift sideways, against gravity, before settling again.|
-|**20+**|Hidden beneath a slab of marble, you spot a set of half-crushed steps — the original stairwell, now buried. The faintest traces of silver inlay glimmer between the cracks, forming sigils of invitation and welcome — now warped into a jagged warning.|
+| **Check Type**               | **DC 10**                                                                                                                       | **DC 13**                                                                                       | **DC 16**                                                                                              | **DC 20+**                                                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Perception**               | You can make out fragments of furniture and cutlery wedged between the stone. A few clink loose and tumble into the dark below. | You notice faint scorch marks and long drag lines along the stone at the bottom of the descent. | —                                                                                                      | Looking up where you came from you notice flecks of color and squinting your eyes you see the remains of a *mural*. |
+| **Investigation / Survival** | —                                                                                                                               | You spot a safer path over the debris slope<br>*If followed reduce DC to descend by 2.*         | —                                                                                                      | That tangle of metal looks like the remains a chandelier... on the wall.                                            |
+| **Arcana / History**         | —                                                                                                                               | —                                                                                               | The hairs on your neck raise as you feel the telltale sign of a magical ward enamating from the ledge. | —                                                                                                                   |
+*Mural*: piecing together what this might of looked like, you imagine a central figure, tall and regal, raising their arms in front of a tall structure with two towering spires. One of the spires has a metal tube emerging from the top pointing towards the brightly glowing stars overhead.
 
-### The Master's Atrium / Animated Kitchen / Extraplanar Study
+### The Gallimaufry
 _(Now one fractured, half-collapsed fusion of living space, laboratory, and defense system.)_
+> The chamber opens into what might once have been a kitchen — or a laboratory, or both. The walls are lined with blackened shelving, dangling cutlery, and bulbous glassware fused to the stone. Pots, pans, and bits of furniture hover in midair, orbiting lazily as if stirred by an unseen spoon. A warped cooking range sits embedded in the far wall, venting faint whisps of blue flame.
+> 
+> A cauldron floats in the center of the room, suspended by some invisible current, bubbling with a thin iridescent fluid that occasionally spits small motes of light into the air. The temperature here shifts constantly — freezing one moment, sweltering the next — as though the room can’t decide which element to obey.
+
 > The descent ends in a vast chamber torn into three disjointed sections — the once-elegant atrium now a jumble of marble floors, shattered glass domes, and overturned furniture. A half-melted sculpture leans at a drunken angle beside what appears to be… a kitchen counter? Iron pots, copper pans, and cutlery lie scattered across the floor, some lodged in the walls as if hurled there by great force.
 > 
 > Charred sigils mark the air like heat ripples. Here and there, an object twitches — a ladle shivers upright, a cleaver jerks once before going still. Broken paintings hang at impossible angles, their frames fused with the brass piping of the wizard’s “culinary automata.” The smell is a strange blend of incense, burnt sugar, and ozone.
 
-|**DC**|**Discovery**|
-|---|---|
-|**10**|Many of the cookware items bear etched runes — simple animation sigils tied to sound or movement. Most are cracked, but some still hum faintly.|
-|**13**|The broken wall to the west reveals a tangle of pipes and clockwork valves — the wizard’s old “culinary automation network.” Some still wheeze out bursts of steam when approached.|
-|**15**|A mural along a surviving wall shows the wizard himself — _Chef-Magus Astris the Cordial_ — depicted wielding both a frying pan and a wand. His motto reads: _“Creation, flavor, and flame are all alchemy.”_|
-|**17**|The central floor mosaic is fractured but shows three circles: **Dining**, **Study**, and **Kitchen**, overlapping in a vesica shape. The overlap area is burned out — perhaps the source of the collapse.|
-|**20+**|Beneath a collapsed worktable, you find a brass control sphere — an arcane “recipe node” with runes for _Stir_, _Boil_, _Serve_, and _Defend_. One rune still glows dimly red, indicating a dormant defense mode. Reactivating it could reboot the automata or trigger a defense sequence.|
+
+**Ambience**
+- Smell of ozone and burnt sugar.
+- Distant chiming, like cutlery striking glass.
+- Faint rhythmic pulse — almost like a heartbeat — from the cauldron’s bubbling.
+- When someone speaks, echoes briefly distort as if through water.
+
+**Hazards**
+- **Animated Cookware:** As the party disturbs the room, a chorus of clattering metal rises; the pots and utensils surge into action.
+    - _Swarm of Animated Cutlery (treat as Swarm of Animated Objects, CR ~3–4 depending on party)_.
+    - Big cleaver is the scariest
+    - Each round, the cauldron sloshes unpredictable energy (roll d6):
+        1. Steam burst (Dex 13, 1d8 fire)
+        2. Flash-freeze (Con 13, 1d8 cold)
+        3. Arcane flare (Dex 15, 1d10 lightning)
+        4. Inky smoke (area lightly obscured)
+        5. Hail of spoons (Dex 14, 1d6 bludgeoning)
+        6. Nothing, just a mournful hiss.
+	- Jammed into the bottom of the __ is a **Cracked animating gem** Removing it disanimates the . flickers like a heartbeat when held. Required for reactivating the **astrolabe**.
+
+- **Environmental:** Uneven temperature causes slick frost and heat cracks — DC 13 Acrobatics to move through quickly without slipping or burning.
+    
 
 - **Environmental hazards:**
     - **Unstable magic:** Every few minutes, a random utensil or pan twitches or levitates for a moment, producing clangs and thuds that echo through the hall.
     - **Hotspots:** Some floor sections still radiate warmth — a misfired _Heat Metal_ effect; stepping there deals 1d4 fire if lingering.
     - **Unstable platforms:** A toppled dining balcony juts from the wall at a 45° angle — slick and unstable for climbers (Acrobatics DC 13).
-- **Ambience:**
-    - Constant metallic clinking from unseen corners.
-    - Faint smells of herbs and old wine when the air stirs.
-    - A spectral “sizzle” sound, like frying, when spells are cast here (remnants of the kitchen’s sensory enchantments).
 
-|**d12**|**Item Found**|
-|---|---|
-|1|**Copper saucepan** engraved with glyphs of preservation; keeps food fresh indefinitely. Worth 50 gp or prized by chefs.|
-|2|**Enchanted rolling pin** – when used as a weapon, counts as a +1 club.|
-|3|**Set of silver measuring spoons** that hum in perfect pitch when near magical ingredients. Worth 25 gp.|
-|4|**Glass vial of crystallized spice dust** – faintly magical. When consumed, grants advantage on one Arcana or Insight check (once).|
-|5|**Half-melted crystal beaker**, its contents fused into a prismatic lump; valuable reagent (30 gp).|
-|6|**Fragment of animated cutlery** – a fork that twitches toward living creatures. Salvageable with mending or study.|
-|7|**Recipe scroll** titled _Conjured Stew_ — creates one ration of magically hearty food, though the taste is unpredictable.|
-|8|**Portrait of the wizard**, half-burnt. The eyes occasionally move to follow you. Worthless, but creepy.|
-|9|**Silver tea service**, dented but ornate; faintly enchanted to pour perfectly measured servings. 75 gp if intact.|
-|10|**Small brass key** labeled _“Pantry Lock.”_ Leads to a sealed cold-storage chamber elsewhere in the dungeon.|
-|11|**Cracked planar focus** — a thin glass orb showing distorted reflections of alien kitchens and glowing utensils that float on their own. May be used to open a brief rift for planar communication (at great risk).|
-|12|**Chef-Magus’s personal spice pouch**, filled with powdered reagents: a pinch acts as a _Material Component_ for any fire spell once per day.|
+| **Check Type**               | **DC 10**                                                                                                                         | **DC 13**                                                                                                                                              | **DC 16**                                                                                                             | **DC 20+**                                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Perception**               | You notice a dull blue light leaking from beneath a collapsed counter — a small containment crystal, cracked but glowing faintly. | You spot scorch marks shaped like handprints on the ceiling — the aftermath of a failed planar rift.                                                   | Behind the oven’s warped door, a heat-scorched sigil ringed in ash: **planar binding**, long-expired.                 | You catch a glimpse of something flickering inside the cauldron — a tiny eye, watching you before vanishing.       |
+| **Investigation / Survival** | Sorting through the mess, you find an intact **silver whisk** — faintly magical, it hums when near food or alchemical reagents.   | Hidden under a toppled table is a locked iron strongbox fused shut by heat. Breaking it reveals **a cracked animating gem** (_astrolabe component 2_). | The remains of a shattered mirror on the far wall still shimmer faintly — it’s reflecting another room, not this one. | 2 rolls on the loot table, but the search stirs unstable magic (1 random cauldron surge).                          |
+| **Arcana / History**         | The cauldron’s magic feels extraplanar, not elemental — it’s been siphoning energy from elsewhere.                                | Glyphwork along the shelving shows this was once a **cross-dimensional study**, using food and reagents as mediums.                                    | --                                                                                                                    | Studying the magic long enough reveals a fleeting name: “**Caendaur Fuirith**,” etched beneath the cauldron’s rim. |
 
-- **The broken convergence** of the three spaces (Atrium–Kitchen–Study) hints at the wizard’s **philosophy of unity** — domestic life and cosmic study as one pursuit. The overlapping sigils might also mark the site of a failed experiment, perhaps tied to the ooze’s origin or the tower’s collapse.
-- The **control sphere** could be a key: restoring it might reawaken the tower’s dormant constructs or grant limited control over its defenses.
-- **Traces of extraplanar intrusion:** the cracked planar focus might flicker with images of the Astral Sea — and the ship _Aurum’s Wake_ glimpsed again, suggesting the wizard had contact beyond the world.
-- **Tone clue:** it should feel weirdly _intimate_ — this was someone’s home, their joy, now entombed. The smell of spices and ozone clings like memory.
+
+| **d10** | **Item Found**                                                                                                                                                                |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | **Chef-Magus’s personal spice pouch**, filled with powdered reagents: a pinch acts as a _Material Component_ for any fire spell once per day.<br>-> [table](link)             |
+| 2       | **Silver whisk**, counts as an arcane focus. Once per long rest, can cast _Unseen Servant_.<br>-> [table](link)                                                               |
+| 3       | **Preserved heartfruit** sealed in amber. Restores 1d4+1 HP when eaten but causes vivid hallucinations for 10 minutes.<br>-> [table](link)                                    |
+| 4       | **Three alchemical bottles** labeled “Heat,” “Stillness,” and “Echo.” Only “Stillness” remains intact — when opened, silences sound in 10ft for 1 minute.<br>-> [table](link) |
+| 5       | **Old cook’s logbook**, pages filled with recipes like “Soufflé of Elemental Air” and “Summoning Broth.” Amusing, but some incantations are legitimate.<br>-> [table](link)   |
+| 6       | **Pouch of powdered graphite**, labeled “Lubricant – For Astrolabe Bearings.” (_astrolabe component 3_)<br>-> [table](link)                                                   |
+| 7       | **Tiny brass effigy** of a frog with an open mouth. Placing it near liquid causes it to croak softly. Worth 15gp.<br>-> [table](link)                                         |
+| 8       | **Miniature planar anchor**, half-melted. Glows softly when near extraplanar creatures.<br>-> [table](link)                                                                   |
+| 9       | **Set of silver measuring spoons** that hum in perfect pitch when near magical ingredients. Worth 25 gp.<br>-> [table](link)                                                  |
+| 10      | **Small brass key** labeled _“Pantry Lock.”_ Leads to a sealed cold-storage chamber elsewhere in the dungeon.<br>-> [table](link)                                             |
+
+
 
 | **d6**                        | **Event**                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

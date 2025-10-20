@@ -1,24 +1,18 @@
 ###### Session Prep
 - FIX BAG ITEM CARD
-- necromancy ring
-- see invisibility lens
-- Climbing potion
-- magic circle scroll
-- wind chime
-- driftglobe
-- violin
+- update bartholomood's page
+- violin (if found)
+
 
 - Finish introducing ruined tower
 	- how to tease grendelle - toto
 	- kargoe timing
 
 - Finish up ruined tower dungeon, encounters, and loot
-	- ward room checks / description
-	- Descent / entrance verse checks / description
 	- atrium/extraplanar/kitchen
 		- animated cutlery encounter... lol
 		- loot tables
-			- Silly enchnated kitchen utensil as a weapon
+			- Silly enchanted kitchen utensil as a weapon
 		- lore? - find... stuff about astrolabe and kargoe's ritual
 	- Master's apartments
 		- loot table
