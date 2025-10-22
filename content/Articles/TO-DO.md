@@ -6,7 +6,6 @@
 
 - Finish introducing ruined tower
 	- how to tease grendelle - toto
-	- kargoe timing
 
 - Finish up ruined tower dungeon, encounters, and loot
 	- atrium/extraplanar/kitchen

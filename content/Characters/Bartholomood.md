@@ -1,5 +1,5 @@
 ###### *Male, [[Northern Dwarves]], Young*
-###### Location(s): [[Milton]],[[Harport]],[[Balkai]]
+###### Location(s): [[Milton]], [[Harport]], [[Balkai]]
 - Dwarf from Mason family  
 - kicked out of dwarven halls for being a tree-hugger, a weird singer, and having a relatively high-pitched voice.
 - joined [[Harport Mason's Guild]] for a time
@@ -17,7 +17,6 @@
 2. [Tasha's Hideous Laughter](https://dnd5e.wikidot.com/spell:tashas-hideous-laughter)
 3. [Dissonant Whispers](https://dnd5e.wikidot.com/spell:dissonant-whispers)
 4. [Charm Person](https://dnd5e.wikidot.com/spell:charm-person)
-5. 2. [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 
 ##### 2nd Level
 1. [Shatter](https://dnd5e.wikidot.com/spell:shatter)
@@ -25,6 +24,7 @@
 
 #### 3rd Level
 1. [Bestow Curse](https://dnd5e.wikidot.com/spell:bestow-curse)
+2. [Stinking Cloud](https://dnd5e.wikidot.com/spell:stinking-cloud)
 
 #### Feats
 ###### [Lucky](https://dnd5e.wikidot.com/feat:lucky)
