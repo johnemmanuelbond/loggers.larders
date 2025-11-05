@@ -72,7 +72,7 @@
 [ambient sound](https://www.youtube.com/watch?v=CXHDzj4s9zA&list=RDCXHDzj4s9zA&start_radio=1)
 > To take the left-hand pass you have to duck through a warped jagged opening in the stone. Emerging on the other side, a long and narrow chamber extends 60ft ahead, gradually sloping downwards. Every 10 feet or so there are these jagged ridges along the curved cavern walls, floor, and ceiling. The floor itself is littered with debris, but, unlike in the earlier room, you can actually see a good amount shattered stonework peeking through. A musky scent, mixed in with dust, makes you sneeze.
 > 
-> That red fluid from before is not much more than a tiny little trickle in this room, periodically pooling at those ridges before snaking towards to the left where... about halfway down the chamber the left side descends rapidly into darkness. The right half of this chamber continues down at the same rate towards, at the edge of everyone's vision, a snaking mess of... roots!, seems interwoven with a familiar mess of rotten wood twisted metal. But within that pile you see 
+> That red fluid from before is not much more than a tiny little trickle in this room, periodically pooling at those ridges before snaking towards to the left where... about halfway down the chamber the left side descends rapidly into darkness. The right half of this chamber continues down at the same rate towards, at the edge of everyone's vision, a snaking mess of... roots!, seems interwoven with a familiar mess of rotten wood twisted metal. As you focus un on that pile you see shadows moving, which strikes you as weird until you realize there's a dull glow coming from within.
 
 **Ambience**
 - Constant faint squeaking, clicking, and rustling
@@ -84,14 +84,15 @@
 - Oh, and the Lemmings
 
 
-| **Check Type**        | **DC 10**                                                                                                                         | **DC 13**                                                                                                                                                                                                                                                                                                         | **DC 16**              | **DC 20+**                                                                                                                       |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Perception**        | You notice small traces in the debris — clusters of straw, fur, and gnawed cloth. The smell of musk gets stronger as you descend. | You hear faint scurrying — dozens of tiny claws tapping wood, then silence.                                                                                                                                                                                                                                       | —                      | A faint, unnatural glow leaks from a central nest. _(Clue: “Nest-core.”                                                          |
-| **Survival / Nature** | A closer look at the traces reveals several sets of oversized paw prints, and drag marks.<br>                                     | The fur and droppings are recent — the colony’s active and agitated.                                                                                                                                                                                                                                              | —                     You wait and watch as a large rodent creature emerges from burrow near the tangle of roots. It seems to be carrying a... whisk? ng  |
-| **Investigation**     | —                                                                                                                                 | You see a few bits of metal bolted along the wall just past one of the periodic rings along the floor and ceiling. Each piece is attached to the a piece of shattered wood still flecked with blue paint. Damn if doesn't look like hinges. You look below them and find a **small metal can** with a thin spout. | Roll on the loot tabl                                                                                                                                     |
+| **Check Type**        | **DC 10**                                                                                                                         | **DC 13**                                                                                                                                                                                                                                                                                                         | **DC 16**                                                                                                                                                | **DC 20+**                                                               |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Perception**        | You notice small traces in the debris — clusters of straw, fur, and gnawed cloth. The smell of musk gets stronger as you descend. | You hear faint scurrying — dozens of tiny claws tapping wood, then silence.                                                                                                                                                                                                                                       | —                                                                                                                                                        | A faint, unnatural glow leaks from a central nest. _(Clue: “Nest-core.”_ |
+| **Survival / Nature** | A closer look at the traces reveals several sets of oversized paw prints, and drag marks.<br>                                     | The fur and droppings are recent — the colony’s active and agitated.                                                                                                                                                                                                                                              | —                     You wait and watch as a large rodent creature emerges from burrow near the tangle of roots. It seems to be carrying a... whisk? ng |                                                                          |
+| **Investigation**     | —                                                                                                                                 | You see a few bits of metal bolted along the wall just past one of the periodic rings along the floor and ceiling. Each piece is attached to the a piece of shattered wood still flecked with blue paint. Damn if doesn't look like hinges. You look below them and find a **small metal can** with a thin spout. | Roll on the loot tabl                                                                                                                                    |                                                                          |
 
 
 ##### Dire Lemmings
+[fight music](https://www.youtube.com/watch?v=Mr-T13aG6iE&list=RDMr-T13aG6iE&start_radio=1&t=459s)
 The hissing intensifies as you realize a colony of [[Dire Lemmings]] have taken over the back end of this room. These semi-intelligent, terrier-sized, burrowing rodents seem a little skittish and malnourished. You can see their fur is patchy patchy fur and fait reddish streaks marking their paws as they avoid your gaze.
 
 Passing a DC 13 animal handling check (DC 8 with food) can calm them down and allow access to parts of the warren with loot. A failure results in a stampede (dex 14 or be knocked prone), initiative, and a ton of noise.
@@ -139,7 +140,7 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 		    2. getting the **brass casing** from [[Ruined Tower#The Hold|The Hold]]
 	    2. Using the **astral notebook** from the  [[Ruined Tower#The Master’s Chambers|Master's Chambers]] to re-etch the final rune
 	    3. Applying the **charcoal lubricant** from the [[Ruined Tower#Lemming Warren|Lemming Warren]]
-	    - **Two fragments** = basic activation → the spirit wakes but unstable (dangerous but salvageable).
+		- **Two fragments** = basic activation → the spirit wakes but unstable (dangerous but salvageable).
 		- **Three fragments + notes** = full reactivation → stable vision sequence
 		- **All four** = complete success and potential long-term boon (astrolabe acts as a navigation focus or divination tool).
 	- Rewards:
@@ -172,7 +173,7 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 - **Behavior:**
     - Silent most of the time, but reacts to proximity or magical light.
     - When the mechanism is set spinning, it moves in harmony, whispering faintly.
-    - If spoken to with _Comprehend Languages_ or _Speak with Dead_, it communicates broken phrases — “home... bodiless... trapped...”
+    - If spoken to either in Elvish or with _Comprehend Languages_ or _Speak with Dead_, it communicates broken phrases — “home... bodiless... trapped...”
 - **Temperament:** Not hostile, just confused — slowly losing its sense of self.
 - **Lines while trapped**
 	- You, voice! to hear a voice again!
@@ -186,7 +187,7 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 	- Ah, legs! to be housed again!.
 	- Oh interesting, he's one of those deepling slaves, I was hoping for the mouse-man but this body should carry me far enough.
 	- Now I wonder if this is still here -> *wristpocket*
-	- Oh hello! friends, thank you for finding me here. Sadly I must be going. Come meet me at my shimmering ash.
+	- Oh hello! friends, thank you for finding me here. Sadly I must be going. North of here is a grove with a glowing tree, I'll leave this there when I'm done with it.
 
 
 ![[kargoe, posessed.png]]
