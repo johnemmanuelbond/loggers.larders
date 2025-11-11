@@ -88,7 +88,7 @@
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | **Perception**        | You notice small traces in the debris — clusters of straw, fur, and gnawed cloth. The smell of musk gets stronger as you descend. | You hear faint scurrying — dozens of tiny claws tapping wood, then silence.                                                                                                                                                                                                                                       | —                                                                                                                                                        | A faint, unnatural glow leaks from a central nest. _(Clue: “Nest-core.”_ |
 | **Survival / Nature** | A closer look at the traces reveals several sets of oversized paw prints, and drag marks.<br>                                     | The fur and droppings are recent — the colony’s active and agitated.                                                                                                                                                                                                                                              | —                     You wait and watch as a large rodent creature emerges from burrow near the tangle of roots. It seems to be carrying a... whisk? ng |                                                                          |
-| **Investigation**     | —                                                                                                                                 | You see a few bits of metal bolted along the wall just past one of the periodic rings along the floor and ceiling. Each piece is attached to the a piece of shattered wood still flecked with blue paint. Damn if doesn't look like hinges. You look below them and find a **small metal can** with a thin spout. | Roll on the loot tabl                                                                                                                                    |                                                                          |
+| **Investigation**     | —                                                                                                                                 | You see a few bits of metal bolted along the wall just past one of the periodic rings along the floor and ceiling. Each piece is attached to the a piece of shattered wood still flecked with blue paint. Damn if doesn't look like hinges. You look below them and find a **small metal can** with a thin spout. | Roll on the loot table                                                                                                                                   |                                                                          |
 
 
 ##### Dire Lemmings
@@ -139,7 +139,7 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 		    1. getting an **animating gem** from the [[Ruined Tower#The Gallimaufry|The Gallimaufry]]
 		    2. getting the **brass casing** from [[Ruined Tower#The Hold|The Hold]]
 	    2. Using the **astral notebook** from the  [[Ruined Tower#The Master’s Chambers|Master's Chambers]] to re-etch the final rune
-	    3. Applying the **charcoal lubricant** from the [[Ruined Tower#Lemming Warren|Lemming Warren]]
+	    3. Applying the **charcoal lubricant** also from the [[Ruined Tower#The Gallimaufry|Gallimaufry]]
 		- **Two fragments** = basic activation → the spirit wakes but unstable (dangerous but salvageable).
 		- **Three fragments + notes** = full reactivation → stable vision sequence
 		- **All four** = complete success and potential long-term boon (astrolabe acts as a navigation focus or divination tool).
@@ -184,7 +184,8 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 	- At this hour? It's gonna be jammed! (californians)
 	- I see *her* through the circle, tall and thin, scraping the stars away…
 - **Lines Upon Escaping**
-	- Ah, legs! to be housed again!.
+	- Oh, well I was expecting that old crone's little brat, or at least that silly mouse-man, but this is nice, oh my, legs!
+	- When is it now!?
 	- Oh interesting, he's one of those deepling slaves, I was hoping for the mouse-man but this body should carry me far enough.
 	- Now I wonder if this is still here -> *wristpocket*
 	- Oh hello! friends, thank you for finding me here. Sadly I must be going. North of here is a grove with a glowing tree, I'll leave this there when I'm done with it.
@@ -220,129 +221,96 @@ If combat, roll for 3d6 dire lemmings. Each d6 gets its own initiative
 
 | **Check Type**               | **DC 10**                                                                                                                       | **DC 13**                                                                                       | **DC 16**                                                                                              | **DC 20+**                                                                                                          |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **Perception**               | You can make out fragments of furniture and cutlery wedged between the stone. A few clink loose and tumble into the dark below. | You notice faint scorch marks and long drag lines along the stone at the bottom of the descent. | —                                                                                                      | Looking up where you came from you notice flecks of color and squinting your eyes you see the remains of a *mural*. |
-| **Investigation / Survival** | —                                                                                                                               | You spot a safer path over the debris slope<br>*If followed reduce DC to descend by 2.*         | —                                                                                                      | That tangle of metal looks like the remains a chandelier... on the wall.                                            |
+| **Perception**               | You can make out fragments of furniture and cutlery wedged between the stone. A few clink loose and tumble into the dark below. | You notice faint scorch marks and long drag lines along the stone at the bottom of the descent. | Off to the left you see the wall open into a bare *chamber*.                                           | Looking up where you came from you notice flecks of color and squinting your eyes you see the remains of a *mural*. |
+| **Investigation / Survival** | —                                                                                                                               | You spot a safer path over the debris slope<br>*If followed reduce DC to descend by 2.*         | ""                                                                                                     | That tangle of metal looks like the remains a chandelier... on the wall.                                            |
 | **Arcana / History**         | —                                                                                                                               | —                                                                                               | The hairs on your neck raise as you feel the telltale sign of a magical ward enamating from the ledge. | —                                                                                                                   |
+
 *Mural*: piecing together what this might of looked like, you imagine a central figure, tall and regal, raising their arms in front of a tall structure with two towering spires. One of the spires has a metal tube emerging from the top pointing towards the brightly glowing stars overhead.
+
+*Chamber*
+The chamber off to the side is remarkably intact and is clearly masoned. The only thing out of place is a stone tablet lying diagonally across the floor carved with the Elvish phrase: *"Minno na Baird Arth'hel ruin. A tir a dan, morghul tuin"* (Enter the tower at ashen hollow, defend the "magic" guarded grove)
 
 ### The Gallimaufry
 _(Now one fractured, half-collapsed fusion of living space, laboratory, and defense system.)_
-> The chamber opens into what might once have been a kitchen — or a laboratory, or both. The walls are lined with blackened shelving, dangling cutlery, and bulbous glassware fused to the stone. Pots, pans, and bits of furniture hover in midair, orbiting lazily as if stirred by an unseen spoon. A warped cooking range sits embedded in the far wall, venting faint whisps of blue flame.
+> Sliding down the sloped surface from the descent you enter a room of pure chaos, frozen in time. The room itself is an enormous 45 by 45 foot expanse of jagged stones slowly descending into a central depression. The ceiling is relatively intact and you can make out two more of those distinct lines of jagged stonework emerging from it. Tables and desks and even a few reinforced chests are thrown across the floor which is laden with glass shards and splotched with multicolored dry residues. Anything fragile has been shattered, but across the ground and tables are a truly odd collection of stuff.
 > 
-> A cauldron floats in the center of the room, suspended by some invisible current, bubbling with a thin iridescent fluid that occasionally spits small motes of light into the air. The temperature here shifts constantly — freezing one moment, sweltering the next — as though the room can’t decide which element to obey.
-
-> The descent ends in a vast chamber torn into three disjointed sections — the once-elegant atrium now a jumble of marble floors, shattered glass domes, and overturned furniture. A half-melted sculpture leans at a drunken angle beside what appears to be… a kitchen counter? Iron pots, copper pans, and cutlery lie scattered across the floor, some lodged in the walls as if hurled there by great force.
+> There's a gallery of chairs with dry-rotted upholstery, a set of cooking knives--complete with a large cleaver--strewn about the bottom of the pit, other cutlery sits jammed about a half-inch into the stone walls. There are numerous measuring instruments and a spectrum of differently sized charcoal pencils, a shelf faces away from you on the other side of the room. You see a cauldron sitting on top of a magic circle, with another empty circle beside it. Except the whole thing is uprooted and lying on its side, and the cauldron is full of a translucent red liquid, unspilled, and perfectly still.
 > 
-> Charred sigils mark the air like heat ripples. Here and there, an object twitches — a ladle shivers upright, a cleaver jerks once before going still. Broken paintings hang at impossible angles, their frames fused with the brass piping of the wizard’s “culinary automata.” The smell is a strange blend of incense, burnt sugar, and ozone.
-
+> The smell in this room is new, the monster smelt sweet and cloying, the lemming warren smelt dank and damp, the descent smelt dry and dusty, but in here it smells like cinnamon and ozone, and faintly of incense. The temperature in this room shifts abruptly even from one step to the next and you're made clearly aware that whatever magic once took place here is still doin something...
 
 **Ambience**
 - Smell of ozone and burnt sugar.
 - Distant chiming, like cutlery striking glass.
-- Faint rhythmic pulse — almost like a heartbeat — from the cauldron’s bubbling.
 - When someone speaks, echoes briefly distort as if through water.
 
 **Hazards**
 - **Animated Cookware:** As the party disturbs the room, a chorus of clattering metal rises; the pots and utensils surge into action.
-    - _Swarm of Animated Cutlery (treat as Swarm of Animated Objects, CR ~3–4 depending on party)_.
-    - Big cleaver is the scariest
-    - Each round, the cauldron sloshes unpredictable energy (roll d6):
-        1. Steam burst (Dex 13, 1d8 fire)
-        2. Flash-freeze (Con 13, 1d8 cold)
-        3. Arcane flare (Dex 15, 1d10 lightning)
-        4. Inky smoke (area lightly obscured)
-        5. Hail of spoons (Dex 14, 1d6 bludgeoning)
-        6. Nothing, just a mournful hiss.
 	- Jammed into the bottom of the __ is a **Cracked animating gem** Removing it disanimates the . flickers like a heartbeat when held. Required for reactivating the **astrolabe**.
-
-- **Environmental:** Uneven temperature causes slick frost and heat cracks — DC 13 Acrobatics to move through quickly without slipping or burning.
-    
-
-- **Environmental hazards:**
-    - **Unstable magic:** Every few minutes, a random utensil or pan twitches or levitates for a moment, producing clangs and thuds that echo through the hall.
-    - **Hotspots:** Some floor sections still radiate warmth — a misfired _Heat Metal_ effect; stepping there deals 1d4 fire if lingering.
-    - **Unstable platforms:** A toppled dining balcony juts from the wall at a 45° angle — slick and unstable for climbers (Acrobatics DC 13).
-
-| **Check Type**               | **DC 10**                                                                                                                         | **DC 13**                                                                                                                                              | **DC 16**                                                                                                             | **DC 20+**                                                                                                         |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Perception**               | You notice a dull blue light leaking from beneath a collapsed counter — a small containment crystal, cracked but glowing faintly. | You spot scorch marks shaped like handprints on the ceiling — the aftermath of a failed planar rift.                                                   | Behind the oven’s warped door, a heat-scorched sigil ringed in ash: **planar binding**, long-expired.                 | You catch a glimpse of something flickering inside the cauldron — a tiny eye, watching you before vanishing.       |
-| **Investigation / Survival** | Sorting through the mess, you find an intact **silver whisk** — faintly magical, it hums when near food or alchemical reagents.   | Hidden under a toppled table is a locked iron strongbox fused shut by heat. Breaking it reveals **a cracked animating gem** (_astrolabe component 2_). | The remains of a shattered mirror on the far wall still shimmer faintly — it’s reflecting another room, not this one. | 2 rolls on the loot table, but the search stirs unstable magic (1 random cauldron surge).                          |
-| **Arcana / History**         | The cauldron’s magic feels extraplanar, not elemental — it’s been siphoning energy from elsewhere.                                | Glyphwork along the shelving shows this was once a **cross-dimensional study**, using food and reagents as mediums.                                    | --                                                                                                                    | Studying the magic long enough reveals a fleeting name: “**Caendaur Fuirith**,” etched beneath the cauldron’s rim. |
+- **Mimic** one of the ruined chests in the room is a mimic.
+- **Environmental:** Uneven temperature causes slick frost and heat cracks — DC 13 Acrobatics to move at full speed through quickly without slipping or burning.
+- **Hotspots:** Some floor sections still radiate warmth — a misfired _Heat Metal_ effect; stepping there deals 1d4 fire if lingering.
 
 
-| **d10** | **Item Found**                                                                                                                                                                |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | **Chef-Magus’s personal spice pouch**, filled with powdered reagents: a pinch acts as a _Material Component_ for any fire spell once per day.<br>-> [table](link)             |
-| 2       | **Silver whisk**, counts as an arcane focus. Once per long rest, can cast _Unseen Servant_.<br>-> [table](link)                                                               |
-| 3       | **Preserved heartfruit** sealed in amber. Restores 1d4+1 HP when eaten but causes vivid hallucinations for 10 minutes.<br>-> [table](link)                                    |
-| 4       | **Three alchemical bottles** labeled “Heat,” “Stillness,” and “Echo.” Only “Stillness” remains intact — when opened, silences sound in 10ft for 1 minute.<br>-> [table](link) |
-| 5       | **Old cook’s logbook**, pages filled with recipes like “Soufflé of Elemental Air” and “Summoning Broth.” Amusing, but some incantations are legitimate.<br>-> [table](link)   |
-| 6       | **Pouch of powdered graphite**, labeled “Lubricant – For Astrolabe Bearings.” (_astrolabe component 3_)<br>-> [table](link)                                                   |
-| 7       | **Tiny brass effigy** of a frog with an open mouth. Placing it near liquid causes it to croak softly. Worth 15gp.<br>-> [table](link)                                         |
-| 8       | **Miniature planar anchor**, half-melted. Glows softly when near extraplanar creatures.<br>-> [table](link)                                                                   |
-| 9       | **Set of silver measuring spoons** that hum in perfect pitch when near magical ingredients. Worth 25 gp.<br>-> [table](link)                                                  |
-| 10      | **Small brass key** labeled _“Pantry Lock.”_ Leads to a sealed cold-storage chamber elsewhere in the dungeon.<br>-> [table](link)                                             |
+| **Check Type**               | **DC 10**                                                                                          | **DC 13**                                                                                                                     | **DC 16**                                                                                                             | **DC 20+**                                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Perception**               | Elvish sigils decorate many many of the stones in this room, much of them are still active.        | At the rear of the chamber you see that an overturned table blocks off an otherwise clear passage which continues downwards.  | The Cauldrons liquid is not actually red, the dull color is coming from a dull glow at the bottom of the cauldron.    | 1 roll on the loot table.                                                                                          |
+| **Investigation / Survival** | Elvish sigils decorate many many of the stones in this room, much of them are still active.        | 1 roll on the loot table.                                                                                                     | The remains of a shattered mirror on the far wall still shimmer faintly — it’s reflecting another room, not this one. | 2 rolls on the loot table, BEFORE the cauldron activates.                                                          |
+| **Arcana / History**         | The cauldron’s magic feels extraplanar, not elemental — it’s been siphoning energy from elsewhere. | Glyphwork along the shelving shows this was once a **cross-dimensional study**, using food and reagents as mediums.           | --                                                                                                                    | Studying the magic long enough reveals a fleeting name: “**Caendaur Fuirith**,” etched beneath the cauldron’s rim. |
 
 
+| **d10** | **Item Found**                                                                                                                                                                                                                                                                                  |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | **Chef-Magus’s personal spice pouch**, filled with powdered reagents: a pinch acts as a _Material Component_ for any fire spell once per day.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                   |
+| 2       | -> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of)                                                                                                                                                            |
+| 3       | **Preserved heartfruit** sealed in amber. Restores 1d4+1 HP when eaten but causes vivid hallucinations for 10 minutes.<br>-> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of)                                  |
+| 4       | **Three alchemical bottles** labeled “Heat,” “Stillness,” and “Echo.” Only “Stillness” remains intact — when opened, silences sound in 10ft for 1 minute.<br>-> [table](link)                                                                                                                   |
+| 5       | **Old cook’s logbook**, pages filled with recipes like “Soufflé of Elemental Air” and “Summoning Broth.” Amusing, but some incantations are legitimate.<br>-> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of) |
+| 6       | **Pouch of powdered graphite**, labeled “Lubricant – For Astrolabe Bearings.” (_astrolabe component 3_)<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                         |
+| 7       | **Tiny brass effigy** of a frog with an open mouth. Placing it near liquid causes it to croak softly. Worth 15gp.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                               |
+| 8       | **Miniature planar anchor**, half-melted. Glows softly when near extraplanar creatures.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                         |
+| 9       | **Set of silver measuring spoons** that hum in perfect pitch when near magical ingredients. Worth 25 gp.<br>-> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of)                                                |
+| 10      | **Small brass key** labeled _“Pantry Lock.”_ Leads to a sealed cold-storage chamber elsewhere in the dungeon.<br>-> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of)                                           |
 
-| **d6**                        | **Event**                                                                                                                                                                                                                                                                                                                        |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. The Angry Ladle**        | A tarnished silver ladle suddenly _snaps upright_ and begins smacking anything nearby. It flails in a 5-foot radius, dealing 1 damage on a hit before clattering to the ground. The handle continues to twitch for a minute afterward, like it’s scolding you.                                                                   |
-| **2. Steam Burst**            | A nearby pipe or vent releases a sudden jet of scalding steam. Creatures in a 10-ft line must make a DC 12 Dex save or take 1d4 fire damage. The air fills with the smell of rosemary and burnt copper.                                                                                                                          |
-| **3. Phantom Servant Glitch** | A faint outline of an _Unseen Servant_ manifests briefly, cleaning invisible dishes or setting an imaginary table. Then it glitches — stacking shards of broken plates into a precarious tower before vanishing. The tower wobbles ominously.                                                                                    |
-| **4. The Musical Whisk**      | A brass whisk starts to vibrate, humming a strange tune that harmonizes eerily with anyone speaking. Detect Magic reveals faint _Enchantment_ energy. If left alone, the hum resolves into a bar of music — one that might be recognized again elsewhere in the dungeon.                                                         |
-| **5. Gravity Flip**           | For just an instant (1 round), gravity in a 10-ft cube inverts. Pots, cutlery, and debris float up, then crash down again. Anything inside makes a DC 13 Dex save to avoid falling prone or taking 1d4 bludgeoning damage. This always happens right after someone mentions food or hunger.                                      |
-| **6. The Soufflé’s Revenge**  | From beneath a collapsed prep table oozes a blob of half-animated dough — the ghost of an unfinished meal. It jiggles weakly toward the nearest creature, bumping them before dissolving into flour. Left behind: a faintly glowing _Arcane Yeast_ sample (one-use component for Animate Object or similar transmutation magic). |
+
+##### Animated Cookware
+[Battle Music](https://www.youtube.com/watch?v=Mr-T13aG6iE&list=RDMr-T13aG6iE&start_radio=1&t=2368s)
+> The cauldron begins to levitate up in the are, righting itself. The temperature begins to rise and your vision starts to warp as charred sigils start appearing in the air surrounding the cauldron. Numerous implements of cutlery begin to float up as well, dispensing themselves from the walls. Barty, your spoons vibrate but remain disanimated.
+
+![[animated cauldron.png]]
+
 
 ### The Master’s Chambers
-_(Private quarters of the wizard, now hollowed and scorched by burrowing monsters.)_
-> The last descent opens into a wide, collapsed chamber half-glassed with obsidian sheen. The air here is _hot_ — not unbearable, but humid, heavy, and faintly metallic. The stone underfoot ripples like it’s been melted and refrozen.
-> 
-> A massive divan lies on its side, the velvet burned away to bare frame. Charred hangings still cling to the walls, their sigils warped by heat. Across the room, a huge tunnel gapes like an open wound — edges scorched black and glistening faintly.
-> 
-> Bits of jewelry, burnt parchment, and glass spheres lie half-buried in slag. Something skitters deeper in the dark, then goes still.
+[Ambient Music](https://www.youtube.com/watch?v=l-vpJVMWUvk)
+> Moving aside the table at the end of the Gallimaufry reveals a comparitavely modest chamber. Unlike everywhere else, here the stonework is solid and fused together. The air in here is _hot_--not unbarable but heavy and dry. Halfway down the chamber the floor opens into a pitch black chasm, about 5 by 10 feet. Beyond you see a massive divan lying on its side, the velvet burned away to bare frame. Charred hangings still cling to the walls, their sigils warped by heat. Across the room, a huge tunnel gapes like an open wound with cauterized edges and a faint glasslike glisten. 
 
-|**DC**|**Discovery**|
-|---|---|
-|**10**|The heat is residual, not magical — the stone melted from immense, natural heat. The floor vibrates faintly as if the tunnels below still echo with something moving.|
-|**12**|Several of the wizard’s possessions are fused into the walls — jewelry, utensils, even books reduced to curled shadows. A faint blue light glows from within one melted bookshelf.|
-|**14**|The scorched tunnel mouths are too smooth for normal fire — they were bored by enormous, heat-generating creatures. A Knowledge (Nature/Arcana) check identifies remorhaz sign.|
-|**16**|You find a partially intact desk with embedded runes for temperature control, now shattered. In a locked drawer (DC 14 Thieves’ Tools), a heat-proof container holds several personal notes, perfectly preserved.|
-|**18**|Beneath the floor, a heat-ripple illusion shimmers faintly — a ward meant to disguise a **hidden compartment**. Inside: a crystal ring and a scorched letter addressed simply to “My Apprentice.”|
-|**20+**|Traces of molten silver form a circle around the bed’s remains — an **uncompleted ritual of preservation** that might have backfired, drawing in the remorhaz instead of warding against them. The sigil’s shape is still legible and could be reactivated with effort.|
-
-- **Residual Heat:** Standing near the tunnel mouths is uncomfortable; Constitution save DC 11 every 10 minutes or gain one level of exhaustion.
-- **Glassified Floor:** Movement speed halved if players aren’t careful — the melted rock crunches and cracks loudly underfoot. Stealth disadvantage.
+**Ambience**
 - **Scent:** Burnt copper, faintly sweet.
 - **Auditory Illusion:** Occasionally, a faint hum rises from the melted stone, as though the chamber is _remembering_ fire.
 
-|**d10**|**Item Found**|
-|---|---|
-|1|**Molten signet ring**, fused to a lump of metal. Could be reforged; engraved with the wizard’s sigil.|
-|2|**Heat-proof scroll tube**, containing _Endure Elements_ and _Melf’s Minute Meteors._ Worth 200 gp to the right buyer.|
-|3|**Obsidian pendant**, still faintly warm to the touch. Grants resistance to cold while worn, but disadvantage on Stealth (it emits faint light).|
-|4|**Scorched letter to an apprentice** detailing a failed experiment — mentions “The Astral Kitchen” and an untested “convectional bridge.” Clue toward the wizard’s greater arcane obsession.|
-|5|**Small vial of congealed silver**, possibly residue from a failed warding ritual. When poured on a weapon, grants +1 damage vs. fiends for one encounter.|
-|6|**A cracked, mirrored orb**, still reflecting strange constellations — possibly the same celestial map seen in the observatory.|
-|7|**Heat-resistant satchel** containing several lumps of rare, scorched gemstones (amber, ruby, topaz). Worth 120 gp total.|
-|8|**Soot-streaked note**: “_If the heat takes me, tell them the tower did not fall — it sank._”|
-|9|**Personal trinket** — a miniature spoon and wand crossed over each other, carved of ivory. Probably sentimental, worth 10 gp.|
-|10|**Smoldering heartstone** (minor magic item): when held, emits warmth and gentle light; once per day, can grant advantage on a saving throw against fear or cold. Glows brighter in the presence of planar energy.|
+**Hazards**
+- **Glassified Floor:** Movement speed halved if players aren’t careful — the melted rock crunches and cracks loudly underfoot. Stealth disadvantage.
+- **Residual Heat:** Standing near the tunnel mouths is uncomfortable; Constitution save DC 11 every 10 minutes or gain one level of exhaustion.
 
-- **Clue to the tower’s fall:** The note about the tower “sinking” ties into the orientation reveal — players who piece it together realize the structure didn’t collapse but _tipped_ and became buried.
-- **Remorhaz narrative presence:**
-    - Scorched grooves suggest they burrowed in from below long after the tower’s fall, drawn by warmth and magic residue.
-    - Their tunnels could lead deeper — a future optional “beast lair” if the party wants to pursue it.
-- **Tone:** Quiet dread. This isn’t a combat room — it’s aftermath. The heat and melted opulence are almost funereal.
-- **Contrast:** After the chaotic magic of the kitchen, this space is solemn and physical — ruin wrought by nature’s fury, not spellcraft gone wild.
+| **DC**  | **Discovery**                                                                                                                                                                                                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **10**  | The heat is residual, not magical — the stone melted from immense, natural heat. The floor vibrates faintly as if the tunnels below still echo with something moving.                                                                                                                      |
+| **12**  | Against the wall there is an intact desk with embedded protective runes. In a locked drawer (DC 20 Thieves’ Tools), a heat-proof container holds several personal notes, perfectly preserved.                                                                                              |
+| **14**  | The scorched tunnel mouths are too smooth for normal fire — they were bored by enormous, heat-generating creatures. A Knowledge (Nature/Arcana) check identifies Remorhaz sign (DC 20).                                                                                                    |
+| **16**  | You hear *distant* skittering from the tunnels, though it appears to be getting faintly louder.                                                                                                                                                                                            |
+| **18**  | Looking down into the dark pit you notice it's not made of shattered masoned stone, like the rest of this ruin. Instead its walls appear perfectly smooth as if chipped from slate. This hole itself drops about 10 feet before opening into a perfectly empty, perfectly spherical, cave. |
+| **20+** | Roll on [Highly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187125394177/all-artifacts-a-working-rolling-table-of-all-the)                                                                                                                                                   |
 
-
-
+**Desk contents**
+1. Half written letter in Elvish to a "Lord Garthenel Silarin" complimenting the tin composition of their astral brass, the letter carries a surprised tone (as if he didn't think this guy would do it right). The letter is unsigned.
+	1. For Gilothy: DC 10 history: your great grandfather was named Garthenel and died shortly before your sister was born. DC 20 history: There have been two Garthenels who carried the title of lord, first was your ggf, but there was another Lord Garthanel who was slain in the third Battle of the Floes 1000 years ago.
+2. Another, also in elvish, appears to be a list of components for a ritual: ivory strips, incense, a lens (DC 20 arcana to identify Legend Lore).
+3. There is a deed in Elvish to the "Baird Arth'hel Ruin" 
+4. You find a journal containing notes on the design and use of the astrolabe to look out past strange aeons for signals in the stars form lost kin. _(Astrolabe component 4)_
 
 ## Baird Arth'hel Ruin
 *"The Tower at Ash Hollow"*
 
-Before its fall at the end of the [[War of Salt and Snow]], this tower was the personal hold of the [[Northern Elves|Elven]] high mage [[Adhael Anar, Caendaur Fuirith|Adhael Anar]]. At its enterance is carved the phrase: *"Minno na Baird Arth'hel Ruin, i-vannad lin a naeg"* (Enter the tower at ashen hollow, your gift and your trial)
+Before its fall at the end of the [[War of Salt and Snow]], this tower was the personal hold of the [[Northern Elves|Elven]] high mage [[Adhael Anar, Caendaur Fuirith|Adhael Anar]]. At its entrance is carved the phrase: *"Minno na Baird Arth'hel ruin. A tir a dan, morghul tuin"* (Enter the tower at ashen hollow, defend the "magic" guarded grove)
 
 ![[tower1.png]]
 

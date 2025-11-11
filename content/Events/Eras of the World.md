@@ -55,6 +55,12 @@ Yet more secretive mages/clerics rediscover the shaded door.
 
 ### Founding of Andradora
 
+Mage king rules for ~500 years, then retreats into private life
+
+1st dynasty rules for 99 years, but is overthrown after losing favor with the mage king
+
+2nd dynasty is present.
+
 ### Harken's Voyage (0003, of the 2nd Dynasty)
 ###### *0003, of the 2nd Dynasty*
 [[Harken Keelmender]] discovers the continent of [[Nordwythe]] and the ravenous [[Andradorans]] begin their colonization.
