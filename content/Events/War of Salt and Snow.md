@@ -4,6 +4,7 @@ An ancient war between the [[Northern Elves]] and [[Ancient Merlings|Merlings]] 
 
 #### A tense truce
 
+1. elves are averse to shadebinding because it might incur pan's wrath
 
 #### Elven expansion
 

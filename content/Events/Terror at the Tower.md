@@ -1,6 +1,6 @@
 ###### *Sep 3 - ?, 0223*
 
-After the [[Canoe Trip]], players arrive at the tower
+After the [[Canoe Trip]], players arrive at the [[Ruined Tower]]
 
 Quick canoe trip skill challenge:
 
@@ -74,3 +74,10 @@ The blows keep coming, a ringing in your ears, a stabbing pain in your eye, brig
 [session start](https://www.youtube.com/watch?v=Cs2BaMO7KnI&list=RDCs2BaMO7KnI&start_radio=1)
 
 @Bartholomood and @Rivka you are catching your breath as the last lumps of red goop disperse across this forest meadow, revealing four soggy bodies. Two of which are recognizably @petunia and @johnmoore, two of which are new. Alberta trots up beside you, herself pretty bloodied, and says: "Well, I definitely could not have handled that on my own, lets get your friends awake."
+
+### The Tower Itself
+
+Work through the [[Ruined Tower]] module:
+1) players get distracted exploring [[Ruined Tower#The Hold|the hold]] whike [[Ruined Tower#Kargoe Plot|Kargoe]] touches something he shouldn't.
+2) [[Lemm No|Lemm]] inadvertently destroys the [[Ruined Tower#Lemming Warren|lemming warren]] while [[Bartholomood]] watches [[Kargoe Bepbiep Trukgohson|Kargoe]]'s soul get sucked into the [[Ruined Tower#Astrolabe|astrolabe]].
+3) The party explores the rest of the tower trying to repair the [[Ruined Tower#Astrolabe|astrolabe]] and save their friend.
