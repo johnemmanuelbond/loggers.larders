@@ -88,20 +88,92 @@ Maybe it's just my Elven sensibilities, but it really resembled a tree. White la
 
 Despite my temporary loss of control, the lens worked as expected. I felt Pan's influence grasp at me and pass harmlessly through, like I wasn't even there, because I wasn't. Genius. I can definitively say that ***I*** am the first to look into the heavens and evade that suffocating dread. I’ve already scheduled my next observation. Whatever that tree is, it is close, maybe even *here*.
 
-### E+
-%% Astrolabe Observation 2 %%
-%% Skinsplinter Experiment 1 %%
-%% Skinsplinter Experiment 2 %%
-%% Astrolabe Observation 3 %%
-%% Building the Teleportation Room %%
+### E13
 %% Skinsplinter Experiment 3 %%
-%% Astrolabe Observation 4 %%
-%% Building the Labyrinth %%
-%% Skinsplinter Experiment 4 %%
-%% Enchanting Cauldrons %%
-%% Skinsplinter Experiment 5 %%
-%% Plague Inspiration %%
-%% Hosting "Vecna" %%
+
+Progress remains… slow, at least towards my initial goals. The splinters refuse to behave like the Shimmer Tree. They do not lure, bind, or pacify the spirit; instead they trap and crudely gnaw at it. Imprecise but undeniably energetic. Still, more work is needed for this to work practically.
+
+The latest subject survived forty-three minutes longer than the predictions suggested. Impressive, yes, but also problematic, as he spent nearly all of that period immobilized by his own tensed muscle. It's hard to imagine he was truly conscious for that, but still I apologized out of habit. What fascinates me is the resilience the splinter induces. It is not healing, nothing so orderly, it is more like a frantic refusal to cease. Muscles reknit crookedly. Veins harden like wire. Even the eyes try to bloom into strange, iridescent petals. The effect is grotesque, yes, but undeniably durable. Energetic and durable.
+
+During disassembly I discovered something unexpected: blood-red thorns growing out of the subjects white bone. This was certainly outside of the subjects' usual physicality and surely due to some random mutation and not a property of the Shimmer Tree itself. No signs of the white latticework from the last experiment, unless... no that couldn't be it. Bone is the wrong shade of white, it's more like ice. I'm beginning to think that mortal souls are the wrong avenue for future investigation, but the accidental merger of humanoid and tree physicality is inspiring new and terrible ideas. For the war effort, I suppose. I keep remembering how even failed subjects cling fiercely to existence. One expired body continued twitching for nearly an hour after total organ collapse, equal parts impressive and inconvenient. Responsibly, I had to incinerate it.
+
+The next splinter is soaking now. I will try a narrower cut in the morning. If I can avoid another vocal bloom, all the better, I don't need any more nosy neighbors.
+
+
+### E21
+%% Hosting Vecna %%
+
+Lord Abelard Vecna is one of those friends where you're never really sure how you met... or when... or why. Nonetheless he is some of the only company who routinely gives me something new to ideate. So, I enjoy him. Guiltily. A jolt to the system.
+
+He smelled faintly of brine and grave-dust when he arrived, two hours late and entirely unapologetic. So, either he’s been recklessly haggling with the drowned again, or he’s perfected whatever experiment he hinted at in his last letter. He wouldn’t say, of course. Just smirked that little smirk and asked if my “lower laboratories were still intact.” I told him "unofficially" with my own little smirk.  Vecna is the kind of friend that one should not read into too deeply, or at least not often.
+
+We talked shop over wine. He calls it wine, anyway, though I’m fairly certain it began its life as some unfortunate creature’s death throes. But who knows, maybe the poor soul is still chained up and producing "rare vintages" for Vecna's cherished colleagues. It stains my decanters but does keep a conversation pleasantly glib. Later, while lounging in the green chair he insists on claiming, he asked whether my portal waypoint ever stopped “misplacing" travelers. I reminded him that only happened the once, and that the *volunteer* had been statistically unlikely to survive her mission regardless. He countered with: “Certainly not! Not with this tower as a prior.” I glared back, poorly masking a grin. While I regret asking his advice on that little project I can't help but find his manner amusing. The man has a way of equating necromancy to cooking: precise steps, cheerful improvisation, and absolutely no regard for the lives consumed in the process. I told him as much, and he laughed, accusing me of hypocrisy. (Fair.)  We really shouldn’t encourage one another. 
+
+Still, it’s grounding to speak with someone who understands the basic arithmetic of war. The cost of knowledge is always paid in someone’s blood. And blood is always being spilled, so it's better that we choose than let it go to waste.
+
+He left me a gift on the way out. A small orb wrapped in kelp-strings, humming faintly, and firmly refusing to be opened anywhere near the wards. I’ll deal with it tomorrow. Or next month. Or never. I should replace that green chair.
+
+
+### E57
+%% Meeting a Sphinx %%
+
+I have done well to keep Shimmergrove hidden from prying eyes.
+
+It's mine. Not in the legal sense, though none could challenge me for it, but in that homesteader's sense of being the first to dwell and build on an as-yet unexplored mountain or coastline. Years of steady observation, careful rituals, precise experiments, and the occasional bout of eldritch peril tend to foster a sense of stewardship and responsibility for a place. My grove. Having defied all competitors, I can confidently say I am the only elf to stand beneath those pale boughs and channel its arcanum to achieve great works. I stood beneath those boughs yesterday morning. Alone, as ever. Or so I thought.
+
+I didn't notice at first when the tree began its strange resonance. It has done this before; whenever one of it's... occupants tries to escape from the astral net. I suppose I had become accustomed to it. The phenomenon is useful in study, and well documented elsewhere, but never had it resulted in anything material. But this time was different. Silvered latticework shifted and twisted like it was trying to contain mercury, impossible. Like the clearing of the throat, a shape lazily coalesced between the shimmering branches, unbothered by the strange and esoteric magical aura of not only the tree, but my own rapidly intensifying defenses. My mind immediately went to damage control. Had Pan finally bothered to look more closely at this corner of the cosmos? How quickly could I get back to the astrolabe to send out a distraction? Was this the first foray of an *invasion*?
+
+As the shape resolved fully, I realized two things at once:
+1. I had never seen anything like her
+2. *She* was already studying *me*. Calmly, hospitably, with the measured patience of an equal.
+
+A Sphinx. I learned the word later, but even in that moment I understood its meaning: a creature carved from purpose protected by an armor of riddles and the stubborn refusal to stay *defined*. A woman’s face—ageless, regal—resting above the lithe, opaline body of a great cat. Certainly not a monstrous vanguard from the beyond. Her fur was amber and cyan and stark white, she wore (or conjured) a headdress of rainbow filaments woven between her great crown of pronged antlers. In hindsight it's obvious why such a mercurial creature was singularly able to pass through the Tree's protections. But I had understood the Tree as an inevitable net, and as one who has both seen and created many wonders of this age, believe me when I say I was awestruck.
+
+*“You have meddled, magus.”*
+
+She did not speak accusingly, nor with praise, but merely as if stating a fact the way one might comment on the weather. I opened my mouth, and for the first time in decades, found nothing sufficiently impressive or witty on my tongue. Me! Adhael! Archmage. Tower-Raiser. Breaker of Legions. Warden of the Floes. Friend to the Flaming Conclave and tamer of the great Roc. A man whose very *shadow* is enough to halt a battalion. I took a breath to collect myself and responded:
+
+“Welcome to my grove, what... are you? State your business.”
+
+Her laugh put me at ease. An enemy would have sounded mocking or goading or at the least disingenuous. But her laugh was laced with relief, relief to find a new conversant. 
+
+We spoke for hours beneath the branches of what felt less and less like *my* grove. I felt myself playing catch up for the first time since claiming my tower, it was exhilarating. She asked questions as a cartographer maps a familiar coastline she's already traversed, but just wants to see through a local’s eyes. She answered nothing directly, which has always been irritating coming from fellow mages, but I sensed this was not evasiveness. I would later come to learn that restraint is to a Sphinx is as curiosity is to a mage like myself, habit.
+
+In turn, she seemed fascinated by my work with the astrolabe, though I bristled when she referred to my breakthroughs as “a clever workaround.” Workaround!? Was she poking fun? I once nearly took the top off of a mountain because a Dwarven collaborator dared imply I couldn't and she calls the most significant arcane breakthrough in a millennium a workaround? But alas, I was disarmed when she appreciated the humor inherent in dodging Pan's ire by turning myself into a cosmic mirage. The genuine glee across her face at the thought of pulling a the rug out from under the most powerful being in the cosmos stripped away the last bit of my hesitation. We were peers after all, equals, with a shared enemy. I suddenly remembered she had done nothing to imply otherwise.
+
+At some point I deigned to ask what she was doing _inside_ the tree, my tree, when clearly she was not native to it.
+
+*"My mother sent me here to survive, and watch, and rebuild. I was meant to sleep, but you have shaken the branches and now I wake.*
+
+That gave me pause. I am not accustomed to being told I have disturbed someone by accident. Disturbance is something I perform intentionally. And yet she did not seem angry. If anything, she looked… melancholy.
+
+*Something terrible is coming, Adhael. Look again and again through your illusory lens but you know it will chase your people here. We cannot stop it.*
+
+I did know, I do know. She looked across to me with an empathetic gaze and continued with a bittersweet tone to her voice.
+
+*Maybe you and your people can redirect it and escape again, but even if you do it will still come and everything will change. I am relieved that having met you I can pass your legacy on to those that follow. For good and for ill.*
+
+We sat in silence for several moments. A scant two of only a handful of beings on this world with any idea of what was in store. My kin would not believe me, they would *choose* not to, or blame me for bringing it here. Her duty was to survive, a living contingency. Neither of us saw a point in resisting it. Finally she broke the quiet.
+
+*"Grow strong, hold fast, my friend."*
+
+She left without much fanfare, walking off into the woods. Still, I find myself returning to that moment. Not one of my many enemies has faced me with such composure.
+
+### E+
+%% E9 Astrolabe Observation 2 %%
+%% E10 Skinsplinter Experiment 1 %%
+%% E11 Skinsplinter Experiment 2 %%
+%% E12 Astrolabe Observation 3 %%
+%% E13 Building the Teleportation Room %%
+
+%% E15 Astrolabe Observation 4 %%
+%% E16 Building the Labyrinth %%
+%% E17 Skinsplinter Experiment 4 %%
+%% E18 Enchanting Cauldrons %%
+%% E19 Skinsplinter Experiment 5 %%
+%% E20 Plague Inspiration %%
+
+
 %% Capturing a mouse-man %%
 %% Plague Experiment 1 %%
 %% Plague Experiment 2 %%
@@ -111,6 +183,5 @@ Despite my temporary loss of control, the lens worked as expected. I felt Pan's 
 %% Claiming Shimmer Grove %%
 %% Destruction of Elga Elluin %%
 %% Astrolabe Observation 5 %%
-%% Meeting a Sphinx %%
 
  
