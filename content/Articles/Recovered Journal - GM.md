@@ -1,4 +1,4 @@
-*The personal notes of [[Adhael Anar, Caendaur Fuirith]], an elvish wizard from the [[Eras of the World#YF Founding Years|Founding Years]] responsible for ending the [[War of Salt and Snow]].
+*The personal notes of [[Adhael Anar, Caendaur Fuirith]], an elvish wizard from the [[Eras of the World#YF Founding Years|Founding Years]] responsible for ending the [[War of Salt and Snow]].*
 
 #### Outline
 - Discussion of this location as on the front lines
@@ -68,24 +68,25 @@ I’ve sketched the rudimentary runic shorthand for each material beside their t
 ### E6
 %% Hosting Garthanel %%
 
+%% TBD %%
 
 ### E7
 %% Building the Astrolabe %%
 
-The frame is assembled. Barely. It wobbles like a drunkard and hums in an unsettling way if left unattended, but it stands upright and does not collapse under its own arcane strain. I had to rebuild the ring structure twice—once because the grey plate refused to remain aligned with the rust segment (petty antagonism among materials is something they never bothered to teach at the Conservatory), and again because the blue clay ring softened whenever I looked at it too hard. The ice disc is behaving beautifully, though it keeps frosting my notes.
+It has been a hard day of construction but I'm nearly there. Luckily *fabricate* works on the celestial brass I got from the metallurgist I hosted last week. Begrudgingly I owe him my respect. He is a true craftsman and a relationship I should cultivate, albeit quietly. I'm still having trouble sourcing an animation gem, unfortunately that is an arena where my former affiliation does me no favors. Maybe I should just learn to craft them myself. The runic inscription is going well, so far it's passed every diagnostic enchantment. I've had more trouble actually assembling the rings, the inter-body resonance is intense I'm finding myself having to put up a *wall of force* just to keep everything from vibrating while I work, but it stands upright... after a few rebuilds. I've sketched a little diagram of the apparatus: Five rings, surrounding a central faceted orb.
 
-Worst of all, the dust plate simply will not cohere. I tried binding it with resin, with wax, with a low-grade stasis charm. All failures. The plate only stabilizes when the other four are already in motion, which is not only impractical but deeply annoying. I sketched a little diagram in the margin: _Gonn → Arus → Kemen → Helca → Asto?_ The ordering is intuitive but incomplete, like I’m missing a phrase in a sentence. Once the core crystal arrives (my courier promised by week's end), I’ll attempt a full rotation. I admit a certain eagerness—this might be the first thing I’ve built in years that is truly mine.
+The materials continue to be a challenge. Once I had to completely reinscribe *Rust* because it kept lunging towards *Stone* (petty antagonism among materials is something they never bothered to teach at the Conservatory). *Earth* keeps softening whenever I look at it too hard. The *Ice* disc is behaving beautifully, though it keeps frosting over my calipers. No matter, celestial brass is quite resilient to temperature swings. Worst of all, the *Dust* plate simply will not cohere. I tried binding it with resin, with wax, with a low-grade stasis charm. All failures. The plate only stabilizes when the other four are already in motion, which is not only impractical but deeply annoying because no one will sell me a damned gem so I'm stuck spinning things *by hand*! Chauncy says he has a lead, but I might need to handle this personally. I know should quash that impulse but I admit it's been decades since I've felt this firey, I'm on the verge of true innovation. Would one little adventure to the city really hurt?
 
 ### E8
 %% Astrolabe Observation 1 %%
 
 It worked.
 
-Not gracefully—when the rings finally synchronized, the entire tower groaned as if taking offense—but for a moment the device formed a perfect harmonic. A thin beam of light arced through the core, subtle as breath, and then the projection bloomed. I nearly fell backward. I had expected distant constellations or perhaps the shadow of one of the wanderers. Instead I saw… I hardly know how to describe it.
+Not gracefully mind you. When the rings finally jerked into motion, my entire tower warped and shook for a moment and I thought I heard the trees outside start to moan. It passed as quickly as it began and for a brief moment I saw that pentagram formed by my humble runic discs matched in the heavens above. A thin wisp of silver light arced out from the core, subtle as a breath, and traced a line out of my observatory window and up towards the stars. Then projection bloomed. I nearly fell backwards. I had expected to peer around the constellations, to document the many more at the edges of our periphery, even to catch a fleeting glimpse of other worlds. Instead I saw... a tree.
 
-A tree. Or something like one. A vast white lattice branching through the void, nearer than any celestial body has a right to be. Its boughs shimmered like woven glass, each line pulsing with motion. Faces—yes, I swear they were faces—moved along its limbs as if carried on currents of light, singing in voices I could feel in my teeth. I do not know whether it was memory, prophecy, or the afterimage of something hidden behind the veil, but it was real enough to make my knees crack when I knelt to steady myself.
+Maybe it's just my Elven sensibilities, but it really resembled a tree. White latticework obscured my entire sight, branching through the void, nearer than any star has a right to be. It's boughs shimmered with the reflected light of the entire cosmos, each line pulsing with motion as I watched... faces? run up and down the branches like ants carrying leaf cuttings. I heard their voices singing in my teeth, resonating with my very being. I could not say if it was their memory, a prophecy, or some afterimage of something beyond the veil. I felt out of body. I watched myself stride over to the kill switch and terminate the experiment before returning to my physicality.
 
-Pan did not notice me. I felt Its presence pressing at the edges of vision, but the orbits held, the shield held, and for the first time in years I looked into the heavens without that suffocating dread. I’ve already scheduled my next observation. Whatever that tree is, it is closer than the Conservatory ever imagined.
+Despite my temporary loss of control, the lens worked as expected. I felt Pan's influence grasp at me and pass harmlessly through, like I wasn't even there, because I wasn't. Genius. I can definitively say that ***I*** am the first to look into the heavens and evade that suffocating dread. I’ve already scheduled my next observation. Whatever that tree is, it is close, maybe even *here*.
 
 ### E+
 %% Astrolabe Observation 2 %%
