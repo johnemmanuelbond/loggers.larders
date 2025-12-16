@@ -1,22 +1,11 @@
 ###### Session Prep
-- FIX BAG ITEM CARD
+- fix bag item card
 - update bartholomood's page
 - violin (if found)
 
 
 - Finish introducing ruined tower
 	- how to tease grendelle - toto
-
-- Finish up ruined tower dungeon, encounters, and loot
-	- atrium/extraplanar/kitchen
-		- animated cutlery encounter... lol
-		- loot tables
-			- Silly enchanted kitchen utensil as a weapon
-		- lore? - find... stuff about astrolabe and kargoe's ritual
-	- Master's apartments
-		- loot table
-		- remorhaz sign (and escape tunnels)
-	- Missing libray checks / descriptions (signs of being teleported away) 
 
 - Write more of [[Adhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
 - add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.

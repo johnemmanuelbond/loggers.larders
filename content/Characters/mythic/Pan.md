@@ -11,38 +11,51 @@ The jealous and sadistic protector of the world. From its throne on the gas gian
 - protect the world from meteors (beyondlings)
 - Tidal friction gives energy
 
-## Pan's Five Faces
-### Melian
+### Pan's Five Faces
+##### Melian
 - Life, land, blood, chaos, renewal  
 - Clerics: Life, Nature, Tempest
 - Warlocks: Undying
 - Warlocks: Fiend, Genie,
 - Faces: sashelas, dragon of chaos,
 
-### Morian
+#### Morian
 - Death, Waters, peace, travel
 - Clerics: Death, Grave, Peace
 - Warlocks: Undead, (Undying), Fathomless, Genie
 - Faces: Charn, spirit of the sea
 
-### Amat
+#### Amat
 - Day, authority, righteousness, war
 - Clerics: Light, War, Order
 - Warlocks: Fiend, Celestial,
 
-### Scaathiel
+#### Scaathiel
 - Night, patience, sloth, decay
 - Clerics: Arcana, Knowledge,
 - Warlocks: Hexblade, Archfey, Old One,
 - Faces: shrub-hath
 
-### Thuul
+#### Thuul
 - Spirits, deception, ambition, fire
 - Clerics: Twilight, Trickery, Forge
 - Warlocks: Old One, Archfey, Fiend
 - Faces: sky spirit
 
-## Dichotomies
+### Mechanics
+
+Any interaction with Pan, be it a vision from a vial or a mention in the book, draws Pan's attention. Each interaction increases the DC to evade Pan's effects or those of his servants, the dreaded [[Shay-Luuq]] and other horrid mutants:
+
+| Player              | Count | DC: (5+) |
+| ------------------- | ----- | -------- |
+| [[Bartholomood]]    | 0     | 5        |
+| [[Rivka]]           | 0     | 5        |
+| [[John Moore]]      | 2     | 7        |
+| [[Petunia]]         | 0     | 5        |
+| [[Gilothy Silarin]] | 0     | 5        |
+| [[Lemm No]]         | 0     | 5        |
+
+### Dichotomies
 Pan seeks to foster chaos by manufacturing fake conflict between aspects of the world.
 - The world of bodies - The world of spirits
 - Melian - Morian

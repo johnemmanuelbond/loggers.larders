@@ -26,7 +26,7 @@ A loveable gang of knuckleheads
 - Cracked spectacles (arcane focus)
 - Glowing orb (driftglobe)
 - Monocle (Lens of Hidden Sight)
-- Shiny steel ball (hums) (??)
+- Shiny steel ball (hums) (contains [[Ring of Ghost Speech]]
 - Silver Whisk (??)
 - Bronze frog statuette (croaks near underground water)
 - Celestial Calipers: ???Gp

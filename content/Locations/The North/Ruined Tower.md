@@ -63,7 +63,7 @@
 | 5       | **Scroll tube** with two partially intact scrolls ([Magic Circle](https://dnd5e.wikidot.com/spell:magic-circle), one ruined beyond repair). <br>-> [Highly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187125394177/all-artifacts-a-working-rolling-table-of-all-the)                                     |
 | 6       | **A bundle of petrified herbs** sealed in wax paper — pungent but effective. Counts as one _component pouch refill_.<br>-> [Valuable](https://tabletoptrinketsbyjj.tumblr.com/post/187125727182/all-valuables-a-working-rolling-table-of-all)                                                                           |
 | 7       | **Tiny steel sphere** – faintly hums, repels water, and resists corrosion.<br>-> [Lightly magic items](https://tabletoptrinketsbyjj.tumblr.com/post/187124538402/all-minor-magic-items-a-working-rolling-table-of)                                                                                                      |
-| 8       | (silver ring was moved to master's chambers)<br>-> [Valuable](https://tabletoptrinketsbyjj.tumblr.com/post/187125727182/all-valuables-a-working-rolling-table-of-all)                                                                                                                                                   |
+| 8       | (silver ring was moved to tiny steel sphere)<br>-> [Valuable](https://tabletoptrinketsbyjj.tumblr.com/post/187125727182/all-valuables-a-working-rolling-table-of-all)                                                                                                                                                   |
 | 9       | **A scrap of animated parchment** that occasionally folds and unfolds on its own. Seems eager to be written on.<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                         |
 | 10      | **A small bag** containing 600gp worth of small gems, including one large (300gp) diamond<br>-> [Super random](https://tabletoptrinketsbyjj.tumblr.com/post/187030802447/the-omni-loot-table-one-loot-table-to-rule-them)                                                                                               |
 
@@ -302,13 +302,12 @@ _(Now one fractured, half-collapsed fusion of living space, laboratory, and defe
 
 **Desk contents**: 
 *DC 20 Thieves' tools to pick the lock (no consequence)*
-*DC 15 Strength check to break the desk: Destory 1d4 items:*
+*DC 15 Strength check to break the desk: Destroy 1d4 items:*
 1. Half written letter in Elvish to a "Lord Garthenel Silarin" complimenting the tin composition of their astral brass, the letter carries a surprised tone (as if he didn't think this guy would do it right). The letter is unsigned.
 	1. For Gilothy: DC 10 history: your great grandfather was named Garthenel and died shortly before your sister was born. DC 20 history: There have been two Garthenels who carried the title of lord, first was your ggf, but there was another Lord Garthanel who was slain in the third Battle of the Floes 1000 years ago.
 2. Another, also in elvish, appears to be a list of components for a ritual: ivory strips, incense, a lens (DC 20 arcana to identify Legend Lore).
 3. There is a deed in Elvish to the "Baird Arth'hel Ruin" 
 4. You find a [[Recovered Journal - GM|journal]] containing notes on the design and use of the astrolabe to look out past strange aeons for signals in the stars form lost kin. _(Astrolabe component 4)_
-5. **Silver ring** with a hexagonally cut purple gem. Detect Magic shows a strong necromantic aura.
 
 ## Baird Arth'hel Ruin
 *"The Tower at Ash Hollow"*
