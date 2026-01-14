@@ -21,8 +21,43 @@ If the player reads an entry which mentions [[Pan]], they risk incurring his eye
 4. ?
 5. Summon a [[Beyondlings|Beyondling]] horror
 
+%% E1 Flight %%
+%% E2 Finding the Tower %%
+%% E3 Astronomical Commentary %%
+%% E4 Astrolabe Inspiration %%
+%% E5 Astrolabe Materials %%
 
-### E1
+%% e6 Hosting Metallurgist %%
+
+%% E7 Building the Astrolabe %%
+%% E8 Astrolabe Observation 1 %%
+%% e9 Astrolabe Observation 2 %%
+%% e10 Skinsplinter Experiment 1 %%
+%% e11 Skinsplinter Experiment 2 %%
+%% e12 Astrolabe Observation 3 %%
+%% e13 Building the Teleportation Room %%
+
+%% E14 Skinsplinter Experiment 3 %%
+%% e15 Astrolabe Observation 4 %%
+%% e16 Building the Labyrinth %%
+%% e17 Skinsplinter Experiment 4 %%
+%% e18 Enchanting Cauldrons %%
+%% e19 Skinsplinter Experiment 5 %%
+%% e20 Plague Inspiration %%
+
+%% Hosting Vecna %%
+%% Claiming Shimmer Grove %%
+%% Plague Experiment 1 %%
+%% Creating a Hag %%
+%% Plague Experiment 2 %%
+%% Plague Experiment 3 %%
+%% Ending the War %%
+%% Capturing a mouse-man %%
+%% Destruction of Elga Elluin %%
+%% Astrolabe Observation 5 %%
+%% Meeting a Sphinx %%
+
+### Flight
 %% Flight %%
 
 I keep telling myself that could have gone worse. According to the governing Convocation, my teaching no longer aligns with their stated "truth". I can't roll my eyes on paper, but I am surprised with the speed at which my so-called peers have disavowed themselves of my name. I never took those wizened fools in charge for bold, but to come home to a scoured sanctum, that was a shock. Naturally all my research, having been conducted under their auspices, remains property of The Conservatory. Confiscated. But taking my journals was just plain rude, and that slight shall be returned with delicious irony because they have set *me* free of their supervision.
@@ -31,7 +66,7 @@ Starting over is an opportunity. For all their age and wisdom the Convocation is
 
 Steal my notes, destroy my laboratory, disgrace my name. All these acts will fade with time and it is the amateur arcanist who writes down their best ideas, at least not in ink readable on stolen pages. Thanks to The Conservatory's gracious library policies I have already copied the necessary spells and rituals for my next pursuits; and, regardless of what they say publicly, plenty of those conservatory dolts own owe me enough to call in a favor. (especially after some forceful persuasion, which I am now free to do!) Yes, the reputation of a disgraced academic suits my purposes just fine. By the time I rebuild they will see me as a simple ugly necessity needed to keep the hated Merlings at bay. Ha! Bay. 
 
-### E2
+### Finding the Tower
 %% Finding the Tower %%
 
 The woods have grown much denser in my long absence. The ash trees crowd the old path like they’re guarding a tomb. Frankly, they *are* guarding a tomb. I passed more than a handful of dead soldiers on my way here. I am to replace them, to so terrify any would-be travelers that any enemy scouts from the river are forced northward. I have two months to set up defenses so I better get to work. I doubt I'll have a chance to write much in the interim. The cost of bold promises I suppose.
@@ -40,7 +75,7 @@ The regular soldiers are afraid of me, but that was always part of the deal. Wha
 
 The tower itself is cramped. My master once called it “humble,” but that was only because she couldn’t bring herself to say “provincial.” Still, it stands, and—thanks to her obsession with earthquake-proof architecture—it stands in better shape than I expected. It's almost a shame that I really do need to scrap it and start from scratch to fit my needs, though that's a job for another year. The front door responded to my backup sigil after only a little coaxing. The interior is perfectly intact in that way abandoned things often are: dusty, silent, waiting to be bothered. I'll animate some brooms to do a little dusting while I take inventory of the Hold. There has to be something useful in there.
 
-### E3
+### Astronomical Commentary
 %% Astronomical Commentary %%
 
 I spent all day casting. I haven't depleted this much magic since grad school. I keep telling myself I have a task at hand but I am sick of *walking* everywhere. By my calculations I have one more week of wards before this tower is truly secure and I can start to declare myself. Clearing back the ash trees has taken much of my focus, but at least now I sit on quite a sizable stockpile of firewood and building materials. Enough wood to transmute into a new tower story should I so choose. I also found enough incense in the Hold to resummon Frankie so at least I can talk to my bird after dinner.
@@ -49,35 +84,46 @@ I now spend the better part of my evenings reacquainting myself with the heavens
 
 This land has wandering stars; the dull grey one slow and stolid as ever, the rust-colored beacon that descends just after sunset and it's pale blue complement that heralds the morning, and, of course, that white wanderer which shines even during the day. I made a few notations in my margin—nothing elaborate, just a quick calculation for their next alignment. Out here, far from the city, I'm struck by just how bright they are, the patterns of their wax and wane. They seem communicative. What if you could bounce a message off of one? I guess without the Conservatory's watch on me I could try to peer with eyes arcane. Not now, I need to regain my strength and fulfil my end of this deal.
 
-### E4
+### Astrolabe Inspiration
 %% Astrolabe Inspiration %%
 
 This was a lesson worth learning. Pan's ire lies in the darkness, as it ever has. Thankfully I cloaked my origin with illusion and managed to deflect its grasp upon my escape. I can't expect to be so lucky a second time. I do understand why the Conservatory's simpleminded solution was always prohibition, shutter the observatories, ban deeper mappings, punish those who sought to look too far. Typical. They say they reward curiosity but everyone knows they only reward conformity. Any elf can be a mage, bleh, I digress. If I'm not strong enough to stare between the stars now then I certainly won't be in a year, a decade, or maybe ever. No, I don't think protective strength is the answer here.
 
 This afternoon, while reviewing past alignments (Chauncy was able to procure an astronomical log from a funerary auction), I noticed a peculiar relationship between the paths of the four wanderers and their patterns of brightness. Tracking their apexes and low-points I couldn't help but see shapes, cyclical and geometric, writ across the stars. We sit at a vertex of a celestial pentagram washed in starlight and we never even knew it! I can't be the first to see this, maybe it's why my ancestors chose this place. Pan, for all Its malice, does not seem to see through celestial bodies themselves, only the void between them. What if I could use those five lights as glyph scaffolding? Controlling these stars is madness (though madness seems better and better the longer I'm away from the city) I should start smaller. If I use the five points to outline a lens... Yes! I can scatter my thought through an evanescent wave and emerge elsewhere in the cosmos without ever exposing my person to the stormy void. I feel… electric. This may finally be an idea worth the trouble of exile.
 
-### E5
+### Entry
 %% Astrolabe Materials %%
 
 Thankfully I flew through inspection by my Neth'Tel contact, the legend of *Gorthaur oer a Dhaerlind* starts today. With that dull military matter out of the way I can return to astronomy, alchemy, and engineering.
 
-Science is hard. I have been testing components for a week, but the requirements for this hypothetical astral device are proving mercurial. I look like a madman running around a notebook and with my tuning fork tapping it to an ever expanding list of absurdities. No mundane metal is suitable; alchemical theory demands materials that “sympathize” with my target, but how am I supposed to know what the stars are made of!? I’ve resorted to improvisations: a grey stone disk chipped from the tower’s foundation (surprisingly resonant when tapped), a piece of oxidized scrap from my old field gear (the rust flakes off too easily—must stabilize), a handful of earthen clay tinted blue with crushed lapis, and a shard of mountain ice I acquired under circumstances no one needs to record (though I can't get Frankie to shut up about it). The pale white element has been the trickiest; dust refuses to hold a consistent form, and powdered bone feels melodramatic even for me.
+Science is hard. I have been testing components for a week, but the requirements for this hypothetical astral device are proving mercurial. I look like a madman running around a notebook and with my tuning fork tapping it to an ever-expanding list of absurdities. No mundane metal is suitable; alchemical theory demands materials that “sympathize” with my target, but how am I supposed to know what the stars are made of!? I’ve resorted to improvisations: a grey stone disk chipped from the tower’s foundation (surprisingly resonant when tapped), a piece of oxidized scrap from my old field gear (the rust flakes off too easily—must stabilize), a handful of earthen clay tinted blue with crushed lapis, and a shard of mountain ice I acquired under circumstances no one needs to record (though I can't get Frankie to shut up about it). The pale white element has been the trickiest; dust refuses to hold a consistent form, and powdered bone feels melodramatic even for me.
 
 I’ve sketched the rudimentary runic shorthand for each material beside their test results, more for my memory than anything else—_Gonn_ for the stone, _Arus_ for the rust, _Kemen_ for the clay, _Helca_ for the ice, and _Asto_ for the dust. Merely markers for now, placeholders in a lattice I can only really see in my mind's eye. I still need a material to build the casing out of, and a power source. I'll have Chauncy scout out some of the artificers in Eitheloth's many workshops. I guess I have military standing to flaunt now.
 
-### E6
-%% Hosting Garthanel's dad %%
+### Entry
+%% Hosting a Metallurgist (Garthanel's father) %%
 
-%% TBD %%
+I am reminded that brilliance rarely announces itself properly.
 
-### E7
+Chauncy returned from Eitheloth this morning with a metalworker in tow. Purposefully he is *not* one of my previous contacts, the grand masters whose names are carved into Conservatory plaques, but a young naive furnace worker from the fortress's subterranean chambers. For a nobleman, the Lord Gilibard of the peripheral house Silarin nonetheless has the industrious focus and quiet humility of a practical man from practical stock. Chauncy assures me he has discretion as well, no doubt learned under Eitheloth's militaristic umbra. I've done my best to make him comfortable in this dismal place, but there's only so much one can do with a damp tower as one lonely occupant. I have large enough plans in that respect, and I deign to say this metallurgist may prove quite helpful in that endeavor.
+
+We spoke at length about proper furnace temperature, which impurities to seek out in a good feedstock, how to avoid stress fractures in enchanted alloys. At first I tested him gently; simple questions about heat gradients, sympathetic resonance, the behavior of metals under sustained enchantment. He answered plainly, without embroidery, and even corrected me once. I allowed it.
+
+Only later did I bring out my sketches. Not the whole design, never the whole design, but enough to explain the problem: a casing that must endure constant motion and several degrees of interplanar resonance, furthermore it must not be allowed to feed back on any of these arcane signals (in the way that common steel or bronze would) in order to keep the device stable. He studied the drawings as if they literature and proceeded to pepper me with an impressive line of questioning. He asked where it would fail first, and what I feared would happen if it did. By the end of our conversation he seems to have worked out a brass alloy which "listens," for lack of a better word. He did not specify a composition but instead focused on the timing for quenching and resting in the way a craftsman can only truly understand.
+
+I paid him very well for a prototype and his silence about our meeting before providing a speedy journey home via an improvised teleportation circle (let this be a reminder to build a permanent chamber). Eitheloth continues to surprise me. Whereas Elga Elluin produces theorists and artists and elves who die gloriously for their footnotes, Eitheloth produces tools. The Convocation looks down on that city for precisely this reason. 
+
+I will have Chauncy keep the channel open. If this idea of mine survives its infancy, I suspect I will need that furnace again.
+
+
+### Entry
 %% Building the Astrolabe %%
 
 It has been a hard day of construction but I'm nearly there. Luckily *fabricate* works on the celestial brass I got from the metallurgist I hosted last week. Begrudgingly I owe him my respect. He is a true craftsman and a relationship I should cultivate, albeit quietly. I'm still having trouble sourcing an animation gem, unfortunately that is an arena where my former affiliation does me no favors. Maybe I should just learn to craft them myself. The runic inscription is going well, so far it's passed every diagnostic enchantment. I've had more trouble actually assembling the rings, the inter-body resonance is intense I'm finding myself having to put up a *wall of force* just to keep everything from vibrating while I work, but it stands upright... after a few rebuilds. I've sketched a little diagram of the apparatus: Five rings, surrounding a central faceted orb.
 
 The materials continue to be a challenge. Once I had to completely reinscribe *Rust* because it kept lunging towards *Stone* (petty antagonism among materials is something they never bothered to teach at the Conservatory). *Earth* keeps softening whenever I look at it too hard. The *Ice* disc is behaving beautifully, though it keeps frosting over my calipers. No matter, celestial brass is quite resilient to temperature swings. Worst of all, the *Dust* plate simply will not cohere. I tried binding it with resin, with wax, with a low-grade stasis charm. All failures. The plate only stabilizes when the other four are already in motion, which is not only impractical but deeply annoying because no one will sell me a damned gem so I'm stuck spinning things *by hand*! Chauncy says he has a lead, but I might need to handle this personally. I know should quash that impulse but I admit it's been decades since I've felt this firey, I'm on the verge of true innovation. Would one little adventure to the city really hurt?
 
-### E8
+### Entry
 %% Astrolabe Observation 1 %%
 
 It worked.
@@ -88,7 +134,51 @@ Maybe it's just my Elven sensibilities, but it really resembled a tree. White la
 
 Despite my temporary loss of control, the lens worked as expected. I felt Pan's influence grasp at me and pass harmlessly through, like I wasn't even there, because I wasn't. Genius. I can definitively say that ***I*** am the first to look into the heavens and evade that suffocating dread. I’ve already scheduled my next observation. Whatever that tree is, it is close, maybe even *here*.
 
-### E13
+
+### Entry
+%% On an Old Reference %%
+
+Sometimes the answer just falls into your lap.
+
+While cross-referencing my late master’s journals for this military project concerning long-range scrying anchors, I found a marginal note in a familiar hand. Unindexed, unexpounded upon, a completely blasé observation about her surroundings. Which, knowing her, makes it all the more important.
+
+> _“Silvered linework observed in dawn sky, southeast. Viewable via_ True Seeing _Avoid staring.”_
+
+I had always questioned why she built this tower here. I assumed it was geographically convenient for defense and obfuscation. But this changes things. Southeast places it uncomfortably close, there's only so much southeast before the ocean (which I assume to be treeless). It is too close to be coincidence, especially given what I saw through the astrolabe. The angles line up.
+
+Did she know? Did she choose not to? I find myself irritated her omission of any more detail, but such was her way, obfuscate. A tower is not a casual investment, especially not for someone as deliberate as she. If this “silvered linework” is the same phenomenon I observed—if that tree truly exists in the flesh—then this place was never meant to be merely _defensive_, moreso a forward observational outpost.
+
+As always I am amazed just how far ahead of her time she indeed became, it's a true shame what happened. I will begin triangulating the location tomorrow.
+
+### Entry
+%% On Uncooperative Geography %%
+
+Reaching the site has proven… educational.
+
+Naturally my first attempt was a short-range teleport keyed to the astrolabe’s projection, elegance itself. Unfortunately the spell landed me halfway up a sheer basalt rock face during a sleet squall, with something winged and territorial already screeching its objections. Bird lover that I am, I barely escaped with a few claw marks and a bruised ego. A mishap should have been impossible, but the tree, apparently, does not appreciate my conjurer's tricks. Poor taste, if you ask me, but that's neither here nor there.
+
+Somehow flight fared worse. From the skies these foothills and valleys are a maze of overlapping ridges and deceptively dark rocky terrain. And no matter how carefully I followed my sextant, even with magical guidance, I made no progress. Thinking the limitations of magical flight was the primary limitation I even degraded myself into polymorphing into smaller more patient creatures, but this only extended the problem. The grove simply *was not there*. My sight slid off it like a lemming off of a cliff. I am familiar with one kind of magic that can place such a ward, but without finding the source I cannot use a targeted dispel. Despite my searching, I have yet to find the tome from which to transcribe my master's eponymous *True Seeing* spell. This week has truly been a waste.
+
+It seems I must rely on the teachings of my ancestors, and just walk until I find it. Whatever their self-imposed intellectual limitations they were undoubtably peerless navigators. So if this grove wishes to be found, it would have to accept me on those terms.
+
+I resent this immensely. 
+
+### E11
+%% Notes from the Foothills %%
+
+I resent this immensely. Nonetheless I persist.
+
+Progress southeast has been slow. These lands are fully uncivilized, choked with underbrush and detritus, only spanned by fickle and labyrinthine game trails. While I may be no tracker, calling in a few favors from friends on the other side of the Gate has kept me on course. This is an extreme measure, however, the nearer I get the more this choking wilderness seems to interfere with my summons. I find myself still having to clear out sections of brush by hand, warding my camp each night against whatever nocturnal threats prowl confidently through this, their ancestral homes. Wolves are no threat to me, but once something invisibly tested my perimeter, by the time I roused I only glimpsed a pair of glowing blue slits vanish into the treeline. At least Frankie is good company. 
+
+Luckily, unluckily?, finding water has been no issue. I have been following a spring-fed cataract that I believe spills into a tributary of the mighty Heleguin (or at least that's what the Neth'tel call it, the local name escapes me). The water tastes clear and fresh, old in the 
+best way. When you submerge you can hear the song of the earth.
+
+The terrain is growing stranger. Upturned rocks have pale veins of some undiscovered mineral. The trees are starting to reflect more moonlight than they ought to. Once, at dawn, between two blue ridges I took my first glimpse with my real, physical, eyes at this silvered latticework described by my master, momentary and fleeting.
+
+I am sore. I am bitten. My spells are spent on logistics instead of insight. And yet, I feel close. I feel the same pressure from my astrolabe sighting. I feel the same excitement and fear at the unknown. I will take a day to rest before proceeding but discovery is nigh.
+
+
+### Entry
 %% Skinsplinter Experiment 3 %%
 
 Progress remains… slow, at least towards my initial goals. The splinters refuse to behave like the Shimmer Tree. They do not lure, bind, or pacify the spirit; instead they trap and crudely gnaw at it. Imprecise but undeniably energetic. Still, more work is needed for this to work practically.
@@ -100,7 +190,7 @@ During disassembly I discovered something unexpected: blood-red thorns growing o
 The next splinter is soaking now. I will try a narrower cut in the morning. If I can avoid another vocal bloom, all the better, I don't need any more nosy neighbors.
 
 
-### E21
+### Entry
 %% Hosting Vecna %%
 
 Lord Abelard Vecna is one of those friends where you're never really sure how you met... or when... or why. Nonetheless he is some of the only company who routinely gives me something new to ideate. So, I enjoy him. Guiltily. A jolt to the system.
@@ -114,7 +204,7 @@ Still, it’s grounding to speak with someone who understands the basic arithmet
 He left me a gift on the way out. A small orb wrapped in kelp-strings, humming faintly, and firmly refusing to be opened anywhere near the wards. I’ll deal with it tomorrow. Or next month. Or never. I should replace that green chair.
 
 
-### E57
+### Entry
 %% Meeting a Sphinx %%
 
 I have done well to keep Shimmergrove hidden from prying eyes.
@@ -158,30 +248,3 @@ We sat in silence for several moments. A scant two of only a handful of beings o
 *"Grow strong, hold fast, my friend."*
 
 She left without much fanfare, walking off into the woods. Still, I find myself returning to that moment. Not one of my many enemies has faced me with such composure.
-
-### E+
-%% E9 Astrolabe Observation 2 %%
-%% E10 Skinsplinter Experiment 1 %%
-%% E11 Skinsplinter Experiment 2 %%
-%% E12 Astrolabe Observation 3 %%
-%% E13 Building the Teleportation Room %%
-
-%% E15 Astrolabe Observation 4 %%
-%% E16 Building the Labyrinth %%
-%% E17 Skinsplinter Experiment 4 %%
-%% E18 Enchanting Cauldrons %%
-%% E19 Skinsplinter Experiment 5 %%
-%% E20 Plague Inspiration %%
-
-
-%% Capturing a mouse-man %%
-%% Plague Experiment 1 %%
-%% Plague Experiment 2 %%
-%% Plague Experiment 3 %%
-%% Ending the War %%
-%% Creating a Hag %%
-%% Claiming Shimmer Grove %%
-%% Destruction of Elga Elluin %%
-%% Astrolabe Observation 5 %%
-
- 

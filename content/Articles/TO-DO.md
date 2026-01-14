@@ -1,6 +1,21 @@
+Intro:
+- astrolabe winds down, continues humming and moving slowly, you all hear the clattering of rocks echoing up the tunnel
+- Teleportation portal is closed, but the runes still have strong residue. (DC 20 arcana to see if its possible to reactivate/redirect them)
+
+Before long rest:
+- Alberta asks if anyone has the ability to screen magical items
+
+If long rest:
+- Alberta stays up journaling, if ppl talk to her she says she's writing letters to send tomorrow.
+
+After long rest:
+- debut skill challenge to repair gilothy's mechanism (and revisit the hold)
+
 ###### Session Prep
+- update player inventory
+- How to introduce Grendelle (what would she talk about)
+- Update floes random encounters
 - fix bag item card
-- update bartholomood's page
 - violin (if found)
 
 
