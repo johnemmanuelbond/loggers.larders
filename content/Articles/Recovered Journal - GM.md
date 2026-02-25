@@ -91,7 +91,7 @@ This was a lesson worth learning. Pan's ire lies in the darkness, as it ever has
 
 This afternoon, while reviewing past alignments (Chauncy was able to procure an astronomical log from a funerary auction), I noticed a peculiar relationship between the paths of the four wanderers and their patterns of brightness. Tracking their apexes and low-points I couldn't help but see shapes, cyclical and geometric, writ across the stars. We sit at a vertex of a celestial pentagram washed in starlight and we never even knew it! I can't be the first to see this, maybe it's why my ancestors chose this place. Pan, for all Its malice, does not seem to see through celestial bodies themselves, only the void between them. What if I could use those five lights as glyph scaffolding? Controlling these stars is madness (though madness seems better and better the longer I'm away from the city) I should start smaller. If I use the five points to outline a lens... Yes! I can scatter my thought through an evanescent wave and emerge elsewhere in the cosmos without ever exposing my person to the stormy void. I feel… electric. This may finally be an idea worth the trouble of exile.
 
-### Entry
+### Sourcing Materials
 %% Astrolabe Materials %%
 
 Thankfully I flew through inspection by my Neth'Tel contact, the legend of *Gorthaur oer a Dhaerlind* starts today. With that dull military matter out of the way I can return to astronomy, alchemy, and engineering.
@@ -100,7 +100,7 @@ Science is hard. I have been testing components for a week, but the requirements
 
 I’ve sketched the rudimentary runic shorthand for each material beside their test results, more for my memory than anything else—_Gonn_ for the stone, _Arus_ for the rust, _Kemen_ for the clay, _Helca_ for the ice, and _Asto_ for the dust. Merely markers for now, placeholders in a lattice I can only really see in my mind's eye. I still need a material to build the casing out of, and a power source. I'll have Chauncy scout out some of the artificers in Eitheloth's many workshops. I guess I have military standing to flaunt now.
 
-### Entry
+### Metallurgist
 %% Hosting a Metallurgist (Garthanel's father) %%
 
 I am reminded that brilliance rarely announces itself properly.
@@ -116,14 +116,14 @@ I paid him very well for a prototype and his silence about our meeting before pr
 I will have Chauncy keep the channel open. If this idea of mine survives its infancy, I suspect I will need that furnace again.
 
 
-### Entry
+### Construction
 %% Building the Astrolabe %%
 
 It has been a hard day of construction but I'm nearly there. Luckily *fabricate* works on the celestial brass I got from the metallurgist I hosted last week. Begrudgingly I owe him my respect. He is a true craftsman and a relationship I should cultivate, albeit quietly. I'm still having trouble sourcing an animation gem, unfortunately that is an arena where my former affiliation does me no favors. Maybe I should just learn to craft them myself. The runic inscription is going well, so far it's passed every diagnostic enchantment. I've had more trouble actually assembling the rings, the inter-body resonance is intense I'm finding myself having to put up a *wall of force* just to keep everything from vibrating while I work, but it stands upright... after a few rebuilds. I've sketched a little diagram of the apparatus: Five rings, surrounding a central faceted orb.
 
 The materials continue to be a challenge. Once I had to completely reinscribe *Rust* because it kept lunging towards *Stone* (petty antagonism among materials is something they never bothered to teach at the Conservatory). *Earth* keeps softening whenever I look at it too hard. The *Ice* disc is behaving beautifully, though it keeps frosting over my calipers. No matter, celestial brass is quite resilient to temperature swings. Worst of all, the *Dust* plate simply will not cohere. I tried binding it with resin, with wax, with a low-grade stasis charm. All failures. The plate only stabilizes when the other four are already in motion, which is not only impractical but deeply annoying because no one will sell me a damned gem so I'm stuck spinning things *by hand*! Chauncy says he has a lead, but I might need to handle this personally. I know should quash that impulse but I admit it's been decades since I've felt this firey, I'm on the verge of true innovation. Would one little adventure to the city really hurt?
 
-### Entry
+### First Viewing
 %% Astrolabe Observation 1 %%
 
 It worked.
@@ -135,7 +135,7 @@ Maybe it's just my Elven sensibilities, but it really resembled a tree. White la
 Despite my temporary loss of control, the lens worked as expected. I felt Pan's influence grasp at me and pass harmlessly through, like I wasn't even there, because I wasn't. Genius. I can definitively say that ***I*** am the first to look into the heavens and evade that suffocating dread. I’ve already scheduled my next observation. Whatever that tree is, it is close, maybe even *here*.
 
 
-### Entry
+### Notes in the Margins
 %% On an Old Reference %%
 
 Sometimes the answer just falls into your lap.
@@ -150,7 +150,7 @@ Did she know? Did she choose not to? I find myself irritated her omission of any
 
 As always I am amazed just how far ahead of her time she indeed became, it's a true shame what happened. I will begin triangulating the location tomorrow.
 
-### Entry
+### Uncooperative Geography
 %% On Uncooperative Geography %%
 
 Reaching the site has proven… educational.
@@ -163,7 +163,7 @@ It seems I must rely on the teachings of my ancestors, and just walk until I fin
 
 I resent this immensely. 
 
-### E11
+### Bushwhacking
 %% Notes from the Foothills %%
 
 I resent this immensely. Nonetheless I persist.
@@ -178,7 +178,7 @@ The terrain is growing stranger. Upturned rocks have pale veins of some undiscov
 I am sore. I am bitten. My spells are spent on logistics instead of insight. And yet, I feel close. I feel the same pressure from my astrolabe sighting. I feel the same excitement and fear at the unknown. I will take a day to rest before proceeding but discovery is nigh.
 
 
-### Entry
+### Trial Thirteen
 %% Skinsplinter Experiment 3 %%
 
 Progress remains… slow, at least towards my initial goals. The splinters refuse to behave like the Shimmer Tree. They do not lure, bind, or pacify the spirit; instead they trap and crudely gnaw at it. Imprecise but undeniably energetic. Still, more work is needed for this to work practically.
@@ -190,7 +190,7 @@ During disassembly I discovered something unexpected: blood-red thorns growing o
 The next splinter is soaking now. I will try a narrower cut in the morning. If I can avoid another vocal bloom, all the better, I don't need any more nosy neighbors.
 
 
-### Entry
+### Houseguest
 %% Hosting Vecna %%
 
 Lord Abelard Vecna is one of those friends where you're never really sure how you met... or when... or why. Nonetheless he is some of the only company who routinely gives me something new to ideate. So, I enjoy him. Guiltily. A jolt to the system.
@@ -204,7 +204,7 @@ Still, it’s grounding to speak with someone who understands the basic arithmet
 He left me a gift on the way out. A small orb wrapped in kelp-strings, humming faintly, and firmly refusing to be opened anywhere near the wards. I’ll deal with it tomorrow. Or next month. Or never. I should replace that green chair.
 
 
-### Entry
+### Cats in Trees
 %% Meeting a Sphinx %%
 
 I have done well to keep Shimmergrove hidden from prying eyes.

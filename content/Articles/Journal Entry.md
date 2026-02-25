@@ -1,2 +1,2 @@
 %%This is just for printing pdf entries%%
-![[Recovered Journal - GM#Finding the Tower]]
+![[Recovered Journal - GM#Cats in Trees]]
