@@ -14,7 +14,7 @@ The [[Player Party|party]] investigates missing lumberjacks in [[Milton]].
 
 [[Rhedda Blud]] and [[Knick]] kidnap [[Esmellia Leek]] to fulfill a bounty. They hope to smuggle her to [[Andradora]] aboard *The [[Skipping Seal]]*.
 
-#### 4. [[Terror at the Tower]]
+#### 4. [[Terror at the Tower]]/[[Race to Shimmer Grove]]
 *Fall-Winter, 0223-0224*
 
 [[Alberta de Genne]] requests help exploring the [[Wyfloe Delta]] from the [[Harport Cartographer's Guild]].

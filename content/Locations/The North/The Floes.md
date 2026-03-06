@@ -88,7 +88,8 @@ The party finds a wolfed-out figure hunting deer, will attack if it notices the 
 
 Groll Tornbuckle was exiled from Karrid once his lycanthropy was discovered. He's been angry and on the run from the only home he ever knew, just following his nose eastward. He only really cares about survival.
 
-#### Spirit Bear - [Spooky Fight](https://www.youtube.com/watch?v=QfsiOUsZSLg&list=RDQfsiOUsZSLg&start_radio=1)
+#### Spirit Bear
+[Spooky Fight](https://www.youtube.com/watch?v=QfsiOUsZSLg&list=RDQfsiOUsZSLg&start_radio=1)
 
 One spooky night [[Erz Agrious]] looms out of the mist:
 

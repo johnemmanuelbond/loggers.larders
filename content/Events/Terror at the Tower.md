@@ -1,4 +1,4 @@
-###### *Sep 3 - ?, 0223*
+###### *Sep 3 - 5, 0223*
 
 After the [[Canoe Trip]], players arrive at the [[Ruined Tower]]
 
@@ -81,3 +81,6 @@ Work through the [[Ruined Tower]] module:
 1) players get distracted exploring [[Ruined Tower#The Hold|the hold]] whike [[Ruined Tower#Kargoe Plot|Kargoe]] touches something he shouldn't.
 2) [[Lemm No|Lemm]] inadvertently destroys the [[Ruined Tower#Lemming Warren|lemming warren]] while [[Bartholomood]] watches [[Kargoe Bepbiep Trukgohson|Kargoe]]'s soul get sucked into the [[Ruined Tower#Astrolabe|astrolabe]].
 3) The party explores the rest of the tower trying to repair the [[Ruined Tower#Astrolabe|astrolabe]] and save their friend.
+4) The party succeeds, but Kargoes body is stolen by [[Adhael Anar, Caendaur Fuirith|a wizard]] who's soul was previously trapped in the astrolabe.
+5) The party loots the tower and learns more of what's going on by seeing the edifice of [[Shimmer Grove]] through the astrolabe.
+6) The party succeeds at [[Repairing Val]] and decides to set out...
