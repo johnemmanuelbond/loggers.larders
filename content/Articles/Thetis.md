@@ -43,7 +43,7 @@ See [sailing ship](https://www.dndbeyond.com/vehicles/sailing-ship?srsltid=AfmBO
 ![[captain charon.png]]
 
 #### Voyage
-
+###### *Sep 8 - 10, 0223*
 ###### Casting Off:
 You cast off from the **busy New Haven docks**, with gulls wheeling overhead and dockworkers shouting in mismatched Aire and Common. From the stern, the **Old City** unfolds—an island-bound patchwork of stone and timber, each rooftop shingled in vivid hues. Between the twin branches of **Shae’s Stream**, Harport bustles like a living map.
 

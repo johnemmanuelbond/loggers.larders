@@ -1,4 +1,4 @@
-###### *Sep 3 - 5, 0223*
+###### *Sep 20 - 21, 0223*
 
 After the [[Canoe Trip]], players arrive at the [[Ruined Tower]]
 
@@ -35,7 +35,7 @@ If dive right in start combat, otherwise, if they spend more than 1 hour out of 
 ##### Fight prep
 
 ###### If rest:
-During middle watch, Kargoe gets up and approaches ruin enterence
+During middle watch, Kargoe gets up and approaches ruin entrance
 
 ###### If explore immediately:
 Play it out, but Kargoe will try and enter the ruin well ahead of everyone, and look kind of weird doing so.

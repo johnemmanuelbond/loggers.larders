@@ -1,11 +1,14 @@
-- How to tease grendelle
-
 ###### Session Prep
+- Flavor text for weather, terrain
+- set up "losing a day" mechanics
+- supe up grendelle's statblock with skinsplinter powers
+- make some mutated monster fights (i.e. shay luuq)
+- 
 - update player inventory
 - How to tease Grendelle
-	- To introduce she will capture/torture helm
-	- What would Grendelle want to ask the party?
-- Update floes random encounters (consult map between ruined tower and shimmer grove)
+	- They gotta fight a shay-luuq
+	- thunderous boom of seaspray threespear (the fight)
+	- What would Grendelle want to ask the party (while wearing Helm's face)?
 - fix bag item card
 - violin (if found)
 

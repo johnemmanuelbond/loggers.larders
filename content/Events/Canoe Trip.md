@@ -1,3 +1,4 @@
+###### *Sep 11 - 20, 0223*
 #### For players:
 So, in lieu of last week's session, and in an attempt to get new players involved asap. We're gonna skip over this canoe trip and start 9/23 with arrival at Alberta's recently discovered site!
 
