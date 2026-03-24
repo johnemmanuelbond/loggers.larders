@@ -27,29 +27,20 @@ The pinewood is thick and fragrant as you breathe in the cool air beneath its ta
 ##### Petrified Skinspliter Grove
 The forest breaks all at once, giving way to a barren, silent, and choked clearing. Around you stand petrified trees—if you can call them that—twisted things with pale chalk-white and crumbling trunks littered with wickedly curved thorns. Some are hunched, others claw skyward, their grasping limbs frozen mid-motion, as if they died reaching for salvation towards the moon. The earth underfoot is scorched and cracked in a near-perfect ring, dried out like a molted insect shell, half-consumed by ash and time. Nothing moves beyond the shadows of clouds in the sky.
 
-Checks:
-	- perception
-		- 10: The grove is eerily silent. The party notices how the petrified trees seem frozen mid-motion—some appear to have been _moving_ when they died.
-		- 15: As you look towards the center of the grove you notice the ground start to lower into a shallow depression. Getting closer you see it's half-filled with layers of packed ash and perfectly undisturbed pale dust.
-		- 20: Looking closer into this depression you note the outline of a humanoid form, just the outline, curled up holding their knees.
-		  *Druid Encounter:* as you lean in to investigate further, you hear the skittering of little legs as a squirrel climbs down one of these petrified trees and runs off.
-		  *Witch Encounter*: You also catch a glimpse of something moving and shifting and hear the creaking of wood from the grove's outskirts.
-	- investigation/survival
-		- 10: As you comb through some of the earth surrounding these petrified forms you recognize signs of extreme heat, splinters in the bark, fused earth, whatever happened here was sudden and violent.
-		- 15: Something about the shape of this grove is deeply odd. The petrified trees form a deliberate, malevolent, arc. Like they were surrounding something. As you move towards the center you notice the ground start to lower into a shallow depression caked with layers of undisturbed ash and dust.
-		- 20: Taking a closer look at these trees you see they're poised mid motion, some facing inward, some seemingly turning. A large number appear to have converged on the central depression.
-	- arcana/religion/nature
-		- 10: You once fought a twisted animated tree with thorns and vines. That Skinsplinterer was notably agitated and mobile, and it's blight seemed to curse your friend with growth rather than decay. To see one petrified like this would be odd. To see dozens is terrifying.
-		- 15: You remember from that book you looted from Grendelle's cave that the "native spiritualists" once were able to  “gentle verdant horrors", which seems more calm and ritualistic to you. But this grove bears no sign of such gentling. The pattern of the trees—facing inward, halted mid-movement—implies containment, rather than healing. It’s more... final.
-		- 20: You piece together that this petrification doesn’t resemble a druidic calming rite—it's not passive, but explosive in origin. The circle formation, the flash-petrification—it suggests something sacrifical and desperate, the kind of thing only done when all other options fail. Whoever did this didn’t try to tame these trees, They ended their threat.
-
+| DC  | Perception                                                                                                                                                                                                         | Investiation/Survial                                                                                                                                                                                                                                                                              | Arcana/Religion/Nature                                                                                                                                                                                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10  | The grove is eerily silent. The party notices how the petrified trees seem frozen mid-motion—some appear to have been _moving_ when they died.                                                                     | As you comb through some of the earth surrounding these petrified forms you recognize signs of extreme heat, splinters in the bark, fused earth, whatever happened here was sudden and violent.                                                                                                   | You once fought a twisted animated tree with thorns and vines. That Skinsplinterer was notably agitated and mobile, and it's blight seemed to curse your friend with growth rather than decay. To see one petrified like this would be odd. To see dozens is terrifying.                                                                                         |
+| 15  | As you look towards the center of the grove you notice the ground start to lower into a shallow depression. Getting closer you see it's half-filled with layers of packed ash and perfectly undisturbed pale dust. | Something about the shape of this grove is deeply odd. The petrified trees form a deliberate, malevolent, arc. Like they were surrounding something. As you move towards the center you notice the ground start to lower into a shallow depression caked with layers of undisturbed ash and dust. | You remember from that book you looted from Grendelle's cave that the "native spiritualists" once were able to  “gentle verdant horrors", which seems more calm and ritualistic to you. But this grove bears no sign of such gentling. The pattern of the trees—facing inward, halted mid-movement—implies containment, rather than healing. It’s more... final. |
+| 20  | Looking closer into this depression you note the outline of a humanoid form, just the outline, curled up holding their knees.                                                                                      | Taking a closer look at these trees you see they're poised mid motion, some facing inward, some seemingly turning. A large number appear to have converged on the central depression.                                                                                                             | You piece together that this petrification doesn’t resemble a druidic calming rite—it's not passive, but explosive in origin. The circle formation, the flash-petrification—it suggests something sacrifical and desperate, the kind of thing only done when all other options fail. Whoever did this didn’t try to tame these trees, They ended their threat.   |
 
 
 ### Encounters
 
 
 #### Dire Lemmings
-3d4+3 Dire Lemmings attack the party, afterwards a Young Remorhaz erupts out of the ground. Should the party defeat the remorhaz, a tunnel leads to a chamber with a burned-out lithe corpse. Upon investigating the corpse:
+3d4+3 Dire Lemmings attack the party. Afterwards, a Young Remorhaz erupts out of the ground, midway through that fight, another one pops up!
+The remorhaz melts upon defeat, leaving behind a mess of digested parts including a set of unusually lithe bones.
+
    ***DC 5***
 	- cloak of elvenkind
 	- Elven half-plate (anyone can wear. negates stealth disadvantage)
@@ -80,11 +71,14 @@ Out in the dark, beyond the reach of the firelight, faint blue glimmers flicker 
 
 You glance again, and those distant lights have shifted. Closer. Taller. paired. blinking. You feel a footstep crash into the earth, maybe 200ft away.... What do you do?
 
-Before you towers a large translucent visage of a monstrously large bear. Wisps of smoke rise from a grey speckled white mane around it's neck. It's otherwise brown fur faintly undulates like a far off mirage seen through heat rising off of hot sand. The air around this creature is alive with energy. More smokey wisps rise from it's bright blue glowing eyes, where jet black streaks of matted fur descend down it's face like stripes.
-
 ##### [Spooky Fight](https://www.youtube.com/watch?v=QfsiOUsZSLg&list=RDQfsiOUsZSLg&start_radio=1)
-![[erz agrious.png]]
+Roll 1d4 will'o wisps at the end of each round (to a maximum of 4 total)
+
 ![[will-o'-wisp.png]]
+
+
+![[Erz Agrious]]
+
 
 #### Shay-Luuq
 

@@ -1,14 +1,15 @@
 ###### Session Prep
-- Flavor text for weather, terrain
-- set up "losing a day" mechanics
-- supe up grendelle's statblock with skinsplinter powers
-- make some mutated monster fights (i.e. shay luuq)
-- 
-- update player inventory
+
 - How to tease Grendelle
 	- They gotta fight a shay-luuq
 	- thunderous boom of seaspray threespear (the fight)
 	- What would Grendelle want to ask the party (while wearing Helm's face)?
+	- She has kargoe's eye patch or something to help the party connect some dots
+- supe up grendelle's statblock with skinsplinter powers
+	- Skinsplinterer should send out a lifelink tendril (strain vampire)
+	- Grendelle gets return damage. Otherworldy guise?
+
+- update player inventory
 - fix bag item card
 - violin (if found)
 
