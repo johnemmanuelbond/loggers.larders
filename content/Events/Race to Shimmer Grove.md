@@ -82,6 +82,8 @@ The day's canoing takes you downstream on this branch of the Wyfloe. Looking to 
 
 Reaching this tributary, you have a choice. Continue heading north and east the way you came, back towards Map Camp and the coast, or head down this unexplored tributary due south:
 * DC 15 survival: Based on the reading from Val, and Alberta's assertion on the navigability of at least this next section of river, it looks like the southern choice will get you there sooner.
+* 2nd day: The party hears a thunderous boom coming from the south.
+* 3rd day:  The party sends a flare and sees no sign of helm. Around midday, he appears coming out from around a bramble
 
 |           | On Foot                              | By Boat                            |
 | --------- | ------------------------------------ | ---------------------------------- |
@@ -89,8 +91,8 @@ Reaching this tributary, you have a choice. Continue heading north and east the 
 | Puzzles   | Wolfsign<br>Petrified Grove<br>      | Spirited Mists<br>Residual goo<br> |
 | Combat    | Shay-Luuq (on river)<br>Werewolf<br> | Shay-Luuq<br>Will'O Wisps          |
 | Challenge | Brambles                             | Cataracts                          |
-2nd day: The party hears a thunderous boom coming from the south.
-3rd day:  The party sends a flare and sees no sign of helm. Around midday, he appears coming out from around a bramble
+
+
 
 ###### By Boat (faster)
 The padding gets harder as you turn upstream and head into the mountains. Before long you begin to clearly gain elevation as you face a series of cataracts: 
