@@ -32,6 +32,19 @@ The forest breaks all at once, giving way to a barren, silent, and choked cleari
 | 10  | The grove is eerily silent. The party notices how the petrified trees seem frozen mid-motion—some appear to have been _moving_ when they died.                                                                     | As you comb through some of the earth surrounding these petrified forms you recognize signs of extreme heat, splinters in the bark, fused earth, whatever happened here was sudden and violent.                                                                                                   | You once fought a twisted animated tree with thorns and vines. That Skinsplinterer was notably agitated and mobile, and it's blight seemed to curse your friend with growth rather than decay. To see one petrified like this would be odd. To see dozens is terrifying.                                                                                         |
 | 15  | As you look towards the center of the grove you notice the ground start to lower into a shallow depression. Getting closer you see it's half-filled with layers of packed ash and perfectly undisturbed pale dust. | Something about the shape of this grove is deeply odd. The petrified trees form a deliberate, malevolent, arc. Like they were surrounding something. As you move towards the center you notice the ground start to lower into a shallow depression caked with layers of undisturbed ash and dust. | You remember from that book you looted from Grendelle's cave that the "native spiritualists" once were able to  “gentle verdant horrors", which seems more calm and ritualistic to you. But this grove bears no sign of such gentling. The pattern of the trees—facing inward, halted mid-movement—implies containment, rather than healing. It’s more... final. |
 | 20  | Looking closer into this depression you note the outline of a humanoid form, just the outline, curled up holding their knees.                                                                                      | Taking a closer look at these trees you see they're poised mid motion, some facing inward, some seemingly turning. A large number appear to have converged on the central depression.                                                                                                             | You piece together that this petrification doesn’t resemble a druidic calming rite—it's not passive, but explosive in origin. The circle formation, the flash-petrification—it suggests something sacrifical and desperate, the kind of thing only done when all other options fail. Whoever did this didn’t try to tame these trees, They ended their threat.   |
+*John Moore has actually transformed into the druid who sacrificed themselves to perform this sealing rite:*
+
+Fire. A white-hot conflagration of righteous rage burbles from within the confines of your humble mortal chest. The power which you summon cannot be kept enclosed within your body, but you had no intention of that. Without reservation you allow the flame and heat to consume your flesh in a flash of agony and release. Orange tongues lick around your body in a wave of devastation unleashed from your person and up the ashen forms of white wood and reddened thorns which grasp at you from all sides, malevolent and yet impotent.
+
+Your life flashes before your eyes. A camp of wooden huts at the waters edge. The warmth of hearth and the smell of simmering soups. The sound of pickaxes singing against hard stone. The barking of orders and the cruel steel of a master's trident. The cold sting of saltwater in an open wound. Then escape, flight through tall grasses and swampy bogs and into shaded wood. Your first encounter with the path you now follow and those who taught it to you in the secret places far from the sounds of the sea. Finally resistance, building of alliances and a brutal war of liberation, a war whose end you cannot see through your self-wrought sacrificial flame.
+
+*Description: A thin and lithe woman with a muted greyish skin tone. She has wavey brown hair which tumbles down over shorn sides of her head in a kind of undercut. You get the sense she would have tied it up in thick plaits. She stands reasonably tall, though a little shorter than rivka but you can see she is muscular and lithe. She has numerous tattos. Immediately apparent are artistic renditions of vines and leaves run up and down her arms and legs int this dark green ink, but as John Moore turns to look at you you see on the cheekbone under her right eye is a black symbol in a language you recognize from a certain old book you once carried.* 
+
+Other information:
+- DC 8: This person's name was ***Aeldwynn*** (DC 20 history check to identify linguistic similarities to Aire), and she was a druid sage in the prime of her powers.
+- DC 12: You remember the first time you encountered one of these ***wizard's*** experiments. The horror it caused and the time it took to reverse that damage. Devil's bargains induce devil's payments.
+- DC 17: People have been going missing from your camp. After a long long series of patrols and careful secret keeping, the druidic council determined that there is no the Merlings can be responsible, despite what the ***wizard*** says.
+- DC 21: The ***wizard's*** name is Adhael. An ally, but a dangerous one.
 
 
 ### Encounters
@@ -78,7 +91,3 @@ Roll 1d4 will'o wisps at the end of each round (to a maximum of 4 total)
 
 
 ![[Erz Agrious]]
-
-
-#### Shay-Luuq
-

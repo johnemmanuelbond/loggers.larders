@@ -12,7 +12,15 @@ The party must travel 50 miles across [[The Floes]] to reach [[Shimmer Grove]].
 5. [[Race to Shimmer Grove#Leg 3 Find a pass|Leg 3]]
 6. [[Race to Shimmer Grove#Leg 4 Descend into the grove|Leg 4]]
 7. [[Race to Shimmer Grove#Events|Events]]
+	1. [[Race to Shimmer Grove#Canoe Table|Canoe Table]]/[[Race to Shimmer Grove#Hike Table|Hike Table]]
+	2. [[Race to Shimmer Grove#Wolfsign|Wolfsign]]
+	3. [[Race to Shimmer Grove#Spirited Mists|Spirited Mists]]
+	4. [[Race to Shimmer Grove#Petrified Grove|Petrified Grove]]
 8. [[Race to Shimmer Grove#Combats|Combats]]
+	1. [[Race to Shimmer Grove#Dire Lemmings|Dire Lemmings]]
+	2. [[Race to Shimmer Grove#Werewolf|Werewolf]]
+	3. [[Race to Shimmer Grove#Will'O Wisps|Will'O Wisps]]
+	4. [[Race to Shimmer Grove#Witch|Witch]]
 
 ![[The Floes#Soundboard]]
 
@@ -36,19 +44,19 @@ Roll on this table each day to determine the weather to give an ambience
 ###### [[Race to Shimmer Grove#TOC| ----------- ^ Top ^ -----------]]
 #### Timeline
 
-| Day    | Party                                             | Helm                             | Grendelle                                                                                       | Adhael                      |
-| ------ | ------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- |
-| Sep 20 | Canoing                                           | Gets vision, flies south         | Arrives at Shimmer Grove (~20 days since sole moon)<br>Uses skinsplinterer to get through wards |                             |
-| Sep 21 | Exploring tower                                   |                                  | Gleans sooome understanding. Hides from Adhael when he appears.                                 | Awakens                     |
-| Sep 22 | Using astrolabe, repairing Val,<br>fight remorhaz | meets party                      | Meets Adhael, agrees to plan                                                                    | Meets Grendelle, makes plan |
-| Sep 23 | Canoe east                                        | flies southeast, sees grove      | Gets souped up skinspliter powers.                                                              | Prepares                    |
-| Sep 24 |                                                   | sees grove, turns back           | Pursues Helm on foot                                                                            | Prepares                    |
-| Sep 25 |                                                   | gets killed, reveals information | Catches helm, kills 'em                                                                         | Prepares                    |
-| Sep 26 |                                                   | "3rd day" -                      | Leads party to shimmer grove                                                                    |                             |
-| Sep 27 |                                                   |                                  |                                                                                                 |                             |
-| Sep 28 |                                                   |                                  |                                                                                                 |                             |
-| Sep 29 |                                                   |                                  |                                                                                                 |                             |
-| Sep 30 | Thetis departs map camp                           |                                  |                                                                                                 |                             |
+| Day    | Party                                                                             | Helm                             | Grendelle                                                                                       | Adhael                      |
+| ------ | --------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- |
+| Sep 20 | Canoing                                                                           | Gets vision, flies south         | Arrives at Shimmer Grove (~20 days since sole moon)<br>Uses skinsplinterer to get through wards |                             |
+| Sep 21 | Exploring tower                                                                   |                                  | Gleans sooome understanding. Hides from Adhael when he appears.                                 | Awakens                     |
+| Sep 22 | Using astrolabe, repairing Val,<br>fight remorhaz                                 | meets party                      | Meets Adhael, agrees to plan                                                                    | Meets Grendelle, makes plan |
+| Sep 23 | Canoe east, fight mundane frog, Hike to petrified trees (succeed skill challenge) | flies southeast, sees grove      | Gets souped up skinspliter powers.                                                              | Prepares                    |
+| Sep 24 | Investigates petrified trees?                                                     | gets killed, reveals information | Catches helm, kills 'em                                                                         | Prepares                    |
+| Sep 25 |                                                                                   | "3rd day"                        | Leads party to shimmer grove??                                                                  | Prepares                    |
+| Sep 26 |                                                                                   |                                  |                                                                                                 |                             |
+| Sep 27 |                                                                                   |                                  |                                                                                                 |                             |
+| Sep 28 |                                                                                   |                                  |                                                                                                 |                             |
+| Sep 29 |                                                                                   |                                  |                                                                                                 |                             |
+| Sep 30 | Thetis departs map camp                                                           |                                  |                                                                                                 |                             |
 - Grendelle wants her charm back to try and hypnotize Adhael. She is afraid of him.
 - Adhael isn't too worried about Grendelle and promises her as many skinsplinterers as he can if she can ... 
 
@@ -85,47 +93,51 @@ Reaching this tributary, you have a choice. Continue heading north and east the 
 * 2nd day: The party hears a thunderous boom coming from the south.
 * 3rd day:  The party sends a flare and sees no sign of helm. Around midday, he appears coming out from around a bramble
 
-|           | On Foot                              | By Boat                            |
-| --------- | ------------------------------------ | ---------------------------------- |
-| Time      | 2 days                               | 1 day                              |
-| Puzzles   | Wolfsign<br>Petrified Grove<br>      | Spirited Mists<br>Residual goo<br> |
-| Combat    | Shay-Luuq (on river)<br>Werewolf<br> | Shay-Luuq<br>Will'O Wisps          |
-| Challenge | Brambles                             | Cataracts                          |
+|           | On Foot                         | By Boat                            |
+| --------- | ------------------------------- | ---------------------------------- |
+| Time      | 2 days                          | 1 day                              |
+| Puzzles   | Wolfsign<br>Petrified Grove<br> | Spirited Mists<br>Residual goo<br> |
+| Combat    | Werewolf<br>Will'O Wisps        | Shay-Luuq<br>Will'O Wisps          |
+| Challenge | Brambles                        | Cataracts                          |
 
+###### *By Boat (faster)*
+*The padding gets harder as you turn upstream and head into the mountains. Before long you begin to clearly gain elevation as you face a series of cataracts:* 
 
+*Skill challenge*
+- *5 successes: DC 16 normal, 19 outlandish, +2 for each repetition*
+- *2 failures: everybody gains exhaustion*
+- *3 failures: Assaulted by a Shay-Luuq, canoes are dashed, move to "On Foot"*
 
-###### By Boat (faster)
-The padding gets harder as you turn upstream and head into the mountains. Before long you begin to clearly gain elevation as you face a series of cataracts: 
-
-###### Cataracts:
-Skill challenge
-- 5 successes: DC 16 normal, 19 outlandish, +2 for each repetition
-- 2 failures: everybody gains exhaustion
-- 3 failures: Assaulted by a Shay-Luuq, canoes are dashed, move to "On Foot"
+###### *Cataracts:*
 
 ###### On Foot (slower)
 Leaving the canoes once more upturned at the river's bank you turn and begin to hike south into the thatched brushland. While the brush is low-lying compared to the forest you have previously hiked through, it is crisscrossed by thick and thorny brambles. Navigating through and around these patches is extremely difficult, they obscure your vision and tear at your clothes and flesh. 
-
-###### Brambles:
-Skill challenge (each day, w/ resets)
+:
+Skill challenges (each day, w/ resets)
 - 3 successes: DC 16 normal, 19 outlandish, +2 for each repetition
 - 2 failures: lose a day
 Fail twice in a row, everybody takes 2d8 piercing damage and gains one level of exhaustion
 
+###### Day 1: Brambles
+The further you get from the river the more the floodplain gives way to a veritable labyrinth of thick, 10-ft tall brambles and grasses which tear at your clothing and sanity. Even if you could follow your heading directly it is supremely easy to get lost, but you are forced to take a circuitous route to avoid the heaviest foliage.
+- Petunia: nat 20 on *athletics*
+- JM: failure on *intimidation*
+- Rivka: success on *nature* 
+- Party encounters petrified grove.
+
+###### Day 2: Crags
+As you approach the rugged foothills from the north, the gnarled brambles give way to more and more rocky crags. The terrain is extremely uneven and requires you all to scramble up and down these rough and jagged surfaces. Sinkholes and wet bog sit uncomfortably at the bottom of each vale and Val, in particular, is struggling to climb up and down. Unfortunate since the sightlines are so bad she remains your best guide
+- ?
 
 ###### [[Race to Shimmer Grove#TOC| ----------- ^ Top ^ -----------]]
 #### Leg 3: Find a pass
 
-###### By Boat (slower):
-Skill challenge
-3 successes DC 17 normal, 20 outlandish, +2 for each repetition
-2 failures
+Searching around you are hard pressed to find a walkable route over the hills. You can always try to brute force your way over a hill, but the combination of the thorny foliage and harsh slopes make every yard hard-bought and time consuming. Your party is constantly debating whether to keep trying to hike up, or to search for an easier route.
 
-###### On Foot (faster):
 Intense Skill challenge
 6 successes: DC 18 normal, 21 outlandish, +2 for each repetition
 Each failure, lose a day.
-3 failures: Grendelle finds party
+3 failures: Fall smack into the [[Race to Shimmer Grove#Demon Frog|Demon Frog]] in an unfortunately located cave-in.
 
 ###### [[Race to Shimmer Grove#TOC| -------- ^ Top ^ -----------]]
 #### Leg 4: Descend into the grove
@@ -204,10 +216,57 @@ You come across the carcass of a large saber-buck. It's innards have been torn o
 ###### [[Race to Shimmer Grove#TOC| ----------- ^ Top ^ -----------]]
 #### Witch
 
-A chance encounter with [[Grendelle the Grotesque]] and her [[Skinsplinterer]] bodyguard in the middle of the woods, how convenient!
+[[Grendelle the Grotesque]] has been masquerading as [[Helm Haraldson]] in order to get close to the party. (DC 20 investigation to see through illusion, DC 16 insight to feel uneasy, DC 20 insight to sense the mimicry)
 
-Note: Creatures within the Skinspliter grove have halved healing (rounded down).
+Her aims are:
+1. recover her charm
+2. Learn about Adhael/Kargoe's circumstance
+3. Set the party up for failure
+4. slay whoever she can
 
-##### [Familiar Enemy](https://www.youtube.com/watch?v=donMBqUvZ98&list=RDdonMBqUvZ98&start_radio=1)
+ *Description of Thorngarten:*
+- As you suspected, there is a fairly large circular valley within several of the mountains due south from here.
+- From the air I saw much of what was below. There was a central garden with a few buildings with the shimmertree in the middle. I caught glimpse of a few figures dressed in purple at the foot of the tree but I coudn't tell what they were doing.
+- Surrounding the central garden was a sort of hedge maze, the hedges themselves appeared tall and thorny and there were more of these purple-robed figures just wandering, stumbling?, through it.
+
+Clues:
+- Didn't land as a bird
+- "The" shimmertree
+- Knows kargoe's name
+- Doesn't recognize "starsign mirror"
+
+###### Phase 1:
+[Soundtrack](https://www.youtube.com/watch?v=dFcpLPBGHqg&list=RDdFcpLPBGHqg&start_radio=1)
+
 ![[grendelle the grotesque (abroad).png]]
+
 ![[skinsplinterer.png]]
+
+###### Phase 2:
+[Soundtrack](https://www.youtube.com/watch?v=3qQMmJ2ND0E&list=RD3qQMmJ2ND0E&start_radio=1)
+
+Howling with fury, Grendelle pulls from her cloak a [[Shimmering branch]], an object which appears worshipful to you in particular, Rivka. She wraps her charm, this line of sinew with that raven's foot attached around her arm like tournequette. Then, she drives the end of that branch hard into the vein on her right arm.
+
+The [[Skinsplinterer]] immediately turns it's attention onto Grendelle and moves to attack her (roll) but she shouts a phrase in elvish: **I thangail pant! Minno, a branno i fëa gîn enni!**
+(The gate is open! Enter, and release your spirit unto me!). 
+
+The skinspliterer's lash rakes across Grendelle's chest spattering red blood into the dust but just as quickly she grasps hold of the vine, which stretches taut. \_\_\_\_ , you're the first to see as this ashen texture begins to spread up the skinspliterer from it's legs and then through it's torso and through that tight vine, as if all the color is being sucked towards the witch. Contemporaneously, the shimmering branch in her forearm brightens and brightens until your eyes burn. You can't see through the harsh white light but you hear the cracking of bones and the ripping of flesh and shrieks of a woman which slowly fades into a low laugh, ringing with a bassy sheen.
+
+As the light fades before you stands grendelle, hunched over but still monstrously tall. Her dark olive-green flesh has taken on shine and sheen which makes it look almost watery, but more like a putrid pond than the crisp sea. Loooooong arms dangle nearly all the way down the 11 feet from her shoulders to the ground. Though it's rapidly healing over, you can see where the flesh has been torn through, revealing brilliant white bone underneath. Oily dark hair hangs in front of her face, obscuring all of her features save the two unnaturally white eyes which gleam out of the darkness like stars. This twisted halo of white light hangs like a twisted metal crown over her head as she appears angelic, in that biblical sense.
+
+**Immortality is mine! Now flee, or die.**
+
+![[grendelle the aggrandised.png]]
+
+Attack Pattern
+1. Turn: use Starry Gaze, Cast sickening radiance
+   LA: set up aurora wall, move sickening radiance
+2. Turn: use Starry Gaze, Attack
+   LA: Guiding Bolt -> Piercer (on barty?)
+3. Turn: use Starry Gaze, cast Fear (if conc. dropped), otherwise attack
+   LA: if recharge 6, guiding bolt,  piercer (if recharge) otherwise aurora wall
+
+Special considerations:
+1. Charm monster on Mork
+2. Tree stride to escape (hang out near a tree)
+3. Ray of enfeeblement petunia if necessary
