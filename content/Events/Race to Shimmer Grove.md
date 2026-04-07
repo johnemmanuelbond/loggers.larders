@@ -237,10 +237,15 @@ Clues:
 
 ###### Phase 1:
 [Soundtrack](https://www.youtube.com/watch?v=dFcpLPBGHqg&list=RDdFcpLPBGHqg&start_radio=1)
-
+swap spells:
+- At will: *dancing lights, minor illusion, vicious mockery, grease, magic mouth*
+- 4/day *[Sleep](https://dnd5e.wikidot.com/spell:sleep), [Charm Person](https://dnd5e.wikidot.com/spell:charm-person), [Ray of Sickness](https://dnd5e.wikidot.com/spell:ray-of-sickness)*
+- 3/day: *[See Invisibility](https://dnd5e.wikidot.com/spell:see-invisibility), [Ray of enfeeblement](https://dnd5e.wikidot.com/spell:ray-of-enfeeblement), [Locate Object](https://dnd5e.wikidot.com/spell:locate-object)*
+- 2/day: *[Major Image](https://dnd5e.wikidot.com/spell:major-image), [Antagonize](https://dnd5e.wikidot.com/spell:antagonize), [Thunder Step](https://dnd5e.wikidot.com/spell:thunder-step) (trident)*
 ![[grendelle the grotesque (abroad).png]]
 
 ![[skinsplinterer.png]]
+[Wall of Thorns](https://dnd5e.wikidot.com/spell:wall-of-thorns)
 
 ###### Phase 2:
 [Soundtrack](https://www.youtube.com/watch?v=3qQMmJ2ND0E&list=RD3qQMmJ2ND0E&start_radio=1)
@@ -256,14 +261,19 @@ As the light fades before you stands grendelle, hunched over but still monstrous
 
 **Immortality is mine! Now flee, or die.**
 
-![[grendelle the aggrandised.png]]
+- At will: [Guiding Bolt](https://dnd5e.wikidot.com/spell:guiding-bolt),[Sleep](https://dnd5e.wikidot.com/spell:sleep), dancing lights, thaumaturgy, Speak with Plants*
+- 4/day  [Blinding Smite](https://dnd5e.wikidot.com/spell:blinding-smite), [Ray of enfeeblement](https://dnd5e.wikidot.com/spell:ray-of-enfeeblement), [Blindness](https://dnd5e.wikidot.com/spell:blindness), [Moonbeam](https://dnd5e.wikidot.com/spell:moonbeam)*
+- 2/day: *[Fear](https://dnd5e.wikidot.com/spell:fear),[Sickening Radiance](https://dnd5e.wikidot.com/spell:sickening-radiance), [Charm Monster](https://dnd5e.wikidot.com/spell:charm-monster)*
+- 2/day: *[Tree Stride](https://dnd5e.wikidot.com/spell:tree-stride),[Dream](https://dnd5e.wikidot.com/spell:dream)*
+![[grendelle, shimmer hag.png]]
+![[will-o'-wisp.png]]
 
 Attack Pattern
 1. Turn: use Starry Gaze, Cast sickening radiance
    LA: set up aurora wall, move sickening radiance
-2. Turn: use Starry Gaze, Attack
+2. Turn: use Starry Gaze, Attack (make wisp?)
    LA: Guiding Bolt -> Piercer (on barty?)
-3. Turn: use Starry Gaze, cast Fear (if conc. dropped), otherwise attack
+3. Turn: use Starry Gaze, cast Fear (if conc. dropped), otherwise attack (make wisp?)
    LA: if recharge 6, guiding bolt,  piercer (if recharge) otherwise aurora wall
 
 Special considerations:
