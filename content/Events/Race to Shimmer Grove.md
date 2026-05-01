@@ -44,19 +44,19 @@ Roll on this table each day to determine the weather to give an ambience
 ###### [[Race to Shimmer Grove#TOC| ----------- ^ Top ^ -----------]]
 #### Timeline
 
-| Day    | Party                                                                             | Helm                             | Grendelle                                                                                       | Adhael                      |
-| ------ | --------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- |
-| Sep 20 | Canoing                                                                           | Gets vision, flies south         | Arrives at Shimmer Grove (~20 days since sole moon)<br>Uses skinsplinterer to get through wards |                             |
-| Sep 21 | Exploring tower                                                                   |                                  | Gleans sooome understanding. Hides from Adhael when he appears.                                 | Awakens                     |
-| Sep 22 | Using astrolabe, repairing Val,<br>fight remorhaz                                 | meets party                      | Meets Adhael, agrees to plan                                                                    | Meets Grendelle, makes plan |
-| Sep 23 | Canoe east, fight mundane frog, Hike to petrified trees (succeed skill challenge) | flies southeast, sees grove      | Gets souped up skinspliter powers.                                                              | Prepares                    |
-| Sep 24 | Investigates petrified trees?                                                     | gets killed, reveals information | Catches helm, kills 'em                                                                         | Prepares                    |
-| Sep 25 |                                                                                   | "3rd day"                        | Leads party to shimmer grove??                                                                  | Prepares                    |
-| Sep 26 |                                                                                   |                                  |                                                                                                 |                             |
-| Sep 27 |                                                                                   |                                  |                                                                                                 |                             |
-| Sep 28 |                                                                                   |                                  |                                                                                                 |                             |
-| Sep 29 |                                                                                   |                                  |                                                                                                 |                             |
-| Sep 30 | Thetis departs map camp                                                           |                                  |                                                                                                 |                             |
+| Day    | Party                                                                                                                                 | Helm                             | Grendelle                                                                                       | Adhael                      |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- |
+| Sep 20 | Canoing                                                                                                                               | Gets vision, flies south         | Arrives at Shimmer Grove (~20 days since sole moon)<br>Uses skinsplinterer to get through wards |                             |
+| Sep 21 | Exploring tower                                                                                                                       |                                  | Gleans sooome understanding. Hides from Adhael when he appears.                                 | Awakens                     |
+| Sep 22 | Using astrolabe, repairing Val,<br>fight remorhaz                                                                                     | meets party                      | Meets Adhael, agrees to plan                                                                    | Meets Grendelle, makes plan |
+| Sep 23 | Canoe east, fight mundane frog, Hike to petrified trees (succeed skill challenge)                                                     | flies southeast, sees grove      | Gets souped up skinspliter powers.                                                              | Prepares                    |
+| Sep 24 | Investigate petrified trees?<br>Traverse crags<br>See wisps<br>(succees skill challenge)                                              | gets killed, reveals information | Catches helm, kills 'em                                                                         | Prepares                    |
+| Sep 25 | Rainstorm,<br>Signal Helm<br>Locate gulley<br>(fail skill challenge)<br>See helm, crow gets struck by lightning<br>Whoops all witches | "3rd day"                        | Leads party to shimmer grove??                                                                  | Prepares                    |
+| Sep 26 |                                                                                                                                       |                                  |                                                                                                 |                             |
+| Sep 27 |                                                                                                                                       |                                  |                                                                                                 |                             |
+| Sep 28 |                                                                                                                                       |                                  |                                                                                                 |                             |
+| Sep 29 |                                                                                                                                       |                                  |                                                                                                 |                             |
+| Sep 30 | Thetis departs map camp                                                                                                               |                                  |                                                                                                 |                             |
 - Grendelle wants her charm back to try and hypnotize Adhael. She is afraid of him.
 - Adhael isn't too worried about Grendelle and promises her as many skinsplinterers as he can if she can ... 
 
@@ -242,9 +242,9 @@ swap spells:
 - 4/day *[Sleep](https://dnd5e.wikidot.com/spell:sleep), [Charm Person](https://dnd5e.wikidot.com/spell:charm-person), [Ray of Sickness](https://dnd5e.wikidot.com/spell:ray-of-sickness)*
 - 3/day: *[See Invisibility](https://dnd5e.wikidot.com/spell:see-invisibility), [Ray of enfeeblement](https://dnd5e.wikidot.com/spell:ray-of-enfeeblement), [Locate Object](https://dnd5e.wikidot.com/spell:locate-object)*
 - 2/day: *[Major Image](https://dnd5e.wikidot.com/spell:major-image), [Antagonize](https://dnd5e.wikidot.com/spell:antagonize), [Thunder Step](https://dnd5e.wikidot.com/spell:thunder-step) (trident)*
-![[grendelle the grotesque (abroad).png]]
+![[grendelle the grotesque (helm).png]]
 
-![[skinsplinterer.png]]
+![[skinsplinterer-2.png]]
 [Wall of Thorns](https://dnd5e.wikidot.com/spell:wall-of-thorns)
 
 ###### Phase 2:
