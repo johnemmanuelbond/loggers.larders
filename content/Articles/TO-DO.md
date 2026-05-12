@@ -1,13 +1,19 @@
 ###### Session Prep
 
-- How to tease Grendelle
-	- They gotta fight a shay-luuq
-	- thunderous boom of seaspray threespear (the fight)
-	- What would Grendelle want to ask the party (while wearing Helm's face)?
-	- She has kargoe's eye patch or something to help the party connect some dots
-- supe up grendelle's statblock with skinsplinter powers
-	- Skinsplinterer should send out a lifelink tendril (strain vampire)
-	- Grendelle gets return damage. Otherworldy guise?
+- Sinkhole on map, and mechanics
+- What's underneath the grove?
+- Populate Aire village
+- Populate Thorngarten monastary (incl. Rivka's dad)
+- Map out shimmer grove, specifically (w/ caverns entrance)
+
+- Set up wizard's plan: reembody in either old body or clone (Lemm)
+	- Entombed by thorngarten cultists underneath the shimmer tree
+	- specifically anti-wizard defenses, so he needs some mundane helpers
+	- doesn't want to interact with the cultists themselves because they won't believe it's him
+- What to offer the party:
+	- recover Kargoe, Barty
+	- reembody lemm in old body (where is it)
+	- Help track down grendelle
 
 - update player inventory
 - fix bag item card

@@ -224,8 +224,7 @@ Her aims are:
 3. Set the party up for failure
 4. slay whoever she can
 
- *Description of Thorngarten:*
-- As you suspected, there is a fairly large circular valley within several of the mountains due south from here.
+- As you suspected, therscarye is a fairly large circular valley within several of the mountains due south from here.
 - From the air I saw much of what was below. There was a central garden with a few buildings with the shimmertree in the middle. I caught glimpse of a few figures dressed in purple at the foot of the tree but I coudn't tell what they were doing.
 - Surrounding the central garden was a sort of hedge maze, the hedges themselves appeared tall and thorny and there were more of these purple-robed figures just wandering, stumbling?, through it.
 

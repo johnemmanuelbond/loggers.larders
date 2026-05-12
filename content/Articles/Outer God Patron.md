@@ -24,9 +24,12 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 ### Revel in Domination
 Your patron is eager to see you deprive agency from the useless rabble. Starting at 6th level, whenever a creature fails a saving throw against one of your *enchantment* spells, you have advantage on your next attack roll.
 
-### TBA
-Starting at 10th level...
+### Compulsive Visit
+You can send an unfortunate soul to meet your patron's scorn. Starting at 10th level, you learn the spell [Banishment](http://dnd5e.wikidot.com/spell:banishment). It doesn't count against the number of spells you know, you can also cast it once without using a spell slot, and you regain the ability to do so when you finish a long rest.
 
-### TBA
-Starting at 14th level
+While concentrating on this spell, all your attacks deal extra force damage equal to your spellcasting modifier.  Moreover, damage can't break your concentration on this spell.
 
+### Rend, Cleave, Sunder
+You direct your patron's wrath to eviscerate a target of your choice. Starting at 14th level, you can use your action to target a creature within 60ft. The target makes a charisma saving throw against your spell save DC. On a failure, they take 12d6 force damage, suffer 2 levels of exhaustion, and is restrained until the end of your next turn as their form is twisted and elongated beyond comprehension. On a success they take half as much damage, suffer only 1 level of exhaustion, and are not restrained.
+
+Once you use this feature, you can't use it again until you finish a long rest.
