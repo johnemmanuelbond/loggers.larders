@@ -1,19 +1,20 @@
 ###### Session Prep
 
-- Sinkhole on map, and mechanics
-- What's underneath the grove?
-- Populate Aire village
 - Populate Thorngarten monastary (incl. Rivka's dad)
 - Map out shimmer grove, specifically (w/ caverns entrance)
 
-- Set up wizard's plan: reembody in either old body or clone (Lemm)
-	- Entombed by thorngarten cultists underneath the shimmer tree
-	- specifically anti-wizard defenses, so he needs some mundane helpers
-	- doesn't want to interact with the cultists themselves because they won't believe it's him
-- What to offer the party:
-	- recover Kargoe, Barty
-	- reembody lemm in old body (where is it)
-	- Help track down grendelle
+- Set up wizard's plan: achieve immortality via lichdom
+	- 1. Get spellbook from thorngarten monastery
+	- 2. Resummon skinsplinterers at thorngarten (shay-luuq blood from frog in sinkhole)
+		- Needs mirror apparatus inside of thorngarten.
+	- 3. Sacrfice Stoffenwald villagers to fuel shummer tree absorption ritual (into original body)
+- Motives:
+	- Saved elfdom but was abandoned in that tower
+	- wants to become lich and rule the world
+- Clues:
+	- Witch did something similar prior
+	- Villagers know about demon frog in the pits
+	- 
 
 - update player inventory
 - fix bag item card
