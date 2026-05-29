@@ -1,10 +1,14 @@
 ###### Session Prep
 
-- Populate Thorngarten monastary (incl. Rivka's dad)
+- Populate Thorngarten monastary 
+	- High abbot [[Vorandel]] stat block and characterization
+	- Cultist group stat block (see matt colville)
+	- Flesh out [[Velchar]] (Rivka's father) as a character
+	- Fill vault(s) with contents
 - Map out shimmer grove, specifically (w/ caverns entrance)
 
 - Set up wizard's plan: achieve immortality via lichdom
-	- 1. Get spellbook from thorngarten monastery
+	- 1. Retrieve artifact (demiplane key) from thorngarten monstary to power up (new archmage statblock)
 	- 2. Resummon skinsplinterers at thorngarten (shay-luuq blood from frog in sinkhole)
 		- Needs mirror apparatus inside of thorngarten.
 	- 3. Sacrfice Stoffenwald villagers to fuel shummer tree absorption ritual (into original body)

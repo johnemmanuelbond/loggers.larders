@@ -50,15 +50,14 @@ Val is pointing directly at the southeast corner of the valley. There you see a 
 ***High Perception:***  
 *For just a moment, the wind parts the upper canopy in the far distance and you glimpse pale white leaves amongst the trees there. Its branches stretch wide and tall like a vaulting cathedral. Then the branches shift again, and it vanishes from sight.*
 
-#### Preserved Ash
-In the middle of Shimmer Grove stands a mighty ash tree. It'srough textured brown bark is regularly grooved and peckled with shadows, which causes the light to wash out when it hits the tree and makes it look almost white. Starting just after Sole's eve, and continuing through the end of November this tree's leaves start disapparating, rather than falling, into rising speckless of dull white light rising into the sky.
-
 ### Village
 ![[Stoffenwald]]
 
 
+### Monstary
+![[Thorngarten]]
 
 
-### Thorngarten
-*Sant Eginost*
+### Grove
 
+In the middle of Shimmer Grove stands a mighty ash tree. It'srough textured brown bark is regularly grooved and peckled with shadows, which causes the light to wash out when it hits the tree and makes it look almost white. Starting just after Sole's eve, and continuing through the end of November this tree's leaves start disapparating, rather than falling, into rising speckless of dull white light rising into the sky.

@@ -13,6 +13,8 @@ The position of the ash tree between the fortress of [[Eitheloth]] and the conte
 While connected to the tree, Adhael's spirit is free to roam wherever the tree's roots touch, which is most of southwest Nordwythe. However, this shade spends most of his perusing/haunting the [[Ruined Tower]], remembering the days of his splendor and handling any intruders that would plunder his works.
 
 #### Modern Influence
+![[kargoe, posessed.png]]
+
 
 #### Goals
 - Reincarnate into a powerful body.
