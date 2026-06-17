@@ -8,7 +8,7 @@
 - Map out shimmer grove, specifically (w/ caverns entrance)
 
 - Set up wizard's plan: achieve immortality via lichdom
-	- 1. Retrieve artifact (demiplane key) from thorngarten monstary to power up (new archmage statblock)
+	- 1. Retrieve artifact (his own blood) from thorngarten monstary to power up (new archmage statblock)
 	- 2. Resummon skinsplinterers at thorngarten (shay-luuq blood from frog in sinkhole)
 		- Needs mirror apparatus inside of thorngarten.
 	- 3. Sacrfice Stoffenwald villagers to fuel shummer tree absorption ritual (into original body)

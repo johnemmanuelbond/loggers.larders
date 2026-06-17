@@ -52,6 +52,7 @@ If the players shell out for the major divination they get a sense of the future
 
 ***Future*** (divination) The smoke billows and frames a series of disconnected scenes
 - Scenes of a shimmering willow tree shriveling as if all of its sap is being sucked out.
+- In a dark candlelit room an aire face with one eye looks greedily at a dark metal pyramid the size of a fist.
 - A enourmous antlered feline howls with pain and flame spills out of a reptilian maw.
 - Stark-White trees draped in sour entrails dance in a circle around a hill.
 - A one-eyed aire warrior disintigrates as a robed elf, desiccated and gaunt rises from his gentle repose. Lemm, you recognize his face, and the rest of you recognize Lemm, not blue but pale as moonlight.
