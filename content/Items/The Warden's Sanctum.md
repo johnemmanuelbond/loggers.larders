@@ -1,3 +1,0 @@
-A beautifully embossed metal pyramid. The pyramid is made of dark metal with purple anodization which depicts one motif on each side: A two-pronged tower inside the gleaming iris of an eye.
-
-By succeeding on a DC 25 arcana check, or expending an 8th or 9th level spell slot, a creature can cast *Demiplane* and enter one of the two entrance chambers to [[Adhael Anar, Caendaur Fuirith]]'s magical sanctum.

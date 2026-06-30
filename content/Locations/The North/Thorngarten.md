@@ -2,6 +2,7 @@
 
 *Sant Eigenost*, in elvish. Thorngarten is an ancient monstary commnity of elvish aesthetics. They revere the memory of [[Adhael Anar, Caendaur Fuirith]], the warden of the floes who won the elves the [[War of Salt and Snow]].
 
+![[thorngarten.png]]
 
 ### Members of the order
 
@@ -19,6 +20,10 @@
 | 8    | Living Penitant        | Eldrath      | Has no visible eyelashes, giving his stare a corpse-like intensity                         |
 
 
+## Locations
+![[thorngarten-grounds.png]]
+
+
 ### The Lodge
 
 Gleaming grey stone foundations rise from the slopes of a jagged rocky hill so that the structure atop it may sit on a flat smooth surface surrounded by patios and gardens. The main building of Thorngarten is a lodge made of the same grey stone and beams dark black wood. The roofline, curved like an bison's horn, is made of teal stone shingles. The main doors are framed by a maroon curtain and open to a patio with a planted ash tree whose leaves are have begun to turn orange.
@@ -28,6 +33,8 @@ Gleaming grey stone foundations rise from the slopes of a jagged rocky hill so t
 The main hall, and first floor, of Thorngarten houses food preparation quarters and a large hall where the monks take their meals and perform morning worship.
 
 The south side of the lodge rises up an extra floor to a stained glass window. Depicted in the window is a motif of a gleaming eye whose iris is filled with a two-pronged tower. Hanging just behind this window is a bronze apparatus of mirrors on arms hangs like a mobile from the roof, sending multicolored light streaming through the communion hall. 
+
+![[thorngarten-hall.png]]
 
 ##### Communion Wine
 
@@ -61,4 +68,4 @@ While the solar has a multi-tiered roof there is only chamber within. A mosaic t
 
 #### The Secret Archive
 
-doubles as another vault (containing [[The Warden's Sanctum]]]]), and connects via secret passage to the ritual chambers
+doubles as another vault (containing [[The Sample]]), and connects via secret passage to the ritual chambers
