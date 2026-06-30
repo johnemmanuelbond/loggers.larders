@@ -43,4 +43,4 @@ Adhael is a tall and thin elf with long dark iron-grey hair, a peaked hairline, 
 On a DC 10 perception check, the party notices that he looks suspiciously like their companion Lemm No... except with more clothes, and less blue.
 
 ![[Pasted image 20260630012246.png]]
-(This image of Celebrimbor is the best I can do without AI, but it wouldn't be unlike Adhael to hold a sword.)
+(Illustration by Youzhidaizhebaoziqushangyue. This image of Celebrimbor is the best I can do without AI, but it wouldn't be unlike Adhael to hold a sword.)
