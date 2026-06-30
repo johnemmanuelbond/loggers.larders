@@ -218,7 +218,7 @@ Based on suspicion the players encounter a patrol of guards upon entering each o
 - The bandstands
 - The flower garden
 
-If they players encounter a patrol, they get one round of actions to do something (talk, hide, run, fight) with a DC based on the suspicion table. A failure ends with an escort back to the lcoation given on the suspicion table. For suspcicion > 3, they are escorted with enough guards to outnumber the party 2-1. IF suspicion > 5, Moser will try and confiscate their weapons and throw them in the cells.
+If they players encounter a patrol, they get one round of actions to do something (talk, hide, run, fight) with a DC based on the suspicion table. A failure ends with an escort back to the location given on the suspicion table. For suspicion > 3, they are escorted with enough guards to outnumber the party 2-1. IF suspicion > 5, Moser will try and confiscate their weapons and throw them in the cells.
 
 | Suspicion | Patrol Die | DC  | Escort Location    |
 | --------- | ---------- | --- | ------------------ |

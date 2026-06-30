@@ -26,17 +26,21 @@ With a new wave of [[Harport Colonials|invaders]] from the sea, the reach of the
 
 ###### The plague *is* the phylactery
 
+All he needs is the sample of his *own* blood within the temple to his *own* memory in order to bypass his *own* wards and access his *own* corpse below the shimmer tree. With such a mighty sacrifice in such an arcane place, Adhael will be able to formulate a new strain of his plague, a new strain with his own spirit and will made manifest, and he will live forever.
+
 Unfortunately for Adhael, he is channeling The Gate and certain malevolent gods relish in the opportunity to crush a rival.
-
-
 
 
 #### Statblocks
 ![[kargoe, posessed.png]]
 
 
-#### Goals
-Adhael endeavors to become this world's first *lich*. Centuries ago he
 
-- The blood plague *is* the phylactery
-- 
+#### Description
+
+Adhael is a tall and thin elf with long dark iron-grey hair, a peaked hairline, sharp cheekbones, pointed eyebrows, and piercing blue eyes. His fair skin has an almost eerie sheen to it, like a tarnished mirror. He wears long navy robes with a stripe of dark grey down the middle lined with shining purple. In the center is an embroidered emblem of an eye with a twin spires emblazoned over the pupil. His face features a perpetual frown, though by the manner of his speech you'd think it's his way of smirking.
+
+On a DC 10 perception check, the party notices that he looks suspiciously like their companion Lemm No... except with more clothes, and less blue.
+
+![[Pasted image 20260630012246.png]]
+(This image of Celebrimbor is the best I can do without AI, but it wouldn't be unlike Adhael to hold a sword.)
