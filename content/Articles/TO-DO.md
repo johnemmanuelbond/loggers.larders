@@ -1,11 +1,6 @@
 ###### Session Prep
 
-- Populate Thorngarten monastary 
-	- High abbot [[Vorandel]] stat block and characterization
-	- Cultist group stat block (see matt colville)
-	- Flesh out [[Velchar]] (Rivka's father) as a character
-	- Fill vault(s) with contents
-- Map out shimmer grove, specifically (w/ caverns entrance)
+
 
 - Set up wizard's plan: achieve immortality via lichdom
 	- 1. Retrieve artifact (his own blood) from thorngarten monstary to power up (new archmage statblock)

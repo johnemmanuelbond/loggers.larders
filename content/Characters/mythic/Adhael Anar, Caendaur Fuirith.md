@@ -14,6 +14,11 @@ The position of [[Shimmer Grove]] between the fortress of [[Eitheloth]] and the 
 
 The plague itself does not have much of an effect on living creatures--other than Merlings--but a creature who has contracted the plague mutates horrendously after death, as a [[Beyondlings|spirit]] is drawn from beyond The Gate. This blood plague itself is responsible for the creation of the [[Shay-Luuq]] across [[Nordwythe]] (and their slow spread over the world), including many of the creatures the [[Player Party]] has fought over the course of their adventures.
 
+Humanoids infected with the blood plague have the following addendum to their statblock:
+	*"\[MON\]'s form is unstable and only partially on this plane. \[MON\] has disadvantage on saving throws against conjuration spells and vulnerability to force damage.*
+	*However, \[MON\] can also cast [Etherealness](https://dnd5e.wikidot.com/spell:etherealness) once per day, and has advantage on charisma checks when interacting with spiritual creatures."*
+
+
 #### A less-than gentle repose
 
 Finding his catatonic body in the Tower of *[[Ruined Tower#Baird Arth'hel Ruin|Arth'hel Ruin]]* (before it's fall), a sect of his [[Thorngarten#Members of the order|followers]] carried Adhael and entombed him in a cavern underneath the very [[Shimmer Grove|Shimmer Tree]] he jealously guarded for so long. His body sits preserved in a state of perpetual decay as it is ever-so-slowly torn apart and sundered by the tree's roots.
