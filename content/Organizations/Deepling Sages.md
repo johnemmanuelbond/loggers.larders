@@ -1,0 +1,1 @@
+A secretive organization of mages and scholars who have studied the recurring religious beliefs throughout the world and view them all as pointing towards a true, maleficent, god.

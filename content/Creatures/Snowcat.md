@@ -1,0 +1,1 @@
+The alpha predator on the [[The Aire Tundra]]. The only known natural predator of the [[Aire Aurochs]].

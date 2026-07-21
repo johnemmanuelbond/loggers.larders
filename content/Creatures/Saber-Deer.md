@@ -1,0 +1,1 @@
+Deer with upwards facing saber teeth and horns. While the females are quite docile and domesticable, the males can have fierce territorial battles. There are some domesticated herds within [[Aire Nomads|Aire]] communities.
