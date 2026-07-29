@@ -260,8 +260,8 @@ As the light fades before you stands grendelle, hunched over but still monstrous
 
 **Immortality is mine! Now flee, or die.**
 
-- At will: [Guiding Bolt](https://dnd5e.wikidot.com/spell:guiding-bolt),[Sleep](https://dnd5e.wikidot.com/spell:sleep), dancing lights, thaumaturgy, Speak with Plants*
-- 4/day  [Blinding Smite](https://dnd5e.wikidot.com/spell:blinding-smite), [Ray of enfeeblement](https://dnd5e.wikidot.com/spell:ray-of-enfeeblement), [Blindness](https://dnd5e.wikidot.com/spell:blindness), [Moonbeam](https://dnd5e.wikidot.com/spell:moonbeam)*
+- At will: *[Guiding Bolt](https://dnd5e.wikidot.com/spell:guiding-bolt),[Sleep](https://dnd5e.wikidot.com/spell:sleep), dancing lights, thaumaturgy, Speak with Plants*
+- 4/day  *[Blinding Smite](https://dnd5e.wikidot.com/spell:blinding-smite), [Ray of enfeeblement](https://dnd5e.wikidot.com/spell:ray-of-enfeeblement), [Blindness](https://dnd5e.wikidot.com/spell:blindness), [Moonbeam](https://dnd5e.wikidot.com/spell:moonbeam)*
 - 2/day: *[Fear](https://dnd5e.wikidot.com/spell:fear),[Sickening Radiance](https://dnd5e.wikidot.com/spell:sickening-radiance), [Charm Monster](https://dnd5e.wikidot.com/spell:charm-monster)*
 - 2/day: *[Tree Stride](https://dnd5e.wikidot.com/spell:tree-stride),[Dream](https://dnd5e.wikidot.com/spell:dream)*
 ![[grendelle, shimmer hag.png]]

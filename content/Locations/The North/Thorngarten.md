@@ -148,14 +148,17 @@ Behind a locked (DC 18) door is a square room with a single chest in the middle.
 
 #### Meditation chambers
 
-While the solar has a multi-tiered roof there is only chamber within. A mosaic tiled floor (depicting...), rows of altar alcoves line the walls between the lower windows. These lower windows are made of a thin paperlike material which blocks out the scenery (for focus) and yet lets in diffuse light giving the whole area an air of mistiness. 
+While the solar has a multi-tiered roof there is only one chamber within. A mosaic tiled floor depicts concentric rings of dancing entish trees and satyrs circling one another in celebration. Rows of altar alcoves line the walls between the lower windows. These lower windows are made of a thin paperlike material which blocks out the scenery (for focus) and yet lets in diffuse light giving the whole area an air of mistiness.
 
 **Mid rolls**
-- 
+
+- The satyrs and entish figures are shown exchanging gifts rather than performing a ritual. Whatever this depicts, it appears to commemorate friendship rather than worship.
+- The trees themselves look similar to the skinsplinters, except the bark is a warm brown and the red thorns are replaced with green leaves.
 
 **High Rolls**
-- 
 
+- About half of the alcoves are empty, but in one you find a rough sketch of a brown haired woman with a warm smile (Rivka, this resembles your mother)
+- Several symbols worked into the border of the mosaic are recognizably druidic words (rivka, alberta) they all tell you to "Flee"
 
 ### The Tunnels
 ![[thorngarten-basement.png]]
@@ -170,11 +173,24 @@ The third level holds the Thorngarten crypt, and below that is the vault.
 
 #### Workroom
 
+A broad worktable dominates the center of the room where two monks quietly sort, catalog, and repair various bronze fittings, candles, and ritual implements. Several stout chests line the walls beside shelves stocked with rope, tools, replacement tiles, lamp oil, and other practical supplies used to maintain the monastery. The only sounds are the occasional scratch of a quill and the soft clink of metal against stone.
+
 **Mid rolls**
-- 
+- The two monks are completely absorbed in their work, quietly discussing repairs in elvish.
+- One chest stands open, revealing neatly inventoried equipment rather than valuables.
 
 **High Rolls**
-- 
+- One monk occasionally consults a small ledger before carefully returning an item to a specific chest.
+- Neither monk appears armed beyond a simple utility knife, though both wear the monastery's robes.
+
+| Die Roll | Chest Contents                                                                                                                         |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | [Pearl of Power](https://dnd5e.wikidot.com/wondrous-items:pearl-of-power), several bundles of incense, and 2d6 silver pieces.          |
+| 2        | [Cloak of Protection](https://dnd5e.wikidot.com/wondrous-items:cloak-of-protection), folded beneath several ordinary traveling cloaks. |
+| 3        | [Potion of Fire Breath](https://dnd5e.wikidot.com/wondrous-items:potion-of-fire-breath), lamp oil, and several empty glass flasks.     |
+| 4        | [[Nausea in a Bottle]], a pouch containing three sealed antitoxins, and assorted alchemical ingredients.                               |
+| 5        | [[Necklace of Shade]], wrapped carefully in black cloth alongside several silver holy symbols.                                         |
+| 6        | 2d6 × 50 gp worth of assorted trade goods, tools, candles, and fine bronze fittings.                                                   |
 
 [Pearl of Power](https://dnd5e.wikidot.com/wondrous-items:pearl-of-power)
 [Cloak of Protection](https://dnd5e.wikidot.com/wondrous-items:cloak-of-protection)
@@ -184,35 +200,76 @@ The third level holds the Thorngarten crypt, and below that is the vault.
 
 #### Ritual Chambers
 
-Beneath the archive are more chambers where monks may perform... worship
+Behind two heavily, magically locked doors lies a ritual chamber, 
 
-**Mid rolls**
-- 
+Behind the silvery rune circle, in the middle, 
+
+fill the surrounding rooms. In the center of the main chamber stands an ornate music box ([[Orchestrion]]) whose haunting melody never seems to end. Chained within a ring of silver runes sits a gaunt [fiend](http://dndroll.wikidot.com/creatures:cambion) whose eyes dart constantly about the room, muttering to itself between fits of manic laughter.
+
+**Opening the doors**
+- [[Vorandel]] and Vauric have keys
+- *Knock*, a DC 20 thieves tools, or a DC 25 strength
+- AC 15, HP 20, damage threshold 20
+
+Drifting out of the doors at the moment of their opening is a tinny melancholic tune. Peering into the room, you see a ritual chamber. The walls are dark stone bricks which seem to almost eat up the light like ink. Rust-colored stains have soaked permanently into the black stone of the floor and walls despite repeated scrubbing. Iron braziers, shelves of knives, bundles of herbs, and rows of polished bronze bowls line shelves which decorate the far wall. The center of the chamber is dominated by three runic circles of red, silver, and gold. Sitting next to the silver circle is an [[Orchestrion|ornate music box]], which is only notable because the silver circle is active, glowing, with a skittish-looking, red-skinned, dark-haired, winged creature clad in dark armor and wielding a sick looking falchion.
+
+**Mid Rolls**
+- The channels in the floor were clearly designed to carry blood toward the central bowl. The bowl is empty but there are a few drops headed towards the active circle. The blood is fresh...
+- (Rivka, JM, petunia): You've encountered tieflings before, but this something else
+- (Gilothy): This is a devil, they are from somewhere else the elves call Udun (tranlates to hell) and can be summoned to grant power or knowledge, it's tricky though.
+- (Lemm): This figure is not to be trusted, it's ringing every warning bell from your charlatan background.
 
 **High Rolls**
-- 
+- One of the strange implements on the back shelf is a long thin knife, next to it is a little black shadowbox with a gray sort of leather, covered in blue naturalistic designs. It hits you like a bag of bricks, an Aire tattoo
+- The circle containing the devil is a *magic circle*, like the spell scroll in JM's possession. Looking around you find a pouch with 100gp worth of powdered silver and iron, enough to cast the spell.
 
-[[Orchestrion]]
+**The Devil**
+*Zalviger* is a [Cambion](http://dndroll.wikidot.com/creatures:cambion) who has been held here for a long long time. Vorandel and Vauric occasionally force him into granting knowledge about [[Pan]] in exchange for a reprieve from the [[Orchestrion]].
+
+**High Rolls**
+- The fiend recognizes the monastery's ward immediately. It eagerly offers to explain how it works—and more importantly, how to break it—if someone will simply silence the [[Orchestrion]].
+- The devil reveals a shade with white eyes came to visit her, "Yes, a shadow... creaking and tall, so tall... she gave me blood, I told her what lay beneath the crypt"
+
+*if Zalviger casts plane shift, he will hilarously get caught up in the shimmer tree, for the party to find later.*
+
+
+
 
 #### Crypt
-An octagonal chamber with masoned dark stone walls. No light, nor braziers makes it into this room. From seven of the eight walls protrudes a stone table where a humanoid form covered in a white cloth lies in repose.
+An octagonal chamber with masoned dark stone walls. No light, nor braziers makes it into this room. From seven of the eight walls protrudes a stone table where a humanoid form covered in a white cloth lies in repose. In the middle of the room is an intricate bronze apparatus of layered arms and wheels and embossed plates. Between the tables, in four of the eight corners, is a statue of an elven figure with a melancholic expression on their face. They stand with their hands outstretched.
 
 **Mid rolls**
-- 
+- Clearly there are elven bodies under these white sheets.
+- The apparatus is another one of these arcano-mechanical creations. It has mundane and magical properties. Looking *through* the apparatus you you see a dark hole below and you can it can turn into a ladder.
+- Gilothy, this apparatus is exceedingly well designed. Simply breaking it will block the hole with dangerous, enchanted bronze sheet metal. Inadvisable.
 
 **High Rolls**
-- 
+- On each of the bodies is a painted white sigil. It is not in any language (detect magic reveals signs of abjuration and necromancy, this is a spell component which keepsthe dead from rising)
+- You look closer into the statues' eyes, they are beckoning you to come closer. Before you know it you are holding hands with the statue and a vision enters your mind with a single word.
+
+**Statues**
+1. "Thar" -- past: A deep forest of glimmering blue trees and hanging buildings, elves walk the forest floor gleaming with health, with joy, with pride.
+2. "Gurth" -- death: A putrid swamp with bodies slowly drifting towards the horizon.
+3. "Dartha" -- waits: The monastery looms tall on a hill as the sky cycles between day and night.
+4. "Truth" -- Five motes of light orbit a swirling deep red and orange ball Each mote has a color: stone grey, rust red, cerulean, sky blue, and stark white. 
+
+Speaking the phrase "Thar gurth dartha thannas" or "past death waits truth" causes the central apparatus to wend its way and transform into a ladder leading into the vault.
 
 #### The Vault
-The final room in the basement
-
-doubles as another vault (containing [[The Sample]]), and connects via secret passage to the ritual chambers
+A simple dark room with two items on pedastels. One one pedestal sits a dark metal pyramid with purple embossing and an icon of an eye inscribed with a tower, [[The Sample]]. On the other pedestal is a simple burning candle, emitting the only light.
 
 **Mid rolls**
-- 
+- (anyone but petunia) You sense a magical force field around both pedestals. They are probably trapped.
+- There is no way this candle should be burning down here.
 
 **High Rolls**
-- 
+- The candle itself seems to be made from a strange kind of fat, nothing you've seen before. The candle has only burned about a quarter of the way down, and yet from the 
+- The candle is not burning true fire, it is only half... real, half on this plane.
+
+**Traps**
+- _Identify_ will tell the party that penetrating the force fields signals a _Magic Mouth_ spell which activates the bronze apparatus, trapping them here. Who knows what happens after that.
+- Dispel magic (level 3) can deactivate one of the force fields.
+- Val *may* not trigger the force field, maybe her animation gem can help.
 
 ## Heist
 The Thorngarten monks are there explicitly to protect artifacts related to [[Adhael Anar, Caendaur Fuirith|Adhael]] and his memory. The party wants one of these artifacts, [[The Sample]], and is explicitly moving against the monks' interests. Therefore, the party must navigate the monastery as if it is hostile.
@@ -273,5 +330,8 @@ The aim of the living monks is actually to knock unconscious and capture the int
 ![[high abbott vorandel.png]]
 
 
+#### Invader
 
+Invading
 
+![[grendelle, shimmer hag (2).png]]
