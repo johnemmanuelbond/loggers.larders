@@ -2,6 +2,7 @@
 
 
 
+
 - Set up wizard's plan: achieve immortality via lichdom
 	- 1. Retrieve artifact (his own blood) from thorngarten monstary to power up (new archmage statblock)
 	- 2. Resummon skinsplinterers at thorngarten (shay-luuq blood from frog in sinkhole)
@@ -14,6 +15,17 @@
 	- Witch did something similar prior
 	- Villagers know about demon frog in the pits
 	- 
+
+Final fight
+- Parallel on the material and ethereal plane (effect of the shimmer tree)
+- Elves have advantage on the save to get shunted to the ethereal plane
+- Ghost of adhael looks just like lemm
+- party is infected and can shift, tactically
+- Ritual is happening over both planes
+	- bodies on the physical plane, souls on the ethereal plane
+	- Barty and Stoffenwalders are already there as sacrifices
+- The moons area actually gonna move back into alignment, very powerful magic and directly striving with Pan, JM will feel pain but get invigorated
+
 
 - update player inventory
 - fix bag item card

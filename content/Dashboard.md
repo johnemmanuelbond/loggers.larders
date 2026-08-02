@@ -25,3 +25,4 @@
 - [[Kidnapping Plot]] / [[Harport Racetrack]]
 - [[Terror at the Tower]] / [[Harport Cartographer's Guild]]
 - [[Race to Shimmer Grove]]
+- [[Shimmer Grove]] / [[Thorngarten]] 

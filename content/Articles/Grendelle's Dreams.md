@@ -1,4 +1,4 @@
-Grendelle casts *Dream* on the party in an attempt to communicate. If grendelle wishes, the target must make a DC 15 wisdom saving throw or take 6d6 psychic damage and loose the long rest (+exhaustion)
+Grendelle casts _[Dream](https://dnd5e.wikidot.com/spell:dream)_ on the party in an attempt to communicate. If grendelle wishes, the target must make a DC 15 wisdom saving throw or take 6d6 psychic damage and loose the long rest (+exhaustion)
 
 She hopes to goad the party into foiling Adhael's plans, to this effect she aims to send them to Thorngarten so she can destroy it, and capture [[The Sample]] for herself.
 

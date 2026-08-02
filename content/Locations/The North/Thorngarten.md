@@ -158,7 +158,7 @@ While the solar has a multi-tiered roof there is only one chamber within. A mosa
 **High Rolls**
 
 - About half of the alcoves are empty, but in one you find a rough sketch of a brown haired woman with a warm smile (Rivka, this resembles your mother)
-- Several symbols worked into the border of the mosaic are recognizably druidic words (rivka, alberta) they all tell you to "Flee"
+- Several symbols worked into the border of the mosaic are recognizably druidic words (rivka, alberta) they all tell you to "Dig" ("Delve", "Descend", etc)
 
 ### The Tunnels
 ![[thorngarten-basement.png]]
@@ -183,56 +183,40 @@ A broad worktable dominates the center of the room where two monks quietly sort,
 - One monk occasionally consults a small ledger before carefully returning an item to a specific chest.
 - Neither monk appears armed beyond a simple utility knife, though both wear the monastery's robes.
 
-| Die Roll | Chest Contents                                                                                                                         |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | [Pearl of Power](https://dnd5e.wikidot.com/wondrous-items:pearl-of-power), several bundles of incense, and 2d6 silver pieces.          |
-| 2        | [Cloak of Protection](https://dnd5e.wikidot.com/wondrous-items:cloak-of-protection), folded beneath several ordinary traveling cloaks. |
-| 3        | [Potion of Fire Breath](https://dnd5e.wikidot.com/wondrous-items:potion-of-fire-breath), lamp oil, and several empty glass flasks.     |
-| 4        | [[Nausea in a Bottle]], a pouch containing three sealed antitoxins, and assorted alchemical ingredients.                               |
-| 5        | [[Necklace of Shade]], wrapped carefully in black cloth alongside several silver holy symbols.                                         |
-| 6        | 2d6 × 50 gp worth of assorted trade goods, tools, candles, and fine bronze fittings.                                                   |
-
-[Pearl of Power](https://dnd5e.wikidot.com/wondrous-items:pearl-of-power)
-[Cloak of Protection](https://dnd5e.wikidot.com/wondrous-items:cloak-of-protection)
-[Potion of Fire Breath](https://dnd5e.wikidot.com/wondrous-items:potion-of-fire-breath)
-[[Nausea in a Bottle]]
-[[Necklace of Shade]]
+| Die Roll | Chest Contents                                                                                                                                                       |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | [Pearl of Power](https://dnd5e.wikidot.com/wondrous-items:pearl-of-power), several bundles of incense, and 2d6 silver pieces.                                        |
+| 2        | [Cloak of Protection](https://dnd5e.wikidot.com/wondrous-items:cloak-of-protection), folded beneath several ordinary traveling cloaks.                               |
+| 3        | [Potion of Fire Breath](https://dnd5e.wikidot.com/wondrous-items:potion-of-fire-breath), lamp oil, and several empty glass flasks.                                   |
+| 4        | [[Nausea in a Bottle]], a pouch containing three sealed antitoxins, and assorted alchemical ingredients.                                                             |
+| 5        | A necklace of magenta gems, accompanied by a scrap of vellum reading "[[Necklace of Shade]]" wrapped carefully in black cloth alongside several silver holy symbols. |
+| 6        | 2d6 × 50 gp worth of assorted trade goods, tools, candles, and fine bronze fittings.                                                                                 |
 
 #### Ritual Chambers
 
 Behind two heavily, magically locked doors lies a ritual chamber, 
-
-Behind the silvery rune circle, in the middle, 
-
-fill the surrounding rooms. In the center of the main chamber stands an ornate music box ([[Orchestrion]]) whose haunting melody never seems to end. Chained within a ring of silver runes sits a gaunt [fiend](http://dndroll.wikidot.com/creatures:cambion) whose eyes dart constantly about the room, muttering to itself between fits of manic laughter.
 
 **Opening the doors**
 - [[Vorandel]] and Vauric have keys
 - *Knock*, a DC 20 thieves tools, or a DC 25 strength
 - AC 15, HP 20, damage threshold 20
 
-Drifting out of the doors at the moment of their opening is a tinny melancholic tune. Peering into the room, you see a ritual chamber. The walls are dark stone bricks which seem to almost eat up the light like ink. Rust-colored stains have soaked permanently into the black stone of the floor and walls despite repeated scrubbing. Iron braziers, shelves of knives, bundles of herbs, and rows of polished bronze bowls line shelves which decorate the far wall. The center of the chamber is dominated by three runic circles of red, silver, and gold. Sitting next to the silver circle is an [[Orchestrion|ornate music box]], which is only notable because the silver circle is active, glowing, with a skittish-looking, red-skinned, dark-haired, winged creature clad in dark armor and wielding a sick looking falchion.
+Drifting out of the doors at the moment of their opening is a tinny melancholic tune. Peering into the room, you see a ritual chamber. The walls are dark stone bricks which seem to almost eat up the light like ink. Rust-colored stains have soaked permanently into the black stone of the floor and walls despite repeated scrubbing. Iron braziers, shelves of knives, bundles of herbs, and rows of polished bronze bowls line shelves which decorate the far wall. The center of the chamber is dominated by an inert runic circle, a full 15 feet across, carved into the stone and painted silver. Flanking the center circle are two smaller ritual circles, one gold and one red. Between the central silver circle and the golden one there's an [[Orchestrion|ornate music box]] open and sitting on the floor, from which the melody originates. This is notable because next to music box is that golden circle, active and glowing. Inside, crouching and pawing at the music box with wide, bloodshot eyes is a skittish-looking, red-skinned, winged creature with short dark hair and sharp features. He is clad in dark armor beaten into swirls of metal, on the ground next to him (within the circle) is a large, rusty falchion.
 
 **Mid Rolls**
 - The channels in the floor were clearly designed to carry blood toward the central bowl. The bowl is empty but there are a few drops headed towards the active circle. The blood is fresh...
+- The silver circle in the middle is ringing a bell, you've seen something like it before
 - (Rivka, JM, petunia): You've encountered tieflings before, but this something else
-- (Gilothy): This is a devil, they are from somewhere else the elves call Udun (tranlates to hell) and can be summoned to grant power or knowledge, it's tricky though.
+- (Gilothy): This is a devil, they are from somewhere else the elves call *Udun* (translates to hell) and can be summoned to grant power or knowledge, it's tricky though.
 - (Lemm): This figure is not to be trusted, it's ringing every warning bell from your charlatan background.
 
 **High Rolls**
 - One of the strange implements on the back shelf is a long thin knife, next to it is a little black shadowbox with a gray sort of leather, covered in blue naturalistic designs. It hits you like a bag of bricks, an Aire tattoo
 - The circle containing the devil is a *magic circle*, like the spell scroll in JM's possession. Looking around you find a pouch with 100gp worth of powdered silver and iron, enough to cast the spell.
-
-**The Devil**
-*Zalviger* is a [Cambion](http://dndroll.wikidot.com/creatures:cambion) who has been held here for a long long time. Vorandel and Vauric occasionally force him into granting knowledge about [[Pan]] in exchange for a reprieve from the [[Orchestrion]].
-
-**High Rolls**
-- The fiend recognizes the monastery's ward immediately. It eagerly offers to explain how it works—and more importantly, how to break it—if someone will simply silence the [[Orchestrion]].
-- The devil reveals a shade with white eyes came to visit her, "Yes, a shadow... creaking and tall, so tall... she gave me blood, I told her what lay beneath the crypt"
-
-*if Zalviger casts plane shift, he will hilarously get caught up in the shimmer tree, for the party to find later.*
+- The middle circle reminds you of a circle you saw on a sideways stone wall in the ruin. Rivka, you recall that circle looked like a portal.. at least until you turned it off.
 
 
+![[Zalviger]]
 
 
 #### Crypt
@@ -312,7 +296,6 @@ If they players encounter a monk, they get one round of actions to do something 
 | 6    | Master of Offerings    | Vauric       | His hands tremble constantly except during rituals                                         |
 | 7    | Crypt Keeper           | Mirelune     | Her pupils dilate far wider than any normal creature's                                     |
 | 8    | Living Penitant        | Eldrath      | Has no visible eyelashes, giving his stare a corpse-like intensity                         |
-## Encounter
 
 Should combat be necessary, 1d4 monks arrive per round, capping out at 13. Roll a percentile die to see if [[Velchar]] arrives per turn.
 
@@ -324,14 +307,50 @@ If they are slain, or slay themselves, they arise as a ***Risen Monk*** with the
 
 The aim of the living monks is actually to knock unconscious and capture the intruders, not necessarily kill them. The risen monks, on the other hand, are purely motivated to spread their condition.
 
-#### The abbott
-[[Vorandel]] is a powerful caster and sworn to defend this monastary but is loathe to get his own hands dirty, likely before combat even starts he will have cast [[]]
+#### The Abbott
+[[Vorandel]] is a powerful caster and sworn to defend this monastary but is loathe to get his own hands dirty, likely before combat even starts he will have cast [Guards and wards](https://dnd5e.wikidot.com/spell:guards-and-wards).
 
 ![[high abbott vorandel.png]]
 
+## Invasion
 
-#### Invader
+Both [[Grendelle the Grotesque]] and [[Adhael Anar, Caendaur Fuirith]] are imminently attacking Thorngarten in an attempt to retrieve [[The Sample]].
 
-Invading
+### Inside (Grendelle)
 
+Casting _[Dream](https://dnd5e.wikidot.com/spell:dream)_ on [[Rivka]], [[Grendelle the Grotesque|Grendelle]] has gained access to the monastery, if only spiritually. Once inside Grendelle will attempt to possess people and work towards breaking the wards.
+![[ghost of grendelle.png]]
+
+
+Simultaneously, the ethereal [[Bartholomood]] has been tasked with opening the teleportation circle inside the ritual chamber (he went to talk to [[Zalviger]]).
+
+### Outside (Adhael)
+
+The crack of trees wakes you all in the early morning, followed by disconcerting slurping sounds. Looking out into the early morning twilight you see the forest... sinking. 
+
+Crawling out from a perimeter sinkholes is a veritable hoard of [[Shay-Luuq]]. Bears whose front legs are replaced with a quiver of squidlike tentacles lined with sharp suckers. Deer with crab legs and claws bursting forth through bloody holes from their sides, tails transformed into dripping stinkers. Like crashing waves, they buffet up against the invisible barrier of petrified trees, howling and gurgling with frustration.
+
+![[shay luuq (bear).png]] 
+![[shay luuq (saber-deer).png]]
+
+fighting and killing any of these Shhay-Luuq has a chance of spilling blood on the petrified trees and leading to their awakening.
+- 1 on a d4 to spill blood -> 1d4 rounds until it awakens
+
+![[skinsplinterer.png]]
+
+#### Sinkholes
+If the party should attempt a convention escape, everyone must make a DC 16 dexterity save or fall into a sinkhole where another Shay-Luuq waits. An enourmous transluscent blue and purple frog with inky sacs where its eyes should be. It's whole form glimmers with an eerie light, like jellyfish.
+
+![[trench croaker.png]]
+
+
+### Endgame
+
+If the ward falls, the monastary itself will come under siege
+
+If the wards fall, [[Grendelle the Grotesque|Grendelle]] herself will stalk through an open portal to the ash tree on the patio and begin slaughtering her way towards the vault. 
 ![[grendelle, shimmer hag (2).png]]
+
+
+At the same time, if the teleportation circle is opened in the ritual chamber, Adhael's marionette body, [[Kargoe Bepbiep Trukgohson]] awaits his turn to wreal havoc and find the sample.
+![[kargoe, posessed.png]]
