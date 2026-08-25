@@ -1,8 +1,6 @@
 ###### Session Prep
 
 
-
-
 - Set up wizard's plan: achieve immortality via lichdom
 	- 1. Retrieve artifact (his own blood) from thorngarten monstary to power up (new archmage statblock)
 	- 2. Resummon skinsplinterers at thorngarten (shay-luuq blood from frog in sinkhole)

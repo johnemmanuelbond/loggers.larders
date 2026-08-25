@@ -115,14 +115,14 @@ A square room with five chests. A small hallway yawns open on one side and a clo
 **High Rolls**
 - One of these chests might be a mimic, like you saw in the ruined tower. (advantage on the roll)
 
-| Die roll | Chest contents                                                                                                                                                  |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | Mimic                                                                                                                                                           |
-| 2        | A [[Potion of Far Sight]] with 1d4 charges, fine elven silks, incliduding one [Cloak of Elvenkind](https://dnd5e.wikidot.com/wondrous-items:cloak-of-elvenkind) |
-| 3        | One [potion of water breathing](https://dnd5e.wikidot.com/wondrous-items:potion-of-water-breathing) and several bottles of rendered whale fat.                  |
-| 4        | A clearly magical belt ([Belt of Hill Giant's Strength](https://dnd5e.wikidot.com/wondrous-items:belt-of-giant-strength)) and 1d4+1 fine bear pelts.            |
-| 5        | 2679 gold                                                                                                                                                       |
-| 6        | Reroll                                                                                                                                                          |
+| Die roll | Chest contents                                                                                                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | Mimic                                                                                                                                                         |
+| 2        | A [[Potion of Far Sight]] with 1d4 charges, fine elven silks, including one [Cloak of Elvenkind](https://dnd5e.wikidot.com/wondrous-items:cloak-of-elvenkind) |
+| 3        | One [potion of water breathing](https://dnd5e.wikidot.com/wondrous-items:potion-of-water-breathing) and several bottles of rendered whale fat.                |
+| 4        | A clearly magical belt ([Belt of Hill Giant's Strength](https://dnd5e.wikidot.com/wondrous-items:belt-of-giant-strength)) and 1d4+1 fine bear pelts.          |
+| 5        | 2679 gold                                                                                                                                                     |
+| 6        | Reroll                                                                                                                                                        |
 
 
 #### The Archive
@@ -215,9 +215,7 @@ Drifting out of the doors at the moment of their opening is a tinny melancholic 
 - The circle containing the devil is a *magic circle*, like the spell scroll in JM's possession. Looking around you find a pouch with 100gp worth of powdered silver and iron, enough to cast the spell.
 - The middle circle reminds you of a circle you saw on a sideways stone wall in the ruin. Rivka, you recall that circle looked like a portal.. at least until you turned it off.
 
-
-![[Zalviger]]
-
+The devil's name is [[Zalviger]], and he will grant small boons in exchange for shutting down the [[Orchestrion]].
 
 #### Crypt
 An octagonal chamber with masoned dark stone walls. No light, nor braziers makes it into this room. From seven of the eight walls protrudes a stone table where a humanoid form covered in a white cloth lies in repose. In the middle of the room is an intricate bronze apparatus of layered arms and wheels and embossed plates. Between the tables, in four of the eight corners, is a statue of an elven figure with a melancholic expression on their face. They stand with their hands outstretched.
@@ -317,14 +315,14 @@ The aim of the living monks is actually to knock unconscious and capture the int
 Both [[Grendelle the Grotesque]] and [[Adhael Anar, Caendaur Fuirith]] are imminently attacking Thorngarten in an attempt to retrieve [[The Sample]].
 
 ### Inside (Grendelle)
+[Soundtrack](https://www.youtube.com/watch?v=QfsiOUsZSLg&list=RDQfsiOUsZSLg&start_radio=1&t=810s)
 
 Casting _[Dream](https://dnd5e.wikidot.com/spell:dream)_ on [[Rivka]], [[Grendelle the Grotesque|Grendelle]] has gained access to the monastery, if only spiritually. Once inside Grendelle will attempt to possess people and work towards breaking the wards.
 ![[ghost of grendelle.png]]
 
 
-Simultaneously, the ethereal [[Bartholomood]] has been tasked with opening the teleportation circle inside the ritual chamber (he went to talk to [[Zalviger]]).
-
 ### Outside (Adhael)
+[Soundtrack](https://www.youtube.com/watch?v=ydZhfSH3qQo&list=PL8pzwwD0V6GVEJqtCl-FTDyYeXysgO4UA&index=7)
 
 The crack of trees wakes you all in the early morning, followed by disconcerting slurping sounds. Looking out into the early morning twilight you see the forest... sinking. 
 
@@ -346,11 +344,55 @@ If the party should attempt a convention escape, everyone must make a DC 16 dext
 
 ### Endgame
 
-If the ward falls, the monastary itself will come under siege
+*soundboard*
+	[Escape](https://www.youtube.com/watch?v=BC-SCz07SHQ&list=RDQfsiOUsZSLg&index=7)
+	[FIGHT](https://www.youtube.com/watch?v=Wa6D7PcFpRk&list=PL8pzwwD0V6GVEJqtCl-FTDyYeXysgO4UA&index=10)
 
-If the wards fall, [[Grendelle the Grotesque|Grendelle]] herself will stalk through an open portal to the ash tree on the patio and begin slaughtering her way towards the vault. 
+If the ward falls, the monastary itself will come under siege, gradually the beasties will swarm the monsastary depending on how long the party takes to escape. Grendelle herself is sure to appear:
+	"I offered you escape: You didn't come with me... so you don't want to live!"
+
+The following events occur (every 10 out of game minutes)
+1. (10) Grendelle slashes through the portal paintings, destroying them
+2. (20) The first beasts (1d4-1 bears, 1d6-2 deer) reach the monastary
+3. (30) Adhael finishes aiming the apparatus at a skinsplinterer
+4. (40) Grendelle vanishes onto the ethereal plane
+5. (50) The second wave (1d6-2 bears, 1d10-3 deer) reach the monastary
+6. (60) A skinsplinterer awakens and begins the cascade of events
+
 ![[grendelle, shimmer hag (2).png]]
 
+### Aftermath
 
-At the same time, if the teleportation circle is opened in the ritual chamber, Adhael's marionette body, [[Kargoe Bepbiep Trukgohson]] awaits his turn to wreal havoc and find the sample.
-![[kargoe, posessed.png]]
+*soundboard*
+	[Respite](https://www.youtube.com/watch?v=l-vpJVMWUvk&list=RDl-vpJVMWUvk&start_radio=1&t=1s)
+
+If the party successfully makes a deal with [[Zalviger]] to secure respite, the monsatary will fall. The party can then exit the tunnels, where collapsed (lootable) Monstary awaits them. The elegant curves of elven woodword lay strewn about, crumbled masonry litters the ground alongside the remains of the monastary's inhabitants. The only thing still standing is that foreboding ash tree at the crest of the mount, the one which grendelle appeared through. That portal is gone, replaced by a single figure sitting on a pile of rubble. The face of Kargoe greets you:
+	"Well well well, it's good to see you all survived. I was beginning to think that blasted witch got all she wanted and more..."
+
+**Mid Rolls**
+- The ring of petrified trees is nowhere to be seen.
+- You could spend some time picking through the ruins, looking for useful items.
+
+**High Rolls**
+- If the monsters aren't here anymore, a troubling line of felled trees leads southwest... The village!
+- Roll on the loot table.
+
+**Loot Table (d12)**
+1. A glass case containing a single piece of parchment
+2. Within is an iron box containing 30 elven platinum pieces and a [[Flask of Fear|stoppered glass orb]] with floating motes of black dust.
+3. a small bottle of some kind of [[Hair Oil of Shining|oil]]
+4. a single [[Potato of Protection]]
+5. Mimic (in the form of 2679 gold, which it drops upon death
+6. A [[Potion of Far Sight]] with 1d4 charges
+7. fine elven silks, including one [Cloak of Elvenkind](https://dnd5e.wikidot.com/wondrous-items:cloak-of-elvenkind) 
+8. One [potion of water breathing](https://dnd5e.wikidot.com/wondrous-items:potion-of-water-breathing) 
+9. A clearly magical belt ([Belt of Hill Giant's Strength](https://dnd5e.wikidot.com/wondrous-items:belt-of-giant-strength))
+10. a rolled up tapestry.
+11. [Pearl of Power](https://dnd5e.wikidot.com/wondrous-items:pearl-of-power)
+12. A poisoned barb, DC 15 or be paralyzed for an hour.
+
+
+*Notes*
+- The glass case within the parchment is clearly enchanted. Detect magic reveals evocation and abjuration. Opening/breaking the case requires a DC 14 constitution save or become paralyzed for an hour. 
+- *Declaration*: A long piece of vellum, perfectly preserved,  written in elvish in an elegant hand. The author rather verbosely declares 'The Floes' as his own personal fief. It is signed "Adhael Anar, Caendar Fuirith" signs . An extremely high check recognizes the handwriting and tone as having similarities to the journal you've read from.
+- *Tapestry*: An 8 foot long tapestry depicting the fall of Adhael. There are scenes of a wizard discovering a shimmering tree (reminds you of old gran mimsdottir's quilt). That same wizard leading armies, then holding court, before eventually being laid low by a cadre of glowing elves. At their head is an armored woman with long pitch black hair and grey eyes. Her followers bear the marks of Griffin, Swan, and Mole. The swan is recognizable as the symbol of the [[Neth'Tel]].

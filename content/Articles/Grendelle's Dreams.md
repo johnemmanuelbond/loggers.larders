@@ -20,11 +20,11 @@ Stop me if you can. There's more where this came from.
 
 "Child of the Moon, frostwielder, scion of ashes, we meet again."
 
-"Where have you found yourself now, my dear?"
+"The wayward daughter wants a word?"
 
-"I will enter this monastery one way or another, let me in and I will spare you and your friends"
+"You meddlers skitter around, always in the wrong place at the wrong time. Spare yourselves, avoid the monastery."
 
-"That bumbling dwarf is too "
+[Soundtrack](https://www.youtube.com/watch?v=w0qc5KR3Xww&list=RDw0qc5KR3Xww&start_radio=1)
 
 > You awake with a dark spectre at the door, looking over its shoulder with burning white eyes, just before you can react, it melts through the door.
 
