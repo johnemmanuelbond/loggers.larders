@@ -249,7 +249,7 @@ swap spells:
 ###### Phase 2:
 [Soundtrack](https://www.youtube.com/watch?v=3qQMmJ2ND0E&list=RD3qQMmJ2ND0E&start_radio=1)
 
-Howling with fury, Grendelle pulls from her cloak a [[Shimmering branch]], an object which appears worshipful to you in particular, Rivka. She wraps her charm, this line of sinew with that raven's foot attached around her arm like tournequette. Then, she drives the end of that branch hard into the vein on her right arm.
+Howling with fury, Grendelle pulls from her cloak a [[Shimmering Branch]], an object which appears worshipful to you in particular, Rivka. She wraps her charm, this line of sinew with that raven's foot attached around her arm like tournequette. Then, she drives the end of that branch hard into the vein on her right arm.
 
 The [[Skinsplinterer]] immediately turns it's attention onto Grendelle and moves to attack her (roll) but she shouts a phrase in elvish: **I thangail pant! Minno, a branno i fëa gîn enni!**
 (The gate is open! Enter, and release your spirit unto me!). 

@@ -233,7 +233,7 @@ An octagonal chamber with masoned dark stone walls. No light, nor braziers makes
 1. "Thar" -- past: A deep forest of glimmering blue trees and hanging buildings, elves walk the forest floor gleaming with health, with joy, with pride.
 2. "Gurth" -- death: A putrid swamp with bodies slowly drifting towards the horizon.
 3. "Dartha" -- waits: The monastery looms tall on a hill as the sky cycles between day and night.
-4. "Truth" -- Five motes of light orbit a swirling deep red and orange ball Each mote has a color: stone grey, rust red, cerulean, sky blue, and stark white. 
+4. "Thannas" -- truth: Five motes of light orbit a swirling deep red and orange ball Each mote has a color: stone grey, rust red, cerulean, sky blue, and stark white. 
 
 Speaking the phrase "Thar gurth dartha thannas" or "past death waits truth" causes the central apparatus to wend its way and transform into a ladder leading into the vault.
 

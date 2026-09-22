@@ -1,4 +1,22 @@
 ###### Session Prep
+- update player inventory
+	- Gil: necklace of shade card
+	- Lemm: Contract card
+	- Gil, Lemm, JM: Adhael's Plague card
+
+Final fight
+1. Maps on material and ethereal planes
+2. Adhael Boon cards (9th level per character, temp HP, etc)
+3. Material thread: Grendelle and skinsplinter army
+- Parallel on the material and ethereal plane (effect of the shimmer tree)
+- Elves have advantage on the save to get shunted to the ethereal plane
+- Ghost of adhael looks just like lemm
+- party is infected and can shift, tactically
+- Ritual is happening over both planes
+	- bodies on the physical plane, souls on the ethereal plane
+	- Barty and Stoffenwalders are already there as sacrifices
+- The moons area actually gonna move back into alignment, very powerful magic and directly striving with Pan, JM will feel pain but get invigorated
+
 
 
 - Set up wizard's plan: achieve immortality via lichdom
@@ -14,20 +32,8 @@
 	- Villagers know about demon frog in the pits
 	- 
 
-Final fight
-- Parallel on the material and ethereal plane (effect of the shimmer tree)
-- Elves have advantage on the save to get shunted to the ethereal plane
-- Ghost of adhael looks just like lemm
-- party is infected and can shift, tactically
-- Ritual is happening over both planes
-	- bodies on the physical plane, souls on the ethereal plane
-	- Barty and Stoffenwalders are already there as sacrifices
-- The moons area actually gonna move back into alignment, very powerful magic and directly striving with Pan, JM will feel pain but get invigorated
-
 
 - update player inventory
-- fix bag item card
-- violin (if found)
 
 
 - Write more of [[Adhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].

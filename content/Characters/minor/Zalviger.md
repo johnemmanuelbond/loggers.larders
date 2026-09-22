@@ -41,3 +41,45 @@ Zalviger can offer one of two deals (depending on the nature of negotation)
 
 
 *if Zalviger casts plane shift, he will hilarously get caught up in the shimmer tree, for the party to find later.*
+
+
+
+#### Zalviger's Deal:
+
+_An Infernal Contract between Zalviger, the unbound Baronet of Murder, and Lemm No_
+
+Let it be witnessed by blood and song, and the eternal storm of ruined heavens:
+
+**I. Of the Service Rendered**
+
+The devil **Zalviger** does hereby bind himself to the service of **Lemm No**, named herein as the _commanding party_. Upon his direct command, spoken or otherwise unambiguously conveyed, Zalviger shall seek out and unerringly slay the individual or individuals designated by him.
+
+The command, once given, shall be irrevocable. Neither distance nor protection shall absolve Zalviger from the execution of his appointed command, so long as the commanding party can continue honor this contract. 
+
+**II. Of the Price Owed**
+
+In exchange for this service, the commanding party shall surrender unto Zalviger all murder residing within his heart. Every unspoken wish for another's death, whether born of anger, vengeance, fear, hatred, or mercy, shall belong to Zalviger in perpetuity.
+
+Such desires shall not be diminished by their suppression, nor shall they be excised by the virtue of their intended purpose. That which the commanding would kill, and that which he wishes dead, shall be counted among the offerings of his soul.
+
+**III. Of the Broken Covenant**
+
+From the moment this covenant is sealed, Lemm shall take no life by his own hand, nor shall he knowingly cause the death of another through direct action, save through the duly commanded service of Zalviger.
+
+Should Lemm violate this article, the covenant shall be deemed fulfilled in its entirety, and **his soul shall pass into the keeping of Zalviger**, who shall possess it without limit of time, distance, or mortal claim.
+
+No appeal, absolution, resurrection, or divine intervention shall void this forfeiture.
+
+**IV. Of the Binding**
+
+This covenant shall endure until the fulfillment of its terms, the destruction of either party, or the death of the world's warmth.
+
+The signatories shall seal it in blood, and the agreement shall be witnessed by the tyrant who stands at The Gate.
+
+_Signed and sealed,_
+
+**ZALVIGER**  
+_Forty Eighth Baronet of Murder_
+
+**Lemm No**  
+_Prince of Lemmings_
