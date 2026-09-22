@@ -1,4 +1,4 @@
-###### *Male, [[Andradorans]], 40-something*
+Gi###### *Male, [[Andradorans]], 40-something*
 ###### Location(s): [[Milton]], [[Harport]], [[Map Camp]], [[Ruined Tower]]
 - human from Andradora
 - far traveler
