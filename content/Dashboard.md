@@ -9,7 +9,7 @@
 	- [[Stoffenwald]]
 - [[Harport]]
 
-### Important Characters
+### Important Nonplayer Characters
 - [[Ambrose Pence]]
 - [[Alberta de Genne]]
 
@@ -25,4 +25,4 @@
 - [[Kidnapping Plot]] / [[Harport Racetrack]]
 - [[Terror at the Tower]] / [[Harport Cartographer's Guild]]
 - [[Race to Shimmer Grove]]
-- [[Shimmer Grove]] / [[Thorngarten]] 
+- [[Stoffenwald]] / [[Thorngarten]] / [[Shimmer Grove]] / [[Final Sessions]]

@@ -1,43 +1,19 @@
 ###### Session Prep
-- update player inventory
-	- Gil: necklace of shade card
-	- Lemm: Contract card
-	- Gil, Lemm, JM: Adhael's Plague card
 
-Final fight
-1. Maps on material and ethereal planes
-2. Adhael Boon cards (9th level per character, temp HP, etc)
-3. Material thread: Grendelle and skinsplinter army
-- Parallel on the material and ethereal plane (effect of the shimmer tree)
-- Elves have advantage on the save to get shunted to the ethereal plane
-- Ghost of adhael looks just like lemm
-- party is infected and can shift, tactically
-- Ritual is happening over both planes
-	- bodies on the physical plane, souls on the ethereal plane
-	- Barty and Stoffenwalders are already there as sacrifices
-- The moons area actually gonna move back into alignment, very powerful magic and directly striving with Pan, JM will feel pain but get invigorated
+- Draw two maps
+- Write Stoffenwald entry scene
+	- Vauric and Velchar organizing a defense (arming villagers with torches.)
+- 
 
 
-
-- Set up wizard's plan: achieve immortality via lichdom
-	- 1. Retrieve artifact (his own blood) from thorngarten monstary to power up (new archmage statblock)
-	- 2. Resummon skinsplinterers at thorngarten (shay-luuq blood from frog in sinkhole)
-		- Needs mirror apparatus inside of thorngarten.
-	- 3. Sacrfice Stoffenwald villagers to fuel shummer tree absorption ritual (into original body)
-- Motives:
-	- Saved elfdom but was abandoned in that tower
-	- wants to become lich and rule the world
-- Clues:
-	- Witch did something similar prior
-	- Villagers know about demon frog in the pits
-	- 
-
-
-- update player inventory
-
+##### wiki cleanup
 
 - Write more of [[Adhael Anar, Caendaur Fuirith]]'s backstory and stuff, including [[War of Salt and Snow]].
-- add morian priest to npc list. Is she a grim sage? -> yes, why write the grim sages if you don't use them.
+- Finish writing grendelle's timeline and perspective
+
+Nonplayer characters to actually add
+- best stoffenwald npcs
+- Simba of Korn
 
 - Creatures: statblock to image
 	- Aurochs
@@ -83,15 +59,6 @@ Final fight
 - Write on Balkai and Lake Balkai (dwarven settlements)
 - Flesh out calcar isles: Need a hostile island tribe to discourage sea travel, Harken must have bartered his way through
 
-
-
-###### Grendelle
-- What do after milton?
-- flesh out prophecy. Harald has no idea.
-- Goal: draw out emergence of great hero so she can sacrifice him
-- secondary location. Solton Ruins? Fallen Tower?
-- Fort Solton sits on merling ruins (buried and sealed by elves)
-- Other important characters at solton: quartermaster, loremaster (scholar), etc
 
 
 
